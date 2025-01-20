@@ -1,0 +1,689 @@
+{
+    "BitDefender category": "im",
+    "Forcepoint ThreatSeeker category": "information technology",
+    "Sophos category": "information technology",
+    "Xcitium Verdict Cloud category": "media sharing",
+    "detected_communicating_samples": [
+        {
+            "date": "2024-09-11 18:01:57",
+            "positives": 12,
+            "sha256": "aeb877ca006fd638e431ac84dadf9f626e2bd558b54d4f0fab30a6850d94e6eb",
+            "total": 78
+        },
+        {
+            "date": "2024-07-12 06:17:18",
+            "positives": 60,
+            "sha256": "027aa87e002617121f458734f35cfa2269198eaa9e891dcc01a366d880c89de2",
+            "total": 77
+        },
+        {
+            "date": "2024-06-11 20:21:45",
+            "positives": 65,
+            "sha256": "c561f15acf7aa3836b3f2ab58277451f8314429e39f0a23d707d553070a4c601",
+            "total": 78
+        },
+        {
+            "date": "2024-04-29 10:14:44",
+            "positives": 58,
+            "sha256": "35087fda0dee3e53ac0ad805156f4892a048ad9fc15578ebf4d9a5b876d3f405",
+            "total": 76
+        },
+        {
+            "date": "2024-02-17 12:29:43",
+            "positives": 60,
+            "sha256": "9650017f421940821b099263dafc5c04b70944513f40f5bc08f2892be0aa9b0e",
+            "total": 76
+        },
+        {
+            "date": "2021-07-29 05:02:07",
+            "positives": 45,
+            "sha256": "bb56a63d7279e3aeed1b23f2e4a77792b3be95d36807adc3c081de17fd35ea09",
+            "total": 75
+        },
+        {
+            "date": "2021-03-26 13:51:48",
+            "positives": 2,
+            "sha256": "fdb83565df9445668606c7211d72675549149bdbe5728db2c2b47fe345185ff4",
+            "total": 73
+        },
+        {
+            "date": "2021-02-05 19:01:54",
+            "positives": 59,
+            "sha256": "9618ca477b03a603180b075fdd2538e87c762e90592771e900e57c83adada179",
+            "total": 76
+        },
+        {
+            "date": "2021-02-04 01:40:17",
+            "positives": 56,
+            "sha256": "6ceefbfbd984d69e79d5a8e103cb3591f0c41c99ad55c5e564ce04c9652ec0bc",
+            "total": 76
+        },
+        {
+            "date": "2021-01-22 04:53:17",
+            "positives": 57,
+            "sha256": "932f020a65b07f734c718a30528f0b4803f6b7a19a44b00c0e036c88679bcd3d",
+            "total": 75
+        },
+        {
+            "date": "2021-01-12 20:31:56",
+            "positives": 56,
+            "sha256": "5769fcd1d3f873d07eb69266621832f402d2531ec6551d039b822542b0fc72de",
+            "total": 75
+        },
+        {
+            "date": "2021-01-05 00:41:56",
+            "positives": 54,
+            "sha256": "c8e9f73c1165beaeeca2dc242f377fb799a9184ca070080073d2bda189db29c3",
+            "total": 75
+        },
+        {
+            "date": "2020-12-20 04:12:51",
+            "positives": 60,
+            "sha256": "cf13b6a6b091a245794c78bd769e23005e663df04ce17d85057641a80b50ae2f",
+            "total": 76
+        },
+        {
+            "date": "2020-12-03 15:11:59",
+            "positives": 60,
+            "sha256": "814d683f1f1775ea89bf1de397cdbd608470ba019e78d6cf4dd41dd54c9df2ee",
+            "total": 76
+        },
+        {
+            "date": "2020-12-02 00:09:32",
+            "positives": 55,
+            "sha256": "21a72e3cdb3a4743610553f227bfebf8478ca7b2c477f2341af0d19b2e2b3c3e",
+            "total": 75
+        },
+        {
+            "date": "2020-11-25 15:42:00",
+            "positives": 55,
+            "sha256": "4934f7219b4b6b4432bd106febb700482dcd8191542d067b5f4ceed3a7aefc8c",
+            "total": 75
+        },
+        {
+            "date": "2020-11-25 16:56:06",
+            "positives": 61,
+            "sha256": "e7658b4d239670bec522fa637eb1b6a9f0886c457ae3295fbd5c8d43418fddf3",
+            "total": 75
+        },
+        {
+            "date": "2020-11-18 16:10:31",
+            "positives": 61,
+            "sha256": "37a4333eb82ab10e15f868e3d728ddf65aeaaac1ceac6c1014c99bb00a7d15d4",
+            "total": 75
+        },
+        {
+            "date": "2020-11-03 19:21:54",
+            "positives": 58,
+            "sha256": "65d94ebe4c421cd3648667ff6af78b79ad643eafedb31aecb14d72e82a4db736",
+            "total": 76
+        },
+        {
+            "date": "2020-10-20 02:00:04",
+            "positives": 57,
+            "sha256": "594e48011d55616fe135a299c5e79ee0872113bdc1fad034a7cbe0adae822dce",
+            "total": 74
+        },
+        {
+            "date": "2020-10-20 00:00:38",
+            "positives": 15,
+            "sha256": "0d708b5c28209b2dca3f565fc8c5ced73dde790c022a022fe52cc87c300e0f95",
+            "total": 75
+        },
+        {
+            "date": "2020-10-16 17:01:05",
+            "positives": 3,
+            "sha256": "403613b886954c3775342f0e04d281f873c94e55a3c7484d067d877be0dce3cb",
+            "total": 75
+        },
+        {
+            "date": "2020-10-13 20:31:21",
+            "positives": 47,
+            "sha256": "10abaf199aa026920e14fa6e949df91b00931fb93288200ffdc962712319b665",
+            "total": 74
+        },
+        {
+            "date": "2020-10-01 05:01:37",
+            "positives": 57,
+            "sha256": "ad11cce771e306c470f8121588669ce86a47adc72ee02db3c8e31156552bc2c8",
+            "total": 75
+        },
+        {
+            "date": "2020-10-01 05:01:40",
+            "positives": 53,
+            "sha256": "50ce21dd1bc4189572127e3e8fcab6ac8669549cd2d990a199da165e7b6a27b2",
+            "total": 75
+        },
+        {
+            "date": "2020-09-14 02:31:59",
+            "positives": 34,
+            "sha256": "7c1bbf8de5b822c5cd6a8642730d12029a3068a46ded02352386b222d98dff5d",
+            "total": 74
+        },
+        {
+            "date": "2020-09-13 20:31:44",
+            "positives": 61,
+            "sha256": "23afa1dcf8568800e4caa56e1f804e923ae566c553d134f81a686bbc3fd5c3aa",
+            "total": 74
+        },
+        {
+            "date": "2020-09-13 00:31:30",
+            "positives": 61,
+            "sha256": "4abb942815cffbd114383dbfa1f726838a6037656f976f41a4d1661def37b668",
+            "total": 74
+        },
+        {
+            "date": "2020-08-14 05:31:45",
+            "positives": 62,
+            "sha256": "d44db4fe2c5c4adca98c20c79a893b6446875e1d34925ee8aca68b34e79f1f7f",
+            "total": 75
+        },
+        {
+            "date": "2020-07-23 01:01:41",
+            "positives": 63,
+            "sha256": "815ee9b588b8d22f8fc1e30d05300cbc0930ceeff992aec6fc07f68faa52c28f",
+            "total": 76
+        },
+        {
+            "date": "2020-07-07 04:01:30",
+            "positives": 10,
+            "sha256": "a1e4e10e5db1133ef652f17e4750b9a3ac37ba7f8ea003d354d1d514ee70c03a",
+            "total": 75
+        },
+        {
+            "date": "2020-06-30 19:30:25",
+            "positives": 56,
+            "sha256": "6e289986d0b50ea616146eff90bd7721d0a2d2d131223badc4610d7f27e59348",
+            "total": 75
+        },
+        {
+            "date": "2020-06-28 03:01:50",
+            "positives": 58,
+            "sha256": "7301b62ccdb76e4d7356df9ce3214f753c3bbe9a6a93522071dd01704392e402",
+            "total": 75
+        },
+        {
+            "date": "2020-06-26 19:01:40",
+            "positives": 57,
+            "sha256": "fbfd2bd7d2a3c306e7535cc2a9e01028e87648bbfc162d005ee3ac7b80669df8",
+            "total": 76
+        },
+        {
+            "date": "2020-06-06 20:00:35",
+            "positives": 49,
+            "sha256": "71e0e35567390f2cdae001dffe66f1e7f71e1e48f2b4cb10333a121fb1737c2f",
+            "total": 75
+        },
+        {
+            "date": "2020-06-06 19:56:45",
+            "positives": 45,
+            "sha256": "485736c856bc24c27d68d56891edcfa17777c35fecc2668554c875eec799688a",
+            "total": 75
+        },
+        {
+            "date": "2020-04-08 02:31:45",
+            "positives": 67,
+            "sha256": "e649c5e23d56c1a67fe1a17a0da1fda814cc2af2999b3ecfca0572b72dc4fc86",
+            "total": 75
+        },
+        {
+            "date": "2020-04-07 17:31:29",
+            "positives": 66,
+            "sha256": "c8be6ccfa319182c7e687212f60370ed620b1539c6b4e6ce14d15e878d1471e3",
+            "total": 74
+        },
+        {
+            "date": "2020-04-02 10:01:09",
+            "positives": 66,
+            "sha256": "9f294e91feb4d8e5b14f2d3cf2fa2e3730f761ae9385550d3faca56c5a5f04d5",
+            "total": 74
+        },
+        {
+            "date": "2020-04-02 04:31:44",
+            "positives": 64,
+            "sha256": "ed91e6bc3856f489b9883edd59018572f585c0a02fb959dc79495a5b04355cc3",
+            "total": 74
+        },
+        {
+            "date": "2020-03-31 22:01:37",
+            "positives": 66,
+            "sha256": "cb3240686e15a6d1e9920e2b7dcb22e2a4647e59b7e86fc512499eef263c81d5",
+            "total": 75
+        },
+        {
+            "date": "2020-03-29 00:01:24",
+            "positives": 66,
+            "sha256": "92c64fc2c3f2f98110881324c6d07687572aa1d03397d05761d012e021508cbb",
+            "total": 75
+        },
+        {
+            "date": "2020-03-23 23:01:39",
+            "positives": 67,
+            "sha256": "ce3ee0730b4d4cded586fb03cf8947f90e88863442149f4688be8dd24688ca97",
+            "total": 75
+        },
+        {
+            "date": "2020-03-20 17:01:49",
+            "positives": 67,
+            "sha256": "67fc532fc52ce4f5b5d022014c4f70a6368b9d977603aaeaf26120476eeb5dc1",
+            "total": 75
+        },
+        {
+            "date": "2020-03-17 14:01:36",
+            "positives": 14,
+            "sha256": "ef80100767d0b41acb54ee24f2fa44c1a71c9cb90994e47ce0ba0df54389cf6d",
+            "total": 75
+        },
+        {
+            "date": "2020-03-16 01:31:01",
+            "positives": 67,
+            "sha256": "0e5a2f6da981266b5cb1a23d64a6d79c0a9543c6c8f7bda57be7796dedb362c5",
+            "total": 75
+        },
+        {
+            "date": "2020-03-15 03:30:44",
+            "positives": 67,
+            "sha256": "28bc750c1942f977ab71ecf4ee93cbf6b2822d5a272729914b82ded226a3fde8",
+            "total": 75
+        },
+        {
+            "date": "2020-03-14 11:00:20",
+            "positives": 56,
+            "sha256": "3c15c213169820ba1b65e51b067d5b6e3308751cdcab3134ce776099425ae54f",
+            "total": 73
+        },
+        {
+            "date": "2020-03-13 14:01:56",
+            "positives": 61,
+            "sha256": "28696261b2ae4f36c49b1c59bd256e8d771baa3fa2de21dbe91461af512b4d88",
+            "total": 75
+        },
+        {
+            "date": "2020-03-13 01:31:56",
+            "positives": 61,
+            "sha256": "a465555fedb9e7ff7bb6fc563ed9e7f8bafeb925f9771248965a041a1d71a062",
+            "total": 74
+        },
+        {
+            "date": "2020-03-12 16:32:01",
+            "positives": 62,
+            "sha256": "b2a75918898efe79819ae71667539c43bf3fe046fc1a3048199bccd15a0bcd48",
+            "total": 75
+        },
+        {
+            "date": "2020-03-11 20:01:51",
+            "positives": 61,
+            "sha256": "9e468ba1035cd00f97904d92c49186c2d279e4d3917472b618d1d8541e6a5d3a",
+            "total": 74
+        },
+        {
+            "date": "2020-03-10 11:30:37",
+            "positives": 26,
+            "sha256": "1df65f20336c1227d755e8799447f89a5a05e56cd69a25e4d81565ffa78a313a",
+            "total": 75
+        },
+        {
+            "date": "2020-03-09 11:30:41",
+            "positives": 29,
+            "sha256": "c8758fb954a689e61e56e1de89d1f631a601ce8d05d1ef94270f44ce55a76215",
+            "total": 75
+        },
+        {
+            "date": "2020-03-09 12:31:52",
+            "positives": 48,
+            "sha256": "acba4b422779063aa03c2a3d58c61ac5dd12e1a1b4236a47e3baea98fec48026",
+            "total": 75
+        },
+        {
+            "date": "2020-03-08 21:01:36",
+            "positives": 68,
+            "sha256": "ac067fce1afc5551054872484e9c20a7e5b6e40e27d8859f772de6795550a5bb",
+            "total": 75
+        },
+        {
+            "date": "2020-03-08 06:31:32",
+            "positives": 65,
+            "sha256": "4c50b01354f9950a501778892f02d7d47b0a4021209bcbcf2fb524cdf3d8f31a",
+            "total": 75
+        },
+        {
+            "date": "2020-03-07 17:31:55",
+            "positives": 59,
+            "sha256": "b9197de923aa0ac950aec60f29b3a712f28a4188b7bb914634d3b9adaee4beb0",
+            "total": 74
+        },
+        {
+            "date": "2020-03-07 16:01:09",
+            "positives": 59,
+            "sha256": "37ce70d2b61af5ed094f24a31eb475cdefbab6103c3722f5584ca1c86dcac58b",
+            "total": 74
+        },
+        {
+            "date": "2020-03-07 10:01:55",
+            "positives": 66,
+            "sha256": "dc08008f058a943cf6ccf2b7882a5c35cb5e1ad7d1065d12cfc0b36f317074ec",
+            "total": 75
+        },
+        {
+            "date": "2020-03-07 07:31:08",
+            "positives": 65,
+            "sha256": "90516a4d814c447c07e06bd5a6a4d49052772d18fd0980fe9739752faadb9de9",
+            "total": 75
+        },
+        {
+            "date": "2020-03-07 06:01:26",
+            "positives": 67,
+            "sha256": "cbb2831753fb4284b3c1f4a8cd791d790cf4db5bbcc63eb2ff12dd9a67084aa5",
+            "total": 75
+        },
+        {
+            "date": "2020-03-04 23:01:15",
+            "positives": 60,
+            "sha256": "df25f31572e3835a77575bc901b8e795c9cd0ee7c6f89ded4831a74e830940af",
+            "total": 74
+        },
+        {
+            "date": "2020-03-03 04:01:59",
+            "positives": 66,
+            "sha256": "75f4f586408b549c5bcb0c125d2f56082e4840fc90e2a18cf23f8bbe7f26f921",
+            "total": 75
+        },
+        {
+            "date": "2020-02-10 08:11:56",
+            "positives": 58,
+            "sha256": "ea98ec0481e2c73473205e24a0b24fce07abb3c54b4638f7b1f4d2fb83a03bf7",
+            "total": 74
+        },
+        {
+            "date": "2020-02-27 02:01:45",
+            "positives": 59,
+            "sha256": "fe5a838c280fb9ff5d454e33785ddc2c2a9b99f7fc2c5c57477fa6b912acaa26",
+            "total": 75
+        },
+        {
+            "date": "2020-02-26 09:59:57",
+            "positives": 51,
+            "sha256": "6d1f5c0cabbd74c860e94b7355970bc614976f004bd47f75fb373906c788c909",
+            "total": 72
+        },
+        {
+            "date": "2020-02-24 23:14:00",
+            "positives": 55,
+            "sha256": "e17746721dc1d611064d265b420efaa2790be03d8380c16e9519cab6cb6fa609",
+            "total": 75
+        },
+        {
+            "date": "2019-08-14 06:51:45",
+            "positives": 54,
+            "sha256": "d69629752c79309e516bf6c08ddd3a94405c14658575590177c42205e04bdae4",
+            "total": 68
+        },
+        {
+            "date": "2020-02-23 16:01:53",
+            "positives": 65,
+            "sha256": "1b4c7e36b4c4c93dda03abbb8b20900c55d919642741133798aa4d034acb8b32",
+            "total": 75
+        },
+        {
+            "date": "2020-02-22 07:01:36",
+            "positives": 60,
+            "sha256": "ffe1e1d55f60fb0ff1cf676987f1f747f5d95aec0b6f940c6b247a098c8c67cc",
+            "total": 75
+        },
+        {
+            "date": "2020-02-21 18:31:49",
+            "positives": 65,
+            "sha256": "a56a0339e4d748f4f52b88ca79257085176df455a4d4dbafc23a815aebb1bf5b",
+            "total": 75
+        },
+        {
+            "date": "2020-02-21 05:31:52",
+            "positives": 59,
+            "sha256": "54033533de164fbd230374f321a66000d7ce5d51cf0d169000bb16bb24ff0d0b",
+            "total": 74
+        },
+        {
+            "date": "2020-02-20 11:31:56",
+            "positives": 59,
+            "sha256": "7550b061a7756d28df646992d83acd1255b005074a41d665441904f924cd487a",
+            "total": 74
+        },
+        {
+            "date": "2020-02-15 22:31:32",
+            "positives": 64,
+            "sha256": "61a7d986c9445dcba55a6da5c860f37da97d28d372428f93045fd83be5c1daa9",
+            "total": 75
+        },
+        {
+            "date": "2020-02-15 21:32:01",
+            "positives": 59,
+            "sha256": "cc59b00e2836fafa4b4cd72173efe699533e5747986d14a0c7251c368bea3703",
+            "total": 75
+        },
+        {
+            "date": "2020-02-15 16:31:41",
+            "positives": 59,
+            "sha256": "a25a10d2e5e6916fb6f68358f4fb65709ef0efc512bb5bb586231b040facdbd3",
+            "total": 75
+        },
+        {
+            "date": "2020-02-15 16:31:47",
+            "positives": 60,
+            "sha256": "aff99f8eeeb35fd62e69a53d3f3b0689bea9632b6867c5cfb19d2a08f81ca179",
+            "total": 75
+        },
+        {
+            "date": "2020-02-15 12:01:47",
+            "positives": 59,
+            "sha256": "99047ecae2959ce964a897d52573e6131d4b9147b71d33a7d90422d8b8d759d0",
+            "total": 75
+        },
+        {
+            "date": "2020-02-15 11:31:43",
+            "positives": 50,
+            "sha256": "6bb5a72ea58e6fc2052c65cf98b8a4aa45868ec86dcef77e37e93973d7fb26de",
+            "total": 74
+        },
+        {
+            "date": "2020-02-13 03:01:28",
+            "positives": 64,
+            "sha256": "b6b901420151a3537cbdcd2f3f1c9d7d175d4e9f2e5d209c088026aecce639f4",
+            "total": 75
+        },
+        {
+            "date": "2020-02-12 02:01:46",
+            "positives": 65,
+            "sha256": "fccf3994c129aca959f5d15b392b6851fd86108d14afd8850d317caefc3ae0a8",
+            "total": 75
+        },
+        {
+            "date": "2020-02-10 07:31:31",
+            "positives": 59,
+            "sha256": "26fc5b1b98ff0740f3373e80ed86f89e2f896f20199312cec6e4ff2a29b0f543",
+            "total": 74
+        },
+        {
+            "date": "2020-02-09 10:00:29",
+            "positives": 60,
+            "sha256": "cf2aef8414836f58afa7dfe9e7a7ac921175c2ba014b59925fbee2a1521f2833",
+            "total": 75
+        }
+    ],
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "sbc0mycc.viettel.vn",
+        "remotesigning.viettel.vn",
+        "viettelpaycms.viettel.vn",
+        "vinvoice.viettel.vn",
+        "vtpgw.viettel.vn",
+        "s.viettel.vn",
+        "shop.viettel.vn",
+        "gamegw.viettel.vn",
+        "vtpay9.viettel.vn",
+        "speedtestkv1a.viettel.vn",
+        "affapi.viettel.vn",
+        "api-vinvoice.viettel.vn",
+        "files-maps.viettel.vn",
+        "mydata.viettel.vn",
+        "maps.viettel.vn",
+        "pay.viettel.vn",
+        "chplay.viettel.vn",
+        "mx0.viettel.vn",
+        "dynamic-adsl.viettel.vn",
+        "mail3.viettel.vn",
+        "pay3.viettel.vn",
+        "mail1.viettel.vn",
+        "www.viettel.vn",
+        "edu.viettel.vn",
+        "hoadondientu.viettel.vn",
+        "apigami.viettel.vn",
+        "elearning-api.viettel.vn",
+        "ads.viettel.vn",
+        "cong.viettel.vn",
+        "sinvoice.viettel.vn",
+        "speedtestkv2a.viettel.vn",
+        "email.viettel.vn",
+        "es.viettel.vn",
+        "solutions.viettel.vn",
+        "api-maps.viettel.vn",
+        "vtracking.viettel.vn",
+        "mbooking.viettel.vn",
+        "sandbox.viettel.vn",
+        "sbc2mycc.viettel.vn",
+        "demo-sinvoice.viettel.vn",
+        "sso-public.viettel.vn",
+        "partnerapi.viettel.vn",
+        "qr.viettel.vn",
+        "admin-vinvoice.viettel.vn",
+        "elearning.viettel.vn",
+        "congtacdang-congtacchinhtri.viettel.vn",
+        "vbhxh-2.viettel.vn",
+        "360vds.viettel.vn",
+        "yourway.viettel.vn",
+        "tourist.viettel.vn",
+        "hotrobanhang.viettel.vn",
+        "esign.viettel.vn",
+        "business-sinvoice.viettel.vn",
+        "giamsatxemay.viettel.vn",
+        "quanlyxe.viettel.vn",
+        "esim.viettel.vn",
+        "adsl.viettel.vn",
+        "vtracking2.viettel.vn",
+        "mark.viettel.vn",
+        "loyal.viettel.vn",
+        "erp.viettel.vn",
+        "vsds.viettel.vn",
+        "tuyendung.viettel.vn",
+        "sbc1mycc.viettel.vn",
+        "mve.viettel.vn",
+        "098.viettel.vn",
+        "mms.viettel.vn",
+        "truyxuat.viettel.vn",
+        "ccstatic.viettel.vn",
+        "ns2.viettel.vn",
+        "opennetwork.viettel.vn",
+        "vhttekway.viettel.vn",
+        "solution.viettel.vn",
+        "jobs.viettel.vn",
+        "hcc.viettel.vn",
+        "homewifi3.viettel.vn",
+        "magazine.viettel.vn",
+        "businesss-sinvoice.viettel.vn",
+        "vmark.viettel.vn",
+        "ketnoi.viettel.vn",
+        "vmail.viettel.vn",
+        "naptien.viettel.vn",
+        "wap.viettel.vn",
+        "mykid.viettel.vn",
+        "vcam.viettel.vn",
+        "data.viettel.vn",
+        "api-sinvoice.viettel.vn",
+        "my.viettel.vn",
+        "analysis.viettel.vn",
+        "tadsl.viettel.vn",
+        "nguoidonghanh.viettel.vn",
+        "vbhxh.viettel.vn",
+        "speedtestkv2dp1.viettel.vn",
+        "smartmotor.viettel.vn",
+        "digital.viettel.vn",
+        "iot.viettel.vn",
+        "sso2.viettel.vn",
+        "quanlyxemay.viettel.vn",
+        "sme.viettel.vn",
+        "vtmall.viettel.vn"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "116.100.163.160",
+            "last_resolved": "2024-02-17 12:39:40"
+        },
+        {
+            "ip_address": "116.106.77.217",
+            "last_resolved": "2021-01-22 09:47:10"
+        },
+        {
+            "ip_address": "116.107.169.173",
+            "last_resolved": "2024-07-12 06:22:25"
+        },
+        {
+            "ip_address": "125.235.4.59",
+            "last_resolved": "2019-11-18 06:42:48"
+        },
+        {
+            "ip_address": "171.224.18.5",
+            "last_resolved": "2020-12-02 00:15:41"
+        },
+        {
+            "ip_address": "171.225.126.201",
+            "last_resolved": "2020-11-25 17:02:24"
+        },
+        {
+            "ip_address": "171.236.110.215",
+            "last_resolved": "2020-12-20 04:16:29"
+        },
+        {
+            "ip_address": "171.241.63.242",
+            "last_resolved": "2024-06-11 20:27:17"
+        },
+        {
+            "ip_address": "171.254.132.183",
+            "last_resolved": "2024-04-29 10:19:16"
+        }
+    ],
+    "response_code": 1,
+    "undetected_communicating_samples": [],
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "https://dynamic-ip-adsl.viettel.vn/",
+            "ee6023c76d70641b9a44c2606f3053684ec6db1077d7c2fe434268ca4175a0ec",
+            0,
+            90,
+            "2023-09-01 09:35:46"
+        ],
+        [
+            "http://dynamic-ip-adsl.viettel.vn/",
+            "61a25993fea5777915b68aeb415d9243a57f09631022dedcaab15a0e868398c2",
+            0,
+            90,
+            "2023-06-15 12:45:07"
+        ],
+        [
+            "https://dynamic-ip-adsl.viettel.vn:2376/",
+            "79d42065113dd51cbc8537f6f2b84f92eb28d30fae680bf7ee8430983db9630d",
+            0,
+            92,
+            "2022-05-19 21:08:48"
+        ],
+        [
+            "http://dynamic-ip-adsl.viettel.vn:8000/",
+            "6734d23102ea7089b8296e2a308aef478a7f0ec0976c8dd39e73c0ca16843551",
+            0,
+            91,
+            "2021-10-20 03:21:19"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": null
+}

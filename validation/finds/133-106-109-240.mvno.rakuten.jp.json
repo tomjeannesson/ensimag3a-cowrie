@@ -1,0 +1,28 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "srdk.rakuten.jp",
+        "www.rakuten.jp",
+        "map.rakuten.jp",
+        "campaign.rakuten.jp",
+        "dns01.rakuten.jp",
+        "ntp01.rakuten.jp",
+        "ntp02.rakuten.jp",
+        "ntp04.rakuten.jp",
+        "ntp03.rakuten.jp",
+        "stg-map.rakuten.jp",
+        "dns04.rakuten.jp",
+        "dns02.rakuten.jp",
+        "dns03.rakuten.jp",
+        "portal.reward.rakuten.jp",
+        "api.reward.rakuten.jp",
+        "ads.reward.rakuten.jp",
+        "support.smartpay.rakuten.jp",
+        "image.rental.rakuten.jp",
+        "rental.rakuten.jp"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "[Domain Name] RAKUTEN.JP\n[Name Server] ns01.rakuten.co.jp\n[Name Server] ns02.rakuten.co.jp\n[Name Server] ns03.rakuten.co.jp\n[Name Server] ns04.rakuten.co.jp\n[Name Server] ns05.rakuten.co.jp\n[Name Server] ns06.rakuten.co.jp"
+}

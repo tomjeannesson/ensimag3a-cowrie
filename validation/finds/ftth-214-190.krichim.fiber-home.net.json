@@ -1,0 +1,15 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.fiber-home.net",
+        "brestnik.fiber-home.net",
+        "brestovica.fiber-home.net",
+        "mail.fiber-home.net",
+        "ustina.fiber-home.net",
+        "perushtica.fiber-home.net"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: GDPR Masked\nAdmin Country: GDPR Masked\nAdmin Email: 1e9f9886a6da0a83s@gdpr-masked.com\nAdmin Organization: GDPR Masked\nAdmin Postal Code: GDPR Masked\nAdmin State/Province: GDPR Masked\nCreation Date: 2011-12-02T10:31:36Z\nDNSSEC: Unsigned\nDNSSEC: unsigned\nDomain Name: FIBER-HOME.NET\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nName Server: NS.NETGUARDBG.COM\nName Server: NS1.NETGUARDBG.COM\nName Server: ns.netguardbg.com\nName Server: ns1.netguardbg.com\nRegistrant City: 7bc26f5a5e70d417\nRegistrant Country: BG\nRegistrant Email: 1e9f9886a6da0a83s@gdpr-masked.com\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: 7bc26f5a5e70d417\nRegistrant Name: 7bc26f5a5e70d417\nRegistrant Organization: 7bc26f5a5e70d417\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: 7bc26f5a5e70d417\nRegistrant Postal Code: 7bc26f5a5e70d417\nRegistrant State/Province: d2807d4073ea6bb4\nRegistrant Street: 7bc26f5a5e70d417\nRegistrar Abuse Contact Email: abuse-contact@publicdomainregistry.com\nRegistrar Abuse Contact Phone: +1.2013775952\nRegistrar IANA ID: 303\nRegistrar Registration Expiration Date: 2025-12-02T10:31:36Z\nRegistrar URL: http://www.publicdomainregistry.com\nRegistrar URL: www.publicdomainregistry.com\nRegistrar WHOIS Server: whois.PublicDomainRegistry.com\nRegistrar WHOIS Server: whois.publicdomainregistry.com\nRegistrar: PDR Ltd. d/b/a PublicDomainRegistry.com\nRegistry Admin ID: GDPR Masked\nRegistry Domain ID: 1690055481_DOMAIN_NET-VRSN\nRegistry Expiry Date: 2025-12-02T10:31:36Z\nRegistry Registrant ID: GDPR Masked\nRegistry Tech ID: GDPR Masked\nTech City: GDPR Masked\nTech Country: GDPR Masked\nTech Email: 1e9f9886a6da0a83s@gdpr-masked.com\nTech Organization: GDPR Masked\nTech Postal Code: GDPR Masked\nTech State/Province: GDPR Masked\nUpdated Date: 2024-11-11T08:40:17Z\nUpdated Date: 2024-11-11T08:40:18Z"
+}

@@ -1,0 +1,54 @@
+{
+    "BitDefender category": "business",
+    "Forcepoint ThreatSeeker category": "business and economy",
+    "Sophos category": "general business",
+    "detected_downloaded_samples": [],
+    "detected_urls": [
+        {
+            "positives": 1,
+            "scan_date": "2024-05-28 14:36:43",
+            "total": 95,
+            "url": "http://webmail.macter.com/"
+        }
+    ],
+    "domain_siblings": [
+        "www.macter.com",
+        "cpanel.macter.com",
+        "cpcalendars.macter.com",
+        "webdisk.macter.com",
+        "cpcontacts.macter.com",
+        "mail.macter.com",
+        "dms.macter.com",
+        "ffdb.macter.com",
+        "app.macter.com",
+        "prtmsws.macter.com",
+        "email.macter.com",
+        "prtms.macter.com",
+        "ftp.macter.com",
+        "antivirus-server.macter.com",
+        "exchange-dr.macter.com",
+        "exchange2013.macter.com",
+        "pop.macter.com",
+        "av-servertest.macter.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "115.42.64.86",
+            "last_resolved": "2021-06-19 10:44:34"
+        },
+        {
+            "ip_address": "125.209.118.236",
+            "last_resolved": "2019-11-20 10:53:27"
+        },
+        {
+            "ip_address": "84.33.37.166",
+            "last_resolved": "2024-05-28 14:36:58"
+        }
+    ],
+    "response_code": 1,
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin Email: 6d268d65f77760bcs@ownidentity.com\nCreation Date: 1999-07-06T21:43:16Z\nDNSSEC: unsigned\nDomain Name: MACTER.COM\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nName Server: CP161.SERVERCLIENTI.COM\nName Server: CP195.SERVERCLIENTI.COM\nName Server: cp161.serverclienti.com\nName Server: cp195.serverclienti.com\nRegistrant Country: IT\nRegistrant Email: 6d268d65f77760bcs@ownidentity.com\nRegistrant Organization: 7e3c99acbe1313ef\nRegistrant State/Province: 6eac3cf77847c848\nRegistrar Abuse Contact Email: tldadmin@ownidentity.com\nRegistrar Abuse Contact Phone: +1.3023531353\nRegistrar IANA ID: 985\nRegistrar Registration Expiration Date: 2028-07-06T21:43:16Z\nRegistrar URL: http://www.ownidentity.com\nRegistrar WHOIS Server: whois.ownidentity.com\nRegistrar: Own Identity, Inc.\nRegistry Domain ID: 7803837_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2028-07-06T21:43:16Z\nTech Email: 6d268d65f77760bcs@ownidentity.com\nUpdated Date: 2024-03-15T05:01:53Z\nUpdated Date: 2024-12-04T13:11:58Z",
+    "whois_timestamp": 1555496048
+}

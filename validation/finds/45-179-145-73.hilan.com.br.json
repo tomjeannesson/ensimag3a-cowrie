@@ -1,0 +1,30 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "planos.hilan.com.br",
+        "chatapi.hilan.com.br",
+        "pabx.hilan.com.br",
+        "dns1.hilan.com.br",
+        "ofertas.hilan.com.br",
+        "teste.hilan.com.br",
+        "tv.hilan.com.br",
+        "ftp.hilan.com.br",
+        "imap.hilan.com.br",
+        "pop.hilan.com.br",
+        "cpanel.hilan.com.br",
+        "ns1.hilan.com.br",
+        "ns2.hilan.com.br",
+        "mail.hilan.com.br",
+        "www.hilan.com.br",
+        "autodiscover.hilan.com.br",
+        "webdisk.hilan.com.br",
+        "cpcontacts.hilan.com.br",
+        "cloud.hilan.com.br",
+        "webmail.hilan.com.br",
+        "cpcalendars.hilan.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20200217\nchanged: 20240214\nchanged: 20240606\ncountry: BR\ncreated: 20091217\ncreated: 20180726 #18617014\ncreated: 20190614\ndomain: hilan.com.br\ne-mail: 05bdedc02391e41as@hilan.com.br\ne-mail: 74121bd33f7b5120s@gmail.com\nexpires: 20300726\nnic-hdl-br: GUHVI5\nnic-hdl-br: MRCSI81\nnserver: adam.ns.cloudflare.com\nnserver: kara.ns.cloudflare.com\nstatus: published"
+}

@@ -1,0 +1,12 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.feromedia.eu",
+        "dns1.feromedia.eu",
+        "dns2.feromedia.eu"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Domain: feromedia.eu\nEmail: ce8709ba021bf08bs@domena.pl\nOrganisation: Domena.pl sp. z o.o. | WWW.DOMENA.PL - HOSTING, VPS, SERWERY DEDYKOWANE, DOMENY, FAX INTERNETOWY, GRAFIKA, REKLAMA!\nRegistrant: 3432650ec337c945\ndns1.feromedia.pl\nfns1.42.pl\nfns2.42.pl"
+}

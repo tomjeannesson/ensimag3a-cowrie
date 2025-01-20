@@ -1,0 +1,123 @@
+{
+    "Forcepoint ThreatSeeker category": "travel",
+    "detected_communicating_samples": [
+        {
+            "date": "2020-12-19 11:53:53",
+            "positives": 26,
+            "sha256": "ecee44992b84f86f98c14b5af66451c9e6306e7db33d038cef6d7292988da559",
+            "total": 76
+        }
+    ],
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "scanner151.openportstats.com",
+        "scanner31.openportstats.com",
+        "www.openportstats.com",
+        "1ea8d6cdfa468cf4ac64f9938cec8222b34c7334scanner.openportstats.com",
+        "countries.openportstats.com",
+        "scanner1.openportstats.com",
+        "srv.openportstats.com",
+        "pop3.openportstats.com",
+        "correo.openportstats.com",
+        "mail01.openportstats.com",
+        "beta.openportstats.com",
+        "scanner20.openportstats.com",
+        "smtp1.openportstats.com",
+        "mx20.openportstats.com",
+        "ftp.openportstats.com",
+        "vpn.openportstats.com",
+        "server.openportstats.com",
+        "vps.openportstats.com",
+        "scanner9.openportstats.com",
+        "scanner11.openportstats.com",
+        "newmail.openportstats.com",
+        "mail11.openportstats.com",
+        "mailsrv.openportstats.com",
+        "scanner19.openportstats.com",
+        "mailgw.openportstats.com",
+        "scanner10.openportstats.com",
+        "mailbox.openportstats.com",
+        "mx.openportstats.com",
+        "m.openportstats.com",
+        "box.openportstats.com",
+        "spam.openportstats.com",
+        "mx7.openportstats.com",
+        "ns.openportstats.com",
+        "ns1.openportstats.com",
+        "post.openportstats.com",
+        "authsmtp.openportstats.com",
+        "mx3.openportstats.com",
+        "comune.openportstats.com",
+        "mail02.openportstats.com",
+        "barracuda.openportstats.com",
+        "scanner27.openportstats.com",
+        "scanner25.openportstats.com",
+        "smtp.openportstats.com",
+        "mta1.openportstats.com",
+        "mail2.openportstats.com",
+        "scanner29.openportstats.com",
+        "scanner7.openportstats.com",
+        "hidm.openportstats.com",
+        "8zez.openportstats.com",
+        "scanner3.openportstats.com",
+        "scanner6.openportstats.com",
+        "mail.openportstats.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "199.59.243.226",
+            "last_resolved": "2024-06-20 05:03:39"
+        },
+        {
+            "ip_address": "51.159.21.96",
+            "last_resolved": "2020-07-03 16:55:10"
+        },
+        {
+            "ip_address": "91.195.240.94",
+            "last_resolved": "2024-03-22 11:25:31"
+        }
+    ],
+    "response_code": 1,
+    "undetected_communicating_samples": [],
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "http://scanner.openportstats.com/",
+            "2242e11b0a749e2d94c11c219e96a7dfb3413e45162c1339e35f1c726e1ff0dc",
+            0,
+            92,
+            "2024-05-09 22:15:48"
+        ],
+        [
+            "http://scanner.openportstats.com:41058/",
+            "ac1878a9f52950a874a7b9d9db82c0984a8433f4cfe8d6eb40f84c1a395db405",
+            0,
+            92,
+            "2024-05-09 22:12:00"
+        ],
+        [
+            "https://scanner.openportstats.com/",
+            "92f2471b4c1ba753d31c908300cd6652accfecc21ca16402162e826f277ca6b2",
+            0,
+            92,
+            "2024-04-01 16:50:46"
+        ],
+        [
+            "http://scanner.openportstats.com:44536/",
+            "27da2be93297e9b1c701b3ea7613d4749b90ce38cc59ee79c2fe4e463d96e842",
+            0,
+            90,
+            "2023-12-02 23:16:23"
+        ],
+        [
+            "http://scanner.openportstats.com/find",
+            "0a81a1475f217b771dd92aeef13e04a988efb2527a1007a7fb9f2d350e4a8aed",
+            0,
+            89,
+            "2021-07-28 03:13:07"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Create date: 2024-05-25 00:00:00\nDomain name: openportstats.com\nDomain registrar id: 3882\nDomain registrar url: http://namerider.com\nExpiry date: 2025-05-25 00:00:00\nName server 1: ns1.bodis.com\nName server 2: ns2.bodis.com\nQuery time: 2024-05-26 10:00:25\nUpdate date: 2024-05-25 00:00:00"
+}

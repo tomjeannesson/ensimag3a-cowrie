@@ -1,0 +1,14 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns1.yashtel.co.in",
+        "www.yashtel.co.in",
+        "webmail.yashtel.co.in",
+        "smtp.yashtel.co.in",
+        "ns2.yashtel.co.in"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nCreation Date: 2010-06-11T06:45:54Z\nDNSSEC: unsigned\nDomain Name: yashtel.co.in\nDomain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited\nName Server: ns1.yashtel.co.in\nName Server: ns2.yashtel.co.in\nRegistrant City: 1f8f4166599d23ee\nRegistrant Country: IN\nRegistrant Email: b1f2772c6dea32e5s@\nRegistrant Fax Ext: 1f8f4166599d23ee\nRegistrant Fax: 1f8f4166599d23ee\nRegistrant Name: 1f8f4166599d23ee\nRegistrant Organization: 4c69131154be9eef\nRegistrant Phone Ext: 1f8f4166599d23ee\nRegistrant Phone: 1f8f4166599d23ee\nRegistrant Postal Code: 1f8f4166599d23ee\nRegistrant State/Province: 10d328988b125e53\nRegistrant Street: 1f8f4166599d23ee\nRegistrar Abuse Contact Email: abuse@publicdomainregistry.com\nRegistrar Abuse Contact Phone: +1.2013775952\nRegistrar IANA ID: 801217\nRegistrar URL: https://publicdomainregistry.com/\nRegistrar: Endurance Digital Domain Technology Private Limited\nRegistry Admin ID: REDACTED FOR PRIVACY\nRegistry Domain ID: D4267819-IN\nRegistry Expiry Date: 2025-06-11T06:45:54Z\nRegistry Registrant ID: REDACTED FOR PRIVACY\nRegistry Tech ID: REDACTED FOR PRIVACY\nTech City: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nUpdated Date: 2024-06-15T05:41:08Z"
+}

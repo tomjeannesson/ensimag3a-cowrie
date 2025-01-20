@@ -1,0 +1,129 @@
+{
+    "Webutation domain info": {
+        "Adult content": "no",
+        "Safety score": 70,
+        "Verdict": "unsure"
+    },
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "103.11.81.254",
+            "last_resolved": "2017-06-07 00:00:00"
+        },
+        {
+            "ip_address": "104.21.19.35",
+            "last_resolved": "2022-01-09 15:17:24"
+        },
+        {
+            "ip_address": "104.21.49.192",
+            "last_resolved": "2021-01-21 11:35:50"
+        },
+        {
+            "ip_address": "104.24.102.222",
+            "last_resolved": "2019-08-21 16:16:37"
+        },
+        {
+            "ip_address": "104.24.103.222",
+            "last_resolved": "2019-08-21 16:16:37"
+        },
+        {
+            "ip_address": "139.84.165.87",
+            "last_resolved": "2024-08-13 10:08:01"
+        },
+        {
+            "ip_address": "162.244.24.116",
+            "last_resolved": "2024-12-19 13:13:24"
+        },
+        {
+            "ip_address": "172.67.166.146",
+            "last_resolved": "2020-05-27 18:28:36"
+        },
+        {
+            "ip_address": "172.67.184.241",
+            "last_resolved": "2022-01-09 15:17:33"
+        },
+        {
+            "ip_address": "184.168.221.11",
+            "last_resolved": "2015-06-13 00:00:00"
+        },
+        {
+            "ip_address": "43.255.165.24",
+            "last_resolved": "2018-02-07 00:00:00"
+        },
+        {
+            "ip_address": "43.255.165.254",
+            "last_resolved": "2015-12-18 00:00:00"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "mirrors.estointernet.in",
+        "invoicer.estointernet.in",
+        "old-login.estointernet.in",
+        "stmum.estointernet.in",
+        "rdns.estointernet.in",
+        "myaccount.estointernet.in",
+        "n.estointernet.in",
+        "stdel.estointernet.in",
+        "login.estointernet.in",
+        "ftp.estointernet.in",
+        "s1.estointernet.in",
+        "tv.estointernet.in",
+        "console.estointernet.in",
+        "stblt.estointernet.in",
+        "portal.estointernet.in",
+        "ubuntu-releases.mirrors.estointernet.in",
+        "mx.mirrors.estointernet.in",
+        "eclipse.mirrors.estointernet.in",
+        "stpbn.estointernet.in",
+        "ubuntu.estointernet.in",
+        "centos.mirrors.estointernet.in",
+        "wifi.estointernet.in",
+        "www.estointernet.in"
+    ],
+    "undetected_downloaded_samples": [],
+    "undetected_referrer_samples": [
+        {
+            "date": "2021-04-18 14:17:13",
+            "positives": 0,
+            "sha256": "e4e88d6aad8c6f90e9025f5a871c9b2412a21be00d0d2b3cd5d693a7913aa7a3",
+            "total": 72
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://estointernet.in/",
+            "2fc8d79a89a345f5f668c29bdcac145d7a67eafbeb13a991fb271e4d5e5602e1",
+            0,
+            96,
+            "2024-11-01 12:39:45"
+        ],
+        [
+            "http://estointernet.in/",
+            "cd1c4d1fd3aa2b1f9f54c4497f885968152f24c841494759bb1be6c0e19e60c7",
+            0,
+            96,
+            "2024-11-01 04:39:06"
+        ],
+        [
+            "https://estointernet.in/service-plans",
+            "380bf91b90146285df6ebbf3f6d717e9db6acb3284012d61e5a09b512ede49b0",
+            0,
+            80,
+            "2020-11-04 12:07:29"
+        ],
+        [
+            "https://estointernet.in/contact-us",
+            "8706c475c19170fe46a0c1b9ff7409132f3b0a82da4630dc3cc8e3b561c722f8",
+            0,
+            78,
+            "2020-08-31 09:23:26"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nCreation Date: 2014-12-29T15:20:13Z\nDNSSEC: unsigned\nDomain Name: estointernet.in\nDomain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited\nName Server: kanye.ns.cloudflare.com\nName Server: karina.ns.cloudflare.com\nRegistrant City: 1f8f4166599d23ee\nRegistrant Country: IN\nRegistrant Email: b1f2772c6dea32e5s@\nRegistrant Fax Ext: 1f8f4166599d23ee\nRegistrant Fax: 1f8f4166599d23ee\nRegistrant Name: 1f8f4166599d23ee\nRegistrant Organization: 3432650ec337c945\nRegistrant Phone Ext: 1f8f4166599d23ee\nRegistrant Phone: 1f8f4166599d23ee\nRegistrant Postal Code: 1f8f4166599d23ee\nRegistrant State/Province: 2ba514e0574f5977\nRegistrant Street: 1f8f4166599d23ee\nRegistrar IANA ID: 146\nRegistrar URL: www.godaddy.com\nRegistrar: GoDaddy.com, LLC\nRegistry Admin ID: REDACTED FOR PRIVACY\nRegistry Domain ID: D9060889-IN\nRegistry Expiry Date: 2024-12-29T15:20:13Z\nRegistry Registrant ID: REDACTED FOR PRIVACY\nRegistry Tech ID: REDACTED FOR PRIVACY\nTech City: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nUpdated Date: 2023-12-11T15:55:37Z",
+    "whois_timestamp": 1734614008
+}

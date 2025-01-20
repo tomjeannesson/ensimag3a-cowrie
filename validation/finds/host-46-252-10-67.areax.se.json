@@ -1,0 +1,15 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "mail.areax.se",
+        "ns1.areax.se",
+        "ns2.areax.se",
+        "www.areax.se",
+        "portal.areax.se",
+        "ftp.areax.se"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "created: 2022-11-27\ndnssec: unsigned delegation\ndomain: areax.se\nexpires: 2024-11-27\nholder: CT-395563814\nmodified: 2023-11-20\nnserver: a.portsdns.se 45.54.35.101 2607:f740:e009:0:0:0:0:1\nnserver: b.portsdns.net\nregistrar: Abion AB\nstate: active\nstatus: ok"
+}

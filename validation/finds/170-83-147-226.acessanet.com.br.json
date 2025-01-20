@@ -1,0 +1,20 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.acessanet.com.br",
+        "tv.acessanet.com.br",
+        "mboss.acessanet.com.br",
+        "interline.acessanet.com.br",
+        "ba.acessanet.com.br",
+        "app.acessanet.com.br",
+        "blog.acessanet.com.br",
+        "office.acessanet.com.br",
+        "170-83-144-7.acessanet.com.br",
+        "170-83-144-252.acessanet.com.br",
+        "www.home.acessanet.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20220303\nchanged: 20231020\ncountry: BR\ncreated: 20140913 #13326500\ncreated: 20220303\ndomain: acessanet.com.br\ne-mail: 9e69b4cecdf15fc8s@acessanet.com\nexpires: 20250913\nnic-hdl-br: ACTLT113\nnserver: ns1.dns-parking.com\nnserver: ns2.dns-parking.com\nstatus: published"
+}

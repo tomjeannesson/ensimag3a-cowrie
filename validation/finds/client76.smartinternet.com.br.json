@@ -1,0 +1,25 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ixc.smartinternet.com.br",
+        "sp1.smartinternet.com.br",
+        "mail.smartinternet.com.br",
+        "ns1.smartinternet.com.br",
+        "ns6.smartinternet.com.br",
+        "monsta.smartinternet.com.br",
+        "cloud.smartinternet.com.br",
+        "server.smartinternet.com.br",
+        "ns5.smartinternet.com.br",
+        "nperf.smartinternet.com.br",
+        "lg.smartinternet.com.br",
+        "ns2.smartinternet.com.br",
+        "ns3.smartinternet.com.br",
+        "abr.smartinternet.com.br",
+        "band.smartinternet.com.br",
+        "ns4.smartinternet.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20220706\nchanged: 20230816\nchanged: 20240214\ncountry: BR\ncreated: 20120312\ncreated: 20120923\ncreated: 20160104 #15067478\ndomain: smartinternet.com.br\ne-mail: 3c3d334158ebfea1s@smartsolucoes.com.br\ne-mail: db5faef26ca44634s@gmail.com\nexpires: 20270104\nnic-hdl-br: JADVI6\nnic-hdl-br: PEHEN150\nnserver: ns1.pedrohenrique.dev\nnserver: ns2.pedrohenrique.dev\nstatus: published"
+}

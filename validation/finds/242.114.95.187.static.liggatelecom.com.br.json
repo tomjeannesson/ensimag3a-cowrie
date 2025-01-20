@@ -1,0 +1,27 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "suporte.liggatelecom.com.br",
+        "vendas.liggatelecom.com.br",
+        "ceres.liggatelecom.com.br",
+        "apus.liggatelecom.com.br",
+        "www.liggatelecom.com.br",
+        "tvc.liggatelecom.com.br",
+        "comunicados.liggatelecom.com.br",
+        "cacti.liggatelecom.com.br",
+        "capm.liggatelecom.com.br",
+        "cob.liggatelecom.com.br",
+        "assets.liggatelecom.com.br",
+        "dns1-tmp.liggatelecom.com.br",
+        "plugin.liggatelecom.com.br",
+        "email.liggatelecom.com.br",
+        "dns2.liggatelecom.com.br",
+        "dns1.liggatelecom.com.br",
+        "mktsf.liggatelecom.com.br",
+        "lp.liggatelecom.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20240229\nchanged: 20240322\nchanged: 20240502\ncountry: BR\ncreated: 20220112 #23916359\ncreated: 20221227\ncreated: 20240322\ndomain: liggatelecom.com.br\ndsstatus: 20241217 DSOK\ne-mail: 10c9915a721e2312s@liggavc.com.br\ne-mail: d7ff576a6213753bs@liggatelecom.com.br\nexpires: 20260112\nnic-hdl-br: ADLIG4\nnic-hdl-br: LITEL36\nnserver: ns1.a0.impervasecuredns.net\nnserver: ns1.a1.impervasecuredns.net\nnserver: ns1.a2.impervasecuredns.net\nstatus: published"
+}

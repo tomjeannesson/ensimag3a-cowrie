@@ -1,0 +1,488 @@
+{
+    "Webutation domain info": {
+        "Adult content": "no",
+        "Safety score": 70,
+        "Verdict": "unsure"
+    },
+    "alphaMountain.ai category": "Ads/Analytics (alphaMountain.ai)",
+    "detected_communicating_samples": [
+        {
+            "date": "2024-08-03 18:30:06",
+            "positives": 54,
+            "sha256": "f1ebab5e72943a8fab9cddb0e1016f3127c5031cbbf8f073acd8c6ebfb797751",
+            "total": 78
+        },
+        {
+            "date": "2024-02-04 08:13:06",
+            "positives": 60,
+            "sha256": "10e9a990da0c1f23c9aced4f4163976a842d9158ceedc513fbff7e9504d05623",
+            "total": 76
+        },
+        {
+            "date": "2021-02-05 17:41:58",
+            "positives": 58,
+            "sha256": "f917f6cd3d3e728368277e4e9d61da48abc9910e3ae87aacb3b87377968a5bf5",
+            "total": 76
+        },
+        {
+            "date": "2020-12-25 22:27:56",
+            "positives": 59,
+            "sha256": "4be05fc2260d14c075669432020ff0a01bd73be533d182909ea396ce952bc651",
+            "total": 76
+        },
+        {
+            "date": "2020-09-23 20:36:13",
+            "positives": 61,
+            "sha256": "b931054b6d9ffd06d1642f634b8c0b994898059cdec57f3c75aacdbcec1085f9",
+            "total": 75
+        },
+        {
+            "date": "2020-09-13 20:31:44",
+            "positives": 61,
+            "sha256": "23afa1dcf8568800e4caa56e1f804e923ae566c553d134f81a686bbc3fd5c3aa",
+            "total": 74
+        },
+        {
+            "date": "2020-09-13 20:31:41",
+            "positives": 53,
+            "sha256": "60918d48c4870247ccfaf17e6fe8df981b414a2dc60ed0f4591f0b967a81f312",
+            "total": 74
+        },
+        {
+            "date": "2020-08-14 13:31:43",
+            "positives": 62,
+            "sha256": "3015a4cf670764d70dcfa2caf71fae07be4ebca91dc340100772918a298677bd",
+            "total": 75
+        },
+        {
+            "date": "2020-06-25 22:29:35",
+            "positives": 1,
+            "sha256": "abdb4900e02af79c48046785b8e5b900fdc71b12a99d88862306f98d45f78589",
+            "total": 76
+        },
+        {
+            "date": "2020-06-11 16:00:49",
+            "positives": 55,
+            "sha256": "1314a12570bef72ff76b05764456120c10b32b9c6a22df24e6874951abaa6092",
+            "total": 76
+        },
+        {
+            "date": "2020-06-12 08:26:01",
+            "positives": 26,
+            "sha256": "9c97b8f2a35b73950eed47262999bf7d0ae87963c6d606a21d72dbb6e6a35385",
+            "total": 76
+        },
+        {
+            "date": "2020-05-17 06:03:44",
+            "positives": 34,
+            "sha256": "34eb1c8bfd21a6d052fc103cc6689e4fa327749d171af56c523f56d85c0dbc09",
+            "total": 75
+        },
+        {
+            "date": "2020-04-17 10:31:56",
+            "positives": 65,
+            "sha256": "a323e47a7260b2849839d925f8896c2432a0795a9a4ab73ed7105c47b29d6327",
+            "total": 75
+        },
+        {
+            "date": "2020-04-02 04:31:44",
+            "positives": 64,
+            "sha256": "ed91e6bc3856f489b9883edd59018572f585c0a02fb959dc79495a5b04355cc3",
+            "total": 74
+        },
+        {
+            "date": "2020-03-10 11:30:37",
+            "positives": 26,
+            "sha256": "1df65f20336c1227d755e8799447f89a5a05e56cd69a25e4d81565ffa78a313a",
+            "total": 75
+        },
+        {
+            "date": "2020-03-09 11:30:37",
+            "positives": 29,
+            "sha256": "475f73bc711e94afd7bd810fc519e3c9b5532709bd839bea11c96ad921f67e01",
+            "total": 75
+        },
+        {
+            "date": "2019-08-13 09:41:41",
+            "positives": 50,
+            "sha256": "021390aade9393ae14a292a41cd1c0318a084324441271d2f7c572d8f2ff9392",
+            "total": 68
+        },
+        {
+            "date": "2018-06-10 19:04:20",
+            "positives": 60,
+            "sha256": "3abc54bb7494725fe2340a98eaa88c3ab6491bd320eb442604fd896f9f1a652d",
+            "total": 71
+        },
+        {
+            "date": "2019-08-14 06:51:25",
+            "positives": 55,
+            "sha256": "4c088e3704075051b9655a039eb54df8c060f965b0f469431aeb96f6b9cc3bb0",
+            "total": 68
+        },
+        {
+            "date": "2020-02-21 22:31:30",
+            "positives": 60,
+            "sha256": "e5bccca4b3c9973ea3a42671b7876990dbf5726964aad692d11401760d94888e",
+            "total": 75
+        },
+        {
+            "date": "2020-02-19 19:01:57",
+            "positives": 61,
+            "sha256": "b924de01f9e41388c2feaa54a8ee13bf487703eee8e26ef1d10a042eadf2f963",
+            "total": 75
+        }
+    ],
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [
+        {
+            "date": "2022-02-18 02:30:37",
+            "positives": 28,
+            "sha256": "6b8e222c65b290827ffe967c0fc1c0d42a1329c3e987466c36e2286e7bd7ff4d",
+            "total": 73
+        },
+        {
+            "date": "2021-12-14 02:35:26",
+            "positives": 1,
+            "sha256": "bcb7cdba9ec11ad89da9b44672c415ad9b1316192fbf180e6a21b395d1968f09",
+            "total": 70
+        },
+        {
+            "date": "2021-01-25 00:55:28",
+            "positives": 28,
+            "sha256": "99913fee728e9bead96df74cedbb617226541fc5bb7ac19ec59adce901fd1512",
+            "total": 73
+        },
+        {
+            "date": "2020-09-04 08:31:01",
+            "positives": 33,
+            "sha256": "d7049b0f6aae061fcbb786d0babdb8cc42fab995c54cf5c964fc731c2456f40e",
+            "total": 73
+        },
+        {
+            "date": "2020-08-20 03:55:33",
+            "positives": 32,
+            "sha256": "d9c7fd234ec08dd72d7e4776b98dea4aa8e7b28f6d76081fd3a80e1d316160d9",
+            "total": 74
+        },
+        {
+            "date": "2020-07-20 23:57:53",
+            "positives": 34,
+            "sha256": "9b66de25e18f90f6d2e874e181fdb55b5231a624d8f96d5632f13d89148e2fdd",
+            "total": 76
+        },
+        {
+            "date": "2019-12-26 13:11:51",
+            "positives": 36,
+            "sha256": "94fa982b08757585f09856d5f75ec77d3874b9d6a821ad3b82709c6c3159e24b",
+            "total": 75
+        },
+        {
+            "date": "2019-07-30 21:24:44",
+            "positives": 33,
+            "sha256": "72424f3ca3e064371247494994149b33b63ed4e7ccd76306968743d31a6a03d0",
+            "total": 72
+        },
+        {
+            "date": "2019-05-13 00:05:06",
+            "positives": 33,
+            "sha256": "65fe783217df2b1f69fdf490e5136353cb886589fa813320f027c68599b1b21b",
+            "total": 73
+        },
+        {
+            "date": "2019-04-22 01:42:14",
+            "positives": 6,
+            "sha256": "f72058f03b7599b35ee42ca63c4952c800227ac91dda2a2e821caabbf8a3f66d",
+            "total": 66
+        },
+        {
+            "date": "2019-03-25 23:40:20",
+            "positives": 29,
+            "sha256": "6ca49003a9a22fb42a2f0836543118632f056901fbd6dd4fa79e3ae63d9b9b14",
+            "total": 71
+        },
+        {
+            "date": "2019-03-24 07:25:03",
+            "positives": 30,
+            "sha256": "64f20f25b0506f139b69d2c3960ab55a633d2535d99366919182807d70d324da",
+            "total": 71
+        },
+        {
+            "date": "2018-11-01 16:45:54",
+            "positives": 20,
+            "sha256": "67eb8407cdcbf3967d846b7d6b0d704e0f52dffb8d69d9fe89e3ba10113b2cbf",
+            "total": 68
+        }
+    ],
+    "detected_urls": [],
+    "domain_siblings": [
+        "sbc0mycc.viettel.vn",
+        "remotesigning.viettel.vn",
+        "viettelpaycms.viettel.vn",
+        "vinvoice.viettel.vn",
+        "vtpgw.viettel.vn",
+        "s.viettel.vn",
+        "shop.viettel.vn",
+        "gamegw.viettel.vn",
+        "vtpay9.viettel.vn",
+        "speedtestkv1a.viettel.vn",
+        "affapi.viettel.vn",
+        "api-vinvoice.viettel.vn",
+        "files-maps.viettel.vn",
+        "mydata.viettel.vn",
+        "maps.viettel.vn",
+        "pay.viettel.vn",
+        "chplay.viettel.vn",
+        "mx0.viettel.vn",
+        "dynamic-adsl.viettel.vn",
+        "mail3.viettel.vn",
+        "pay3.viettel.vn",
+        "mail1.viettel.vn",
+        "www.viettel.vn",
+        "edu.viettel.vn",
+        "hoadondientu.viettel.vn",
+        "apigami.viettel.vn",
+        "elearning-api.viettel.vn",
+        "ads.viettel.vn",
+        "cong.viettel.vn",
+        "sinvoice.viettel.vn",
+        "speedtestkv2a.viettel.vn",
+        "email.viettel.vn",
+        "es.viettel.vn",
+        "solutions.viettel.vn",
+        "api-maps.viettel.vn",
+        "vtracking.viettel.vn",
+        "mbooking.viettel.vn",
+        "sandbox.viettel.vn",
+        "sbc2mycc.viettel.vn",
+        "demo-sinvoice.viettel.vn",
+        "sso-public.viettel.vn",
+        "partnerapi.viettel.vn",
+        "qr.viettel.vn",
+        "admin-vinvoice.viettel.vn",
+        "elearning.viettel.vn",
+        "congtacdang-congtacchinhtri.viettel.vn",
+        "vbhxh-2.viettel.vn",
+        "360vds.viettel.vn",
+        "yourway.viettel.vn",
+        "tourist.viettel.vn",
+        "hotrobanhang.viettel.vn",
+        "esign.viettel.vn",
+        "business-sinvoice.viettel.vn",
+        "giamsatxemay.viettel.vn",
+        "quanlyxe.viettel.vn",
+        "esim.viettel.vn",
+        "vtracking2.viettel.vn",
+        "mark.viettel.vn",
+        "loyal.viettel.vn",
+        "erp.viettel.vn",
+        "vsds.viettel.vn",
+        "tuyendung.viettel.vn",
+        "sbc1mycc.viettel.vn",
+        "mve.viettel.vn",
+        "098.viettel.vn",
+        "mms.viettel.vn",
+        "truyxuat.viettel.vn",
+        "ccstatic.viettel.vn",
+        "ns2.viettel.vn",
+        "opennetwork.viettel.vn",
+        "vhttekway.viettel.vn",
+        "solution.viettel.vn",
+        "jobs.viettel.vn",
+        "hcc.viettel.vn",
+        "homewifi3.viettel.vn",
+        "magazine.viettel.vn",
+        "businesss-sinvoice.viettel.vn",
+        "vmark.viettel.vn",
+        "ketnoi.viettel.vn",
+        "vmail.viettel.vn",
+        "naptien.viettel.vn",
+        "wap.viettel.vn",
+        "mykid.viettel.vn",
+        "vcam.viettel.vn",
+        "data.viettel.vn",
+        "api-sinvoice.viettel.vn",
+        "my.viettel.vn",
+        "analysis.viettel.vn",
+        "tadsl.viettel.vn",
+        "nguoidonghanh.viettel.vn",
+        "vbhxh.viettel.vn",
+        "speedtestkv2dp1.viettel.vn",
+        "smartmotor.viettel.vn",
+        "digital.viettel.vn",
+        "iot.viettel.vn",
+        "sso2.viettel.vn",
+        "quanlyxemay.viettel.vn",
+        "sme.viettel.vn",
+        "vtmall.viettel.vn"
+    ],
+    "pcaps": [
+        "5566d48b53f16125e68439b9f34f7b1325d7cc7c34dc8388bdd7a45b89b1853f"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "115.72.225.44",
+            "last_resolved": "2020-05-17 17:00:16"
+        },
+        {
+            "ip_address": "115.73.220.120",
+            "last_resolved": "2020-06-12 08:45:06"
+        },
+        {
+            "ip_address": "115.74.106.140",
+            "last_resolved": "2020-12-25 22:33:58"
+        },
+        {
+            "ip_address": "115.76.22.183",
+            "last_resolved": "2024-02-04 08:19:58"
+        },
+        {
+            "ip_address": "125.235.4.59",
+            "last_resolved": "2019-10-24 20:42:20"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "76.adsl.viettel.vn",
+        "14.adsl.viettel.vn",
+        "43.adsl.viettel.vn",
+        "36.adsl.viettel.vn",
+        "20.adsl.viettel.vn",
+        "94.adsl.viettel.vn",
+        "16.adsl.viettel.vn",
+        "86.adsl.viettel.vn",
+        "67.adsl.viettel.vn",
+        "93.adsl.viettel.vn",
+        "48.adsl.viettel.vn",
+        "91.adsl.viettel.vn",
+        "21.adsl.viettel.vn",
+        "80.adsl.viettel.vn",
+        "57.adsl.viettel.vn",
+        "65.adsl.viettel.vn",
+        "26.adsl.viettel.vn",
+        "83.adsl.viettel.vn",
+        "71.adsl.viettel.vn",
+        "40.adsl.viettel.vn",
+        "79.adsl.viettel.vn",
+        "61.adsl.viettel.vn",
+        "53.adsl.viettel.vn",
+        "77.adsl.viettel.vn",
+        "13.adsl.viettel.vn",
+        "72.adsl.viettel.vn",
+        "56.adsl.viettel.vn",
+        "50.adsl.viettel.vn",
+        "69.adsl.viettel.vn",
+        "22.adsl.viettel.vn",
+        "37.adsl.viettel.vn",
+        "33.adsl.viettel.vn",
+        "52.adsl.viettel.vn",
+        "42.adsl.viettel.vn",
+        "215.adsl.viettel.vn",
+        "51.adsl.viettel.vn",
+        "46.adsl.viettel.vn",
+        "96.adsl.viettel.vn",
+        "74.adsl.viettel.vn",
+        "12.adsl.viettel.vn",
+        "85.adsl.viettel.vn",
+        "89.adsl.viettel.vn",
+        "97.adsl.viettel.vn",
+        "19.adsl.viettel.vn",
+        "95.adsl.viettel.vn",
+        "78.adsl.viettel.vn",
+        "68.adsl.viettel.vn",
+        "70.adsl.viettel.vn",
+        "41.adsl.viettel.vn",
+        "18.adsl.viettel.vn",
+        "88.adsl.viettel.vn",
+        "240.adsl.viettel.vn",
+        "49.adsl.viettel.vn",
+        "31.adsl.viettel.vn",
+        "156.adsl.viettel.vn",
+        "45.adsl.viettel.vn",
+        "125.adsl.viettel.vn",
+        "135.adsl.viettel.vn",
+        "187.adsl.viettel.vn",
+        "131.adsl.viettel.vn",
+        "137.adsl.viettel.vn",
+        "160.adsl.viettel.vn",
+        "253.adsl.viettel.vn",
+        "223.adsl.viettel.vn",
+        "121.adsl.viettel.vn",
+        "151.adsl.viettel.vn",
+        "92.adsl.viettel.vn",
+        "162.adsl.viettel.vn",
+        "207.adsl.viettel.vn",
+        "138.adsl.viettel.vn",
+        "254.adsl.viettel.vn",
+        "249.adsl.viettel.vn",
+        "101.adsl.viettel.vn",
+        "143.adsl.viettel.vn",
+        "24.adsl.viettel.vn",
+        "109.adsl.viettel.vn",
+        "132.adsl.viettel.vn",
+        "153.adsl.viettel.vn",
+        "191.adsl.viettel.vn",
+        "226.adsl.viettel.vn",
+        "205.adsl.viettel.vn",
+        "103.adsl.viettel.vn",
+        "224.adsl.viettel.vn",
+        "228.adsl.viettel.vn",
+        "154.adsl.viettel.vn",
+        "192.adsl.viettel.vn",
+        "130.adsl.viettel.vn",
+        "116.adsl.viettel.vn",
+        "112.adsl.viettel.vn",
+        "133.adsl.viettel.vn",
+        "184.adsl.viettel.vn",
+        "211.adsl.viettel.vn",
+        "117.adsl.viettel.vn",
+        "152.adsl.viettel.vn",
+        "169.adsl.viettel.vn",
+        "229.adsl.viettel.vn",
+        "217.adsl.viettel.vn",
+        "60.adsl.viettel.vn",
+        "244.adsl.viettel.vn",
+        "232.adsl.viettel.vn"
+    ],
+    "undetected_communicating_samples": [],
+    "undetected_downloaded_samples": [],
+    "undetected_referrer_samples": [
+        {
+            "date": "2019-05-07 12:01:51",
+            "positives": 0,
+            "sha256": "1b85c2b8e128187218fd065e5617a1695f3315ec24e4fc268c33978b26fb2d78",
+            "total": 72
+        },
+        {
+            "date": "2019-04-11 15:41:29",
+            "positives": 0,
+            "sha256": "54ebf38e3fdc7d85c62e55dfc721c031f88a47024d9ef1d591051ada4f001059",
+            "total": 71
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://adsl.viettel.vn/",
+            "d00a2e09482c605ed266aa21ef1e7f1437e5a7c859c3fc93b2aba9e43502ae04",
+            0,
+            96,
+            "2024-12-02 06:27:29"
+        ],
+        [
+            "http://adsl.viettel.vn/",
+            "c55d2f9214f57e52584aa17b8dec624b6b2a277acab62941c75a694ea78d6c9f",
+            0,
+            96,
+            "2024-09-11 06:34:09"
+        ],
+        [
+            "http://adsl.viettel.vn:8000/",
+            "759cb6a6608883842e47b5f97247be89c8010ba4e725c25897468dfe4efb344b",
+            0,
+            89,
+            "2021-08-06 01:22:49"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": null
+}

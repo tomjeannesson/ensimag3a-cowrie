@@ -1,0 +1,19 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.netwest.com.br",
+        "speedtest.netwest.com.br",
+        "dns2.netwest.com.br",
+        "ftp.netwest.com.br",
+        "smtp.netwest.com.br",
+        "webmail.netwest.com.br",
+        "mail.netwest.com.br",
+        "pop.netwest.com.br",
+        "imap.netwest.com.br",
+        "dns1.netwest.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20201104\nchanged: 20211201\ncountry: BR\ncreated: 20081117 #5056841\ncreated: 20110406\ndomain: netwest.com.br\ne-mail: 087842607e28b94bs@gmail.com\nexpires: 20241117\nnic-hdl-br: EVCME10\nnserver: ns1.locaweb.com.br\nnserver: ns2.locaweb.com.br\nnserver: ns3.locaweb.com.br\nstatus: published"
+}

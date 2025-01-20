@@ -1,0 +1,244 @@
+{
+    "Comodo Valkyrie Verdict category": "media sharing",
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "scanner-13.ch1.censys-scanner.com",
+        "scanner-15.ch1.censys-scanner.com",
+        "scanner-14.ch1.censys-scanner.com",
+        "worker-09.sfj.censys-scanner.com",
+        "worker-02.sfj.censys-scanner.com",
+        "scanner-10.ch1.censys-scanner.com",
+        "scanner-12.ch1.censys-scanner.com",
+        "scanner-11.ch1.censys-scanner.com",
+        "scanner-03.ch1.censys-scanner.com",
+        "scanner-02.ch1.censys-scanner.com",
+        "scanner-09.ch1.censys-scanner.com",
+        "scanner-07.ch1.censys-scanner.com",
+        "scanner-08.ch1.censys-scanner.com",
+        "scanner-04.ch1.censys-scanner.com",
+        "scanner-01.ch1.censys-scanner.com",
+        "scanner-05.ch1.censys-scanner.com",
+        "worker-15.sfj.censys-scanner.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "162.142.125.54",
+            "last_resolved": "2020-08-22 15:43:20"
+        },
+        {
+            "ip_address": "162.142.125.55",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.56",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.57",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.58",
+            "last_resolved": "2020-08-22 15:43:20"
+        },
+        {
+            "ip_address": "162.142.125.59",
+            "last_resolved": "2020-08-22 15:43:20"
+        },
+        {
+            "ip_address": "162.142.125.60",
+            "last_resolved": "2020-08-22 15:43:20"
+        },
+        {
+            "ip_address": "162.142.125.61",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.62",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.63",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.64",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.65",
+            "last_resolved": "2020-08-22 15:43:20"
+        },
+        {
+            "ip_address": "162.142.125.66",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "162.142.125.67",
+            "last_resolved": "2020-08-22 15:43:20"
+        },
+        {
+            "ip_address": "162.142.125.68",
+            "last_resolved": "2020-08-22 15:43:20"
+        },
+        {
+            "ip_address": "162.142.125.69",
+            "last_resolved": "2020-08-22 15:43:21"
+        },
+        {
+            "ip_address": "167.94.138.32",
+            "last_resolved": "2022-02-04 01:00:38"
+        },
+        {
+            "ip_address": "167.94.138.33",
+            "last_resolved": "2022-02-04 01:00:38"
+        },
+        {
+            "ip_address": "167.94.138.34",
+            "last_resolved": "2022-02-04 01:00:37"
+        },
+        {
+            "ip_address": "167.94.138.35",
+            "last_resolved": "2022-02-04 00:59:28"
+        },
+        {
+            "ip_address": "167.94.138.36",
+            "last_resolved": "2022-02-04 01:00:39"
+        },
+        {
+            "ip_address": "167.94.138.37",
+            "last_resolved": "2022-02-04 01:00:38"
+        },
+        {
+            "ip_address": "167.94.138.38",
+            "last_resolved": "2022-02-04 01:00:38"
+        },
+        {
+            "ip_address": "167.94.138.39",
+            "last_resolved": "2022-02-04 01:00:39"
+        },
+        {
+            "ip_address": "167.94.138.40",
+            "last_resolved": "2022-02-04 01:00:38"
+        },
+        {
+            "ip_address": "167.94.138.41",
+            "last_resolved": "2022-02-04 01:00:37"
+        },
+        {
+            "ip_address": "167.94.138.42",
+            "last_resolved": "2022-02-04 01:00:38"
+        },
+        {
+            "ip_address": "167.94.138.43",
+            "last_resolved": "2022-02-04 01:00:37"
+        },
+        {
+            "ip_address": "167.94.138.44",
+            "last_resolved": "2022-02-04 01:00:39"
+        },
+        {
+            "ip_address": "167.94.138.45",
+            "last_resolved": "2022-02-04 01:00:39"
+        },
+        {
+            "ip_address": "167.94.138.46",
+            "last_resolved": "2022-02-04 01:00:39"
+        },
+        {
+            "ip_address": "167.94.138.47",
+            "last_resolved": "2022-02-04 01:00:38"
+        },
+        {
+            "ip_address": "74.120.14.32",
+            "last_resolved": "2020-09-03 02:16:33"
+        },
+        {
+            "ip_address": "74.120.14.33",
+            "last_resolved": "2020-09-02 13:38:33"
+        },
+        {
+            "ip_address": "74.120.14.34",
+            "last_resolved": "2020-09-02 13:38:52"
+        },
+        {
+            "ip_address": "74.120.14.35",
+            "last_resolved": "2020-09-02 13:39:16"
+        },
+        {
+            "ip_address": "74.120.14.36",
+            "last_resolved": "2020-09-02 13:39:33"
+        },
+        {
+            "ip_address": "74.120.14.37",
+            "last_resolved": "2020-09-03 02:16:22"
+        },
+        {
+            "ip_address": "74.120.14.38",
+            "last_resolved": "2020-09-02 13:40:10"
+        },
+        {
+            "ip_address": "74.120.14.39",
+            "last_resolved": "2020-09-02 13:40:24"
+        },
+        {
+            "ip_address": "74.120.14.40",
+            "last_resolved": "2020-09-02 13:47:15"
+        },
+        {
+            "ip_address": "74.120.14.41",
+            "last_resolved": "2020-09-02 13:47:34"
+        },
+        {
+            "ip_address": "74.120.14.42",
+            "last_resolved": "2020-09-02 13:47:52"
+        },
+        {
+            "ip_address": "74.120.14.43",
+            "last_resolved": "2020-09-03 02:16:33"
+        },
+        {
+            "ip_address": "74.120.14.44",
+            "last_resolved": "2020-09-02 13:48:42"
+        },
+        {
+            "ip_address": "74.120.14.45",
+            "last_resolved": "2020-09-02 13:48:45"
+        },
+        {
+            "ip_address": "74.120.14.46",
+            "last_resolved": "2020-09-02 13:49:10"
+        },
+        {
+            "ip_address": "74.120.14.47",
+            "last_resolved": "2020-09-02 13:49:26"
+        }
+    ],
+    "response_code": 1,
+    "undetected_downloaded_samples": [
+        {
+            "date": "2022-04-26 08:50:44",
+            "positives": 0,
+            "sha256": "e4df36eb09eb4185d42ea3b486c443195e0b5318a0933f3944de39918e7e73a6",
+            "total": 74
+        },
+        {
+            "date": "2021-01-12 10:34:28",
+            "positives": 0,
+            "sha256": "e3eaa0a0dadd3f2a250b333305bb1282bd6b06753d447e8c0134dd837f5102d9",
+            "total": 76
+        }
+    ],
+    "undetected_urls": [
+        [
+            "http://scanner-06.ch1.censys-scanner.com/",
+            "f39e3e82510eec7a1ae077532eb2892a1ef48c37b9eeda9707ca369e7adc41dc",
+            0,
+            90,
+            "2022-11-02 17:48:15"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: DATA REDACTED\nAdmin Country: DATA REDACTED\nAdmin Organization: DATA REDACTED\nAdmin Postal Code: DATA REDACTED\nAdmin State/Province: DATA REDACTED\nBilling City: DATA REDACTED\nBilling Country: DATA REDACTED\nBilling Organization: DATA REDACTED\nBilling Postal Code: DATA REDACTED\nBilling State/Province: DATA REDACTED\nCreation Date: 2020-06-10T14:30:56Z\nDNSSEC: unsigned\nDomain Name: CENSYS-SCANNER.COM\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clienttransferprohibited https://icann.org/epp#clienttransferprohibited\nName Server: ANASTASIA.NS.CLOUDFLARE.COM\nName Server: ARTURO.NS.CLOUDFLARE.COM\nName Server: anastasia.ns.cloudflare.com\nName Server: arturo.ns.cloudflare.com\nRegistrant City: acfd0ee3752cd95d\nRegistrant Country: US\nRegistrant Email: 7b5fbeb8c902f271s@\nRegistrant Fax Ext: acfd0ee3752cd95d\nRegistrant Fax: acfd0ee3752cd95d\nRegistrant Name: acfd0ee3752cd95d\nRegistrant Organization: acfd0ee3752cd95d\nRegistrant Phone Ext: acfd0ee3752cd95d\nRegistrant Phone: acfd0ee3752cd95d\nRegistrant Postal Code: acfd0ee3752cd95d\nRegistrant State/Province: aac31dde08b6f5a7\nRegistrant Street: acfd0ee3752cd95d\nRegistrar Abuse Contact Email: registrar-abuse@cloudflare.com\nRegistrar Abuse Contact Phone: +1.4153197517\nRegistrar IANA ID: 1910\nRegistrar Registration Expiration Date: 2025-06-10T14:30:56Z\nRegistrar URL: http://www.cloudflare.com\nRegistrar URL: https://www.cloudflare.com\nRegistrar WHOIS Server: whois.cloudflare.com\nRegistrar: Cloudflare, Inc.\nRegistry Domain ID: 2535978795_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2025-06-10T14:30:56Z\nTech City: DATA REDACTED\nTech Country: DATA REDACTED\nTech Organization: DATA REDACTED\nTech Postal Code: DATA REDACTED\nTech State/Province: DATA REDACTED\nUpdated Date: 2024-04-30T04:18:24Z\nUpdated Date: 2024-06-30T08:08:48Z"
+}

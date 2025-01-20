@@ -1,0 +1,11 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "vks24953.ip-142-4-195.net",
+        "vks24945.ip-142-4-195.net"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nCreation Date: 2012-07-31T12:36:13Z\nDNSSEC: unsigned\nDomain Name: IP-142-4-195.NET\nDomain Name: ip-142-4-195.net\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nName Server: DNS102.OVH.NET\nName Server: NS102.OVH.NET\nName Server: dns102.ovh.net\nName Server: ns102.ovh.net\nRegistrant City: 1f8f4166599d23ee\nRegistrant Country: CA\nRegistrant Email: 46860fe85ca2a91ds@\nRegistrant Fax Ext: 1f8f4166599d23ee\nRegistrant Fax: 1f8f4166599d23ee\nRegistrant Name: 1f8f4166599d23ee\nRegistrant Organization: afe1e305eaa520d6\nRegistrant Phone Ext: 1f8f4166599d23ee\nRegistrant Phone: 1f8f4166599d23ee\nRegistrant Postal Code: 1f8f4166599d23ee\nRegistrant State/Province: 3432650ec337c945\nRegistrant Street: 1f8f4166599d23ee\nRegistrar Abuse Contact Email: abuse@ovh.net\nRegistrar Abuse Contact Phone: +33.972101007\nRegistrar IANA ID: 433\nRegistrar Registration Expiration Date: 2025-07-31T14:36:13+02:00\nRegistrar URL: http://www.ovh.com\nRegistrar URL: https://www.ovh.com\nRegistrar WHOIS Server: whois.ovh.com\nRegistrar: OVH sas\nRegistrar: OVH, SAS\nRegistry Domain ID: 1736580206_DOMAIN_NET-VRSN\nRegistry Expiry Date: 2025-07-31T12:36:13Z\nTech City: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nUpdated Date: 2024-07-01T11:16:44Z"
+}

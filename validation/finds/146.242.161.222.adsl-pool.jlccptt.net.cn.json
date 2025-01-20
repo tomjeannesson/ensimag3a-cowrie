@@ -1,0 +1,11 @@
+{
+    "Forcepoint ThreatSeeker category": "uncategorized",
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns.jlccptt.net.cn"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "DNSSEC: unsigned\nDomain Name: jlccptt.net.cn\nDomain Status: clientTransferProhibited\nExpiration Time: 2032-07-01 00:00:00\nName Server: ns.jlccptt.net.cn\nName Server: ns2.jljlptt.net.cn\nRegistrant Contact Email: 0ccf14b6772757acs@chinaunicom.cn\nRegistrant: 3d25458568624fec\nRegistration Time: 1997-02-19 00:00:00\nSponsoring Registrar: \u5317\u4eac\u65b0\u7f51\u6570\u7801\u4fe1\u606f\u6280\u672f\u6709\u9650\u516c\u53f8"
+}

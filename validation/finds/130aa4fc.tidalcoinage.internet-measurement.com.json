@@ -1,0 +1,19 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns2.internet-measurement.com",
+        "www.internet-measurement.com",
+        "ns1.internet-measurement.com",
+        "tidalcoinage.internet-measurement.com",
+        "monitoring.internet-measurement.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "142.93.191.98",
+            "last_resolved": "2022-09-30 02:45:42"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2021-11-25T11:34:08Z\nDNSSEC: unsigned\nDomain Name: INTERNET-MEASUREMENT.COM\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nName Server: ALEXIS.NS.CLOUDFLARE.COM\nName Server: RUTH.NS.CLOUDFLARE.COM\nRegistrar Abuse Contact Email: abuse@namecheap.com\nRegistrar Abuse Contact Phone: +1.6613102107\nRegistrar IANA ID: 1068\nRegistrar URL: http://www.namecheap.com\nRegistrar WHOIS Server: whois.namecheap.com\nRegistrar: NameCheap, Inc.\nRegistry Domain ID: 2657340585_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2029-11-25T11:34:08Z\nUpdated Date: 2024-10-10T09:48:31Z"
+}

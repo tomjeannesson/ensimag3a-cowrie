@@ -1,0 +1,17 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "sacconnect.neutralnetwork.com.br",
+        "ixcviafibra.neutralnetwork.com.br",
+        "opasuite.neutralnetwork.com.br",
+        "ns2.neutralnetwork.com.br",
+        "ns1.neutralnetwork.com.br",
+        "speed.neutralnetwork.com.br",
+        "speedv.neutralnetwork.com.br",
+        "ixcconnect.neutralnetwork.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20240116\nchanged: 20240329\nchanged: 20240810\ncountry: BR\ncreated: 20061130\ncreated: 20200428\ncreated: 20211230 #23864889\ndomain: neutralnetwork.com.br\ndsstatus: 20241011 DSOK\ne-mail: 47b41a0c2ba79b26s@netway.inf.br\ne-mail: b43eca38fa0e588es@netway.inf.br\nexpires: 20251230\nnic-hdl-br: ADMSA\nnic-hdl-br: ANANU50\nnserver: e.sec.dns.br\nnserver: f.sec.dns.br\nstatus: published"
+}

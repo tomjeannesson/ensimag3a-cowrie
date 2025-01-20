@@ -1,0 +1,19 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "107.27-tataidc.co.in"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "104.155.138.21",
+            "last_resolved": "2024-09-24 08:31:05"
+        },
+        {
+            "ip_address": "107.178.223.183",
+            "last_resolved": "2024-09-24 08:31:05"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nCreation Date: 2021-08-05T20:49:54Z\nDNSSEC: unsigned\nDomain Name: 27-tataidc.co.in\nDomain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited\nName Server: ns1.csof.net\nName Server: ns2.csof.net\nName Server: ns3.csof.net\nName Server: ns4.csof.net\nRegistrant City: 1f8f4166599d23ee\nRegistrant Country: US\nRegistrant Email: b1f2772c6dea32e5s@\nRegistrant Fax Ext: 1f8f4166599d23ee\nRegistrant Fax: 1f8f4166599d23ee\nRegistrant Name: 1f8f4166599d23ee\nRegistrant Organization: 10acf0b8aaa2140e\nRegistrant Phone Ext: 1f8f4166599d23ee\nRegistrant Phone: 1f8f4166599d23ee\nRegistrant Postal Code: 1f8f4166599d23ee\nRegistrant State/Province: 9ac59f99cec77452\nRegistrant Street: 1f8f4166599d23ee\nRegistrar IANA ID: 472\nRegistrar URL: http://www.dynadot.com\nRegistrar: Dynadot LLC\nRegistry Admin ID: REDACTED FOR PRIVACY\nRegistry Domain ID: DE694C963E4BC42C9AB76A06BEDF64E02-IN\nRegistry Expiry Date: 2031-08-05T20:49:54Z\nRegistry Registrant ID: REDACTED FOR PRIVACY\nRegistry Tech ID: REDACTED FOR PRIVACY\nTech City: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nUpdated Date: 2024-01-26T13:09:56Z"
+}

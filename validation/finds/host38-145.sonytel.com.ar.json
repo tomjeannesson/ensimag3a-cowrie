@@ -1,0 +1,24 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "mail.sonytel.com.ar",
+        "www.sonytel.com.ar",
+        "cpanel.sonytel.com.ar",
+        "webdisk.sonytel.com.ar",
+        "apple.sonytel.com.ar",
+        "cpcalendars.sonytel.com.ar",
+        "webmail.sonytel.com.ar",
+        "cpcontacts.sonytel.com.ar",
+        "ticket.sonytel.com.ar",
+        "api.sonytel.com.ar",
+        "hola.sonytel.com.ar",
+        "test.sonytel.com.ar",
+        "bot.sonytel.com.ar",
+        "ftp.sonytel.com.ar",
+        "smtp.sonytel.com.ar"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": null
+}

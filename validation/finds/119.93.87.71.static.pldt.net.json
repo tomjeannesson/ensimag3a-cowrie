@@ -1,0 +1,32 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns1.pldt.net",
+        "masid.pldt.net",
+        "igate-cache2.pldt.net",
+        "mail.pldt.net",
+        "phix.pldt.net",
+        "nscache3.pldt.net",
+        "spamkeeper.pldt.net",
+        "nscache2.pldt.net",
+        "tiktilaok.pldt.net",
+        "ns2.pldt.net",
+        "eganov.pldt.net",
+        "dslmonitor.pldt.net",
+        "directory.pldt.net",
+        "web.pldt.net",
+        "nas1.pldt.net",
+        "ns2dsl-cache.pldt.net",
+        "spamguard2.pldt.net",
+        "igate-cache1.pldt.net",
+        "proxy.pldt.net",
+        "spamav.pldt.net",
+        "spamav2.pldt.net",
+        "www.pldt.net",
+        "ns1dsl-cache.pldt.net"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: Pasay City\nAdmin Country: PH\nAdmin Email: 789241a09187928ds@pldt.com.ph\nAdmin Organization: Network IT PLDT Company\nAdmin Postal Code: 1300\nAdmin State/Province: Metro Manila\nCreation Date: 1997-10-29T05:00:00Z\nDNSSEC: unsigned\nDomain Name: PLDT.NET\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nName Server: NS1.PLDT.NET\nName Server: NS2.PLDT.NET\nRegistrant City: 5a531db1dfb8d541\nRegistrant Country: PH\nRegistrant Email: 19f433c9a8a33202s@pldt.com.ph\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: 3432650ec337c945\nRegistrant Name: 4a6ed27a8a66261f\nRegistrant Organization: 4a6ed27a8a66261f\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: 641da8c30b2542b8\nRegistrant Postal Code: e99f25e3efc805c1\nRegistrant State/Province: e1a13ff8c8552296\nRegistrant Street: 660cc17176d0b974\nRegistrar Abuse Contact Email: domain.operations@web.com\nRegistrar Abuse Contact Phone: +1.8777228662\nRegistrar IANA ID: 2\nRegistrar Registration Expiration Date: 2024-10-28T04:00:00Z\nRegistrar URL: http://networksolutions.com\nRegistrar WHOIS Server: whois.networksolutions.com\nRegistrar: Network Solutions, LLC\nRegistry Domain ID: 584775_DOMAIN_NET-VRSN\nRegistry Expiry Date: 2024-10-28T04:00:00Z\nTech City: Makati City\nTech Country: PH\nTech Email: 789241a09187928ds@pldt.com.ph\nTech Organization: Philippine Long Distance Telephone Co.\nTech Postal Code: 1200\nTech State/Province: Metro Manila\nUpdated Date: 2022-10-27T08:39:28Z\nUpdated Date: 2022-10-27T08:39:47Z"
+}

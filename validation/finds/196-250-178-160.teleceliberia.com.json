@@ -1,0 +1,32 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "plesk.teleceliberia.com",
+        "www.teleceliberia.com",
+        "mailx.teleceliberia.com",
+        "shop.teleceliberia.com",
+        "zabbix.teleceliberia.com",
+        "tms.teleceliberia.com",
+        "linkyfi.teleceliberia.com",
+        "ns2.teleceliberia.com",
+        "gds.teleceliberia.com",
+        "wiki.teleceliberia.com",
+        "unifi.teleceliberia.com",
+        "avis.teleceliberia.com",
+        "nextcloud-traefik.teleceliberia.com",
+        "cloud.teleceliberia.com",
+        "user.teleceliberia.com",
+        "uisp.teleceliberia.com",
+        "netbox.teleceliberia.com",
+        "traefik.teleceliberia.com",
+        "observium.teleceliberia.com",
+        "prtg.teleceliberia.com",
+        "worker02.teleceliberia.com",
+        "nextest.teleceliberia.com",
+        "speedtest.teleceliberia.com"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2020-09-01T15:13:30Z\nDNSSEC: unsigned\nDomain Name: TELECELIBERIA.COM\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: NS51.DOMAINCONTROL.COM\nName Server: NS52.DOMAINCONTROL.COM\nRegistrar Abuse Contact Email: abuse@godaddy.com\nRegistrar Abuse Contact Phone: 480-624-2505\nRegistrar IANA ID: 146\nRegistrar URL: http://www.godaddy.com\nRegistrar WHOIS Server: whois.godaddy.com\nRegistrar: GoDaddy.com, LLC\nRegistry Domain ID: 2557016345_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2025-09-01T15:13:30Z\nUpdated Date: 2024-08-24T11:21:54Z"
+}

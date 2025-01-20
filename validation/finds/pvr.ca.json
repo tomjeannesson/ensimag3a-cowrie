@@ -1,0 +1,123 @@
+{
+    "Webutation domain info": {
+        "Adult content": "no",
+        "Safety score": 70,
+        "Verdict": "unsure"
+    },
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [
+        {
+            "date": "2019-07-29 08:12:08",
+            "positives": 1,
+            "sha256": "0ed9d0fb4432f5719291f6e7b61c30a2a6bbf5909c1423ba61f19e2b3170db43",
+            "total": 71
+        },
+        {
+            "date": "2019-07-14 12:30:22",
+            "positives": 1,
+            "sha256": "5633493143412db042ce07c373c0e891459cea5843455ef749b7c9ee35e0fac5",
+            "total": 70
+        }
+    ],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "108.168.245.108",
+            "last_resolved": "2014-04-21 00:00:00"
+        },
+        {
+            "ip_address": "142.93.146.17",
+            "last_resolved": "2023-07-14 15:11:09"
+        },
+        {
+            "ip_address": "159.203.19.147",
+            "last_resolved": "2019-11-04 12:19:39"
+        },
+        {
+            "ip_address": "207.38.92.246",
+            "last_resolved": "2017-07-13 00:00:00"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "www.pvr.ca",
+        "dev.pvr.ca",
+        "sip.pvr.ca",
+        "enterpriseenrollment.pvr.ca"
+    ],
+    "undetected_downloaded_samples": [],
+    "undetected_referrer_samples": [
+        {
+            "date": "2021-07-19 10:07:51",
+            "positives": 0,
+            "sha256": "36a71a83c0112d39b1a64be708b0633febe13b6c6a9bd16a67e432041c5ce5ca",
+            "total": 74
+        },
+        {
+            "date": "2019-07-31 13:14:29",
+            "positives": 0,
+            "sha256": "62c1d2bc7304126b98c090e751779d9dae2b9cccb6c588b56beebf2321b341f9",
+            "total": 65
+        },
+        {
+            "date": "2019-07-09 17:57:09",
+            "positives": 0,
+            "sha256": "61a0e10c89e6b403e44821f8b5e214336edf33e7957118a03a7068cee75c417d",
+            "total": 67
+        },
+        {
+            "date": "2019-05-10 15:44:54",
+            "positives": 0,
+            "sha256": "2f071f5c5baa1cf25c4eee3578854b35df911ff7fbc811ddfad6adccea591ffb",
+            "total": 72
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://pvr.ca/",
+            "cd4396a390cedf7051e8a678848d7c7d553e3903c5a78a929a0390bed23d9ed7",
+            0,
+            95,
+            "2024-06-05 12:00:38"
+        ],
+        [
+            "https://pvr.ca/about.php",
+            "cd6dd950bbc5525f6f9380ade2748ec99f826514ab39d446339fd6781fbc3eed",
+            0,
+            92,
+            "2024-03-27 10:48:53"
+        ],
+        [
+            "https://pvr.ca/court_reporting.php",
+            "6462604b18fc623eb89b02a2f0c7039a7687645db8a6d22c1a3e76e069feb526",
+            0,
+            91,
+            "2024-01-05 09:33:08"
+        ],
+        [
+            "https://pvr.ca/contact.php",
+            "1cc095d94b4c60c30cb5d763f7d0f36954e4378d37ca0bd41069a54cc951a6b2",
+            0,
+            90,
+            "2023-07-31 11:11:16"
+        ],
+        [
+            "https://pvr.ca/videoconferencing.php",
+            "fa92cdffaef0dc90a91a4d587936f6369b70d40adee78a045c3b4632d6598997",
+            0,
+            93,
+            "2021-12-02 02:24:20"
+        ],
+        [
+            "https://pvr.ca/news/",
+            "fcbf44471d723ded2ef91fde983d650745a81d97c9376da8be73d01ba62e2e6a",
+            0,
+            87,
+            "2021-05-04 12:26:12"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: Livingston\nAdmin Country: US\nAdmin Email: 20fb3d3cc556371cs@veritext.com\nAdmin Organization: VT Canada Litigation Solutions, Inc.\nAdmin Postal Code: 07039-2762\nAdmin State/Province: NJ\nCreation Date: 2001-07-18T21:46:51Z\nDNSSEC: unsigned\nDomain Name: pvr.ca\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: hasslo.ns.cloudflare.com\nName Server: monika.ns.cloudflare.com\nRegistrant City: 41d5dd8f795e8170\nRegistrant Country: US\nRegistrant Email: 20fb3d3cc556371cs@veritext.com\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: 3432650ec337c945\nRegistrant Name: 59883cf21b479bcb\nRegistrant Organization: c43e3ff041604157\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: af7ea178cbfd7648\nRegistrant Postal Code: 86f61e9efdb673e4\nRegistrant State/Province: 9a233af5b6f71214\nRegistrant Street: 9703cd8097cb3010\nRegistrar Abuse Contact Email: abuse@godaddy.com\nRegistrar Abuse Contact Phone: +1.4806242505\nRegistrar IANA ID: not applicable\nRegistrar URL: ca.godaddy.com\nRegistrar WHOIS Server: whois.ca.fury.ca\nRegistrar: Go Daddy Domains Canada, Inc\nRegistry Admin ID: 113413570-CIRA\nRegistry Domain ID: D88556-CIRA\nRegistry Expiry Date: 2026-07-18T05:00:00Z\nRegistry Registrant ID: 113413786-CIRA\nRegistry Tech ID: 113413739-CIRA\nTech City: Livingston\nTech Country: US\nTech Email: 20fb3d3cc556371cs@veritext.com\nTech Organization: VT Canada Litigation Solutions, Inc.\nTech Postal Code: 07039-2762\nTech State/Province: NJ\nUpdated Date: 2024-09-28T19:02:49Z",
+    "whois_timestamp": 1734387902
+}

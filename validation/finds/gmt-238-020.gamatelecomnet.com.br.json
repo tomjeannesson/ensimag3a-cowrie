@@ -1,0 +1,14 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "rev1.gamatelecomnet.com.br",
+        "speedtest.gamatelecomnet.com.br",
+        "oltz.gamatelecomnet.com.br",
+        "rev2.gamatelecomnet.com.br",
+        "www.gamatelecomnet.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20200128\nchanged: 20240601\nchanged: 20240817\ncountry: BR\ncreated: 20110903\ncreated: 20150901 #14618657\ncreated: 20200115\ndomain: gamatelecomnet.com.br\ndsstatus: 20240910 DSOK\ne-mail: 5cacd47d3cfedde0s@gmail.com\ne-mail: 7c6bb9e9a8fd77dcs@gmail.com\nexpires: 20250901\nnic-hdl-br: RAJMA61\nnic-hdl-br: REMJU27\nnserver: d.sec.dns.br\nnserver: e.sec.dns.br\nstatus: published"
+}

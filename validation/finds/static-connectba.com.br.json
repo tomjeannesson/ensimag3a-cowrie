@@ -1,0 +1,27 @@
+{
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [],
+    "response_code": 1,
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "http://static-connectba.com.br/",
+            "9ce75bb55180d1df2409b11805cebc552f62983af06878d9c02396356495d930",
+            0,
+            90,
+            "2023-06-15 12:45:56"
+        ],
+        [
+            "https://static-connectba.com.br/",
+            "b67b785bd249580ad183310aa88b2fa1a5ef3a97213320a4223849aba6781205",
+            0,
+            90,
+            "2023-06-15 12:45:56"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br",
+    "whois_timestamp": 1686849726
+}

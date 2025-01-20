@@ -1,0 +1,60 @@
+{
+    "Comodo Valkyrie Verdict category": "media sharing",
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "103.227.97.4",
+            "last_resolved": "2021-03-17 13:54:20"
+        },
+        {
+            "ip_address": "106.51.130.248",
+            "last_resolved": "2021-06-23 19:01:19"
+        },
+        {
+            "ip_address": "122.166.146.235",
+            "last_resolved": "2021-02-09 00:01:59"
+        },
+        {
+            "ip_address": "125.99.240.61",
+            "last_resolved": "2021-07-17 04:48:49"
+        },
+        {
+            "ip_address": "125.99.251.76",
+            "last_resolved": "2022-08-03 04:39:50"
+        },
+        {
+            "ip_address": "49.205.216.64",
+            "last_resolved": "2021-04-01 10:14:32"
+        },
+        {
+            "ip_address": "54.164.232.53",
+            "last_resolved": "2015-11-06 00:00:00"
+        },
+        {
+            "ip_address": "54.209.191.138",
+            "last_resolved": "2015-11-08 00:00:00"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "mail.hostsky.net",
+        "www.hostsky.net",
+        "webmail.hostsky.net",
+        "cpcontacts.hostsky.net"
+    ],
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "http://hostsky.net/",
+            "e334a9a0c367f4ca065c178b8d0cb75e119e7d16a1c70cbc219e10a641e199d9",
+            0,
+            88,
+            "2021-06-23 19:01:07"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Administrative city: Bangalore\nAdministrative country: India\nAdministrative email: 3ba867982aa79e94s@gmail.com\nAdministrative state: Karnataka\nCreate date: 2022-06-17\nDomain name: hostsky.net\nDomain registrar id: 303\nDomain registrar url: http://www.publicdomainregistry.com\nExpiry date: 2023-06-17\nName server 1: ns3.hostsky.in\nName server 2: ns4.hostsky.in\nQuery time: 2022-06-20 14:57:51\nRegistrant address: ef695fcd5c0dfea7\nRegistrant city: dd276215ea2f0515\nRegistrant company: 18149a4da9ed32fe\nRegistrant country: India\nRegistrant email: 3ba867982aa79e94s@gmail.com\nRegistrant fax: 3267309318f7846c\nRegistrant name: d9bdd40cedf07c6b\nRegistrant phone: ff3a4678d9c7a906\nRegistrant state: 69931639104963e9\nRegistrant zip: f6c680125afbcba4\nTechnical city: Bangalore\nTechnical country: India\nTechnical email: 3ba867982aa79e94s@gmail.com\nTechnical state: Karnataka\nUpdate date: 2022-06-17",
+    "whois_timestamp": 1686960000
+}

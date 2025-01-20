@@ -1,0 +1,50 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "107.172.78.203",
+            "last_resolved": "2021-09-19 01:38:19"
+        },
+        {
+            "ip_address": "107.174.172.141",
+            "last_resolved": "2023-05-02 01:25:53"
+        },
+        {
+            "ip_address": "198.12.65.17",
+            "last_resolved": "2023-05-02 01:25:53"
+        },
+        {
+            "ip_address": "207.90.193.86",
+            "last_resolved": "2023-05-02 01:25:54"
+        },
+        {
+            "ip_address": "3.136.241.102",
+            "last_resolved": "2021-09-12 21:34:10"
+        },
+        {
+            "ip_address": "3.142.151.32",
+            "last_resolved": "2021-09-09 04:54:47"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "ihatemoney.tagsdev.click",
+        "mark.tagsdev.click",
+        "pm.tagsdev.click",
+        "admin.tagsdev.click",
+        "grafana.tagsdev.click",
+        "julie.tagsdev.click",
+        "blog.tagsdev.click",
+        "nextcloud.tagsdev.click",
+        "monitor.tagsdev.click",
+        "ssh.tagsdev.click",
+        "www.tagsdev.click",
+        "web.tagsdev.click",
+        "test.tagsdev.click",
+        "rpi.tagsdev.click"
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": null,
+    "whois_timestamp": 1682990753
+}

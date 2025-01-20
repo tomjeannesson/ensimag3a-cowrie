@@ -1,0 +1,43 @@
+{
+    "Forcepoint ThreatSeeker category": "information technology",
+    "detected_downloaded_samples": [],
+    "detected_urls": [
+        {
+            "positives": 1,
+            "scan_date": "2024-05-20 05:29:03",
+            "total": 94,
+            "url": "http://rplus.dp.ua/"
+        }
+    ],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "77.109.33.120",
+            "last_resolved": "2019-11-04 16:28:37"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "www.rplus.dp.ua"
+    ],
+    "undetected_downloaded_samples": [
+        {
+            "date": "2021-09-28 15:15:07",
+            "positives": 0,
+            "sha256": "80c3fe2ae1062abf56456f52518bd670f9ec3917b7f85e152b347ac6b6faf880",
+            "total": 72
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://rplus.dp.ua/rplus_for_mail_18351.gif",
+            "f80f6e47aaaae9303c01b21869d0f3bd5ea39f5f7bc647d7b57b7bc00d0e67bf",
+            0,
+            90,
+            "2021-10-05 11:39:40"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "created: 2002-06-27 00:00:00+03\ncreated: 2013-11-06 16:32:14+02\ncreated: 2022-07-14 16:03:26+03\ndomain: rplus.dp.ua\ne-mail: 91788e0a8f0c8a39s@people.net.ua\ne-mail: d52ad5e18ac11e26s@trifle.net\nexpires: 2025-06-21 11:43:22+03\nmodified: 2018-07-03 17:48:34+03\nmodified: 2022-07-22 15:46:49+03\nmodified: 2024-05-24 16:13:15+03\nnserver: ns.people.net.ua\nnserver: ns2.people.net.ua\norganization-loc: \u041e\u041e\u041e \"\u041d\u041f\u041f \"\u0422\u0440\u0430\u0439\u0444\u043b \u041a\u043e., \u041b\u0442\u0434\"\norganization-loc: \u041f\u0440\u0438\u0432\u0430\u0442\u043d\u0435 \u0430\u043a\u0446\u0456\u043e\u043d\u0435\u0440\u043d\u0435 \u0442\u043e\u0432\u0430\u0440\u0438\u0441\u0442\u0432\u043e \"\u0422\u0435\u043b\u0435\u0441\u0438\u0441\u0442\u0435\u043c\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438\"\norganization-loc: \u0422\u041e\u0412 \"\u041d\u0412\u041f \"\u0422\u0440\u0430\u0439\u0444\u043b \u041a\u043e., \u041b\u0442\u0434\"\nregistrant: 1ea4ce71938489c3\nregistrar: dp.apex\nsource: DPNIC\nstatus: autodelete\nstatus: autohold",
+    "whois_timestamp": 1722535769
+}

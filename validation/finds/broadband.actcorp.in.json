@@ -1,0 +1,487 @@
+{
+    "alphaMountain.ai category": "Business/Economy, Information Technology (alphaMountain.ai)",
+    "detected_communicating_samples": [
+        {
+            "date": "2021-03-10 00:30:47",
+            "positives": 5,
+            "sha256": "53dad38fff12cc6e2cbbf8a3cef32bbe95dfb5e86f4ef4dab5d7718d033664b5",
+            "total": 72
+        },
+        {
+            "date": "2021-02-09 17:41:52",
+            "positives": 54,
+            "sha256": "e3f5434ce2bf001645114673f32137517a44cfe13b4c96c01390d64d29f3ec7a",
+            "total": 76
+        },
+        {
+            "date": "2021-01-16 23:31:28",
+            "positives": 2,
+            "sha256": "301e408a22765b952c26e15820133c6920160fa2e1042b1856d9a16d2c8b1555",
+            "total": 75
+        },
+        {
+            "date": "2020-11-18 09:01:20",
+            "positives": 49,
+            "sha256": "24bfa1b98a00f9d531ab05e0a92e41fd98a69fb2cb669480c30f1cc82f6e12c8",
+            "total": 75
+        },
+        {
+            "date": "2020-10-19 23:01:39",
+            "positives": 61,
+            "sha256": "bcfe35e7de57eb5b8693e7d159e3d360cbc1017121a8534342b0b68a09147c1f",
+            "total": 75
+        },
+        {
+            "date": "2020-10-19 19:01:54",
+            "positives": 33,
+            "sha256": "220f81d0e1c2c101932ceb399402fc7bf13712824e5947ee8b1a837b9b29362f",
+            "total": 75
+        },
+        {
+            "date": "2020-10-17 13:31:08",
+            "positives": 62,
+            "sha256": "5920a617e574716543abcd611341ad9629dd93da9aae5a3c5d6c339099e18c3e",
+            "total": 75
+        },
+        {
+            "date": "2020-10-16 17:01:05",
+            "positives": 3,
+            "sha256": "403613b886954c3775342f0e04d281f873c94e55a3c7484d067d877be0dce3cb",
+            "total": 75
+        },
+        {
+            "date": "2020-09-05 04:31:45",
+            "positives": 57,
+            "sha256": "8c37f253cd68a0ad067006101fed5f71c94f690ba8b531c20b03d8000dfccd17",
+            "total": 73
+        },
+        {
+            "date": "2020-09-03 20:31:43",
+            "positives": 59,
+            "sha256": "387ea62e7097ac7bbfbb654f35e2318a49d4d2c0b7831697040587425b722d19",
+            "total": 73
+        },
+        {
+            "date": "2020-08-28 21:31:58",
+            "positives": 61,
+            "sha256": "84bf2a9cc1f4ad24423fa0417c492909c3a37fe851d5fd4de124ba46b4d726bf",
+            "total": 73
+        },
+        {
+            "date": "2020-08-11 17:01:19",
+            "positives": 59,
+            "sha256": "8ec20f9975c8b188f371be615fd69acbc8c14e32e8efd5bfd5c48c9d0760ffdf",
+            "total": 76
+        },
+        {
+            "date": "2020-08-05 04:31:53",
+            "positives": 60,
+            "sha256": "a4c29cea5acaea9742191610834d086b443d90d732cc43cf2205487c4ff86161",
+            "total": 75
+        },
+        {
+            "date": "2020-07-14 23:00:53",
+            "positives": 62,
+            "sha256": "630c572a7a4e596d7c006b992df14cee15807cb4722efe616de25defab6df590",
+            "total": 76
+        },
+        {
+            "date": "2020-06-28 08:31:55",
+            "positives": 62,
+            "sha256": "2300fab11b3eb35e979af7dcdf363689097293688821b6b76fef252fa8becf4b",
+            "total": 76
+        },
+        {
+            "date": "2020-06-25 22:27:09",
+            "positives": 1,
+            "sha256": "1cdb281c4575826c1d157c5b915cf1c5d28e2e86c539c6ab67b69d0f1a77ec78",
+            "total": 76
+        },
+        {
+            "date": "2020-06-25 22:29:35",
+            "positives": 1,
+            "sha256": "abdb4900e02af79c48046785b8e5b900fdc71b12a99d88862306f98d45f78589",
+            "total": 76
+        },
+        {
+            "date": "2020-06-20 14:31:24",
+            "positives": 9,
+            "sha256": "86a21eb4560bdc859fcad981ad0f903bb07a2f52dbb9623aab5ab4f35d1f7509",
+            "total": 75
+        },
+        {
+            "date": "2020-06-12 01:22:11",
+            "positives": 2,
+            "sha256": "82481951e47c0994c090c4bb676c60a95de55855e4cb8b9661cba70e2b40227c",
+            "total": 76
+        },
+        {
+            "date": "2020-06-08 23:31:50",
+            "positives": 65,
+            "sha256": "d1df936489c45617ebb032772d33ca072998f17e0aeec44c510011c492e22b99",
+            "total": 74
+        },
+        {
+            "date": "2020-06-07 01:01:44",
+            "positives": 56,
+            "sha256": "f829373a6ba2e561d08e03a653fbe9216e1e5b0c6acb422bb4d3dbda88ac5f0c",
+            "total": 74
+        },
+        {
+            "date": "2020-06-07 01:01:41",
+            "positives": 58,
+            "sha256": "f67b9e9f3b24db242624fe9a33166a7d3d9f265a4d2b084f209939fc1ea02fda",
+            "total": 73
+        },
+        {
+            "date": "2020-06-02 13:52:53",
+            "positives": 62,
+            "sha256": "b7d1a9432c3626cf3d25e25d9459e1d095068ade01cd73b80485882bca680f84",
+            "total": 75
+        },
+        {
+            "date": "2020-05-25 05:01:48",
+            "positives": 57,
+            "sha256": "f9003ceddda3d9198e6fb849da2bebd1ca6b431edc45b0391e15689dcc186ccf",
+            "total": 74
+        },
+        {
+            "date": "2020-05-02 21:31:59",
+            "positives": 68,
+            "sha256": "eec8b98ad868cb0c128454f22cab0664c29747cdf18085d145ad504cf6871048",
+            "total": 75
+        },
+        {
+            "date": "2020-04-04 15:31:59",
+            "positives": 61,
+            "sha256": "38db8663c4f7125defa9c1782744972d507e6023f9d93096d8eeb8f68a859466",
+            "total": 75
+        },
+        {
+            "date": "2020-03-21 20:01:52",
+            "positives": 61,
+            "sha256": "a7d79f16ef784bf83517c1b52aeb8cdaa661d40d08c2175d795d9f959430d83e",
+            "total": 74
+        },
+        {
+            "date": "2020-03-21 01:31:12",
+            "positives": 67,
+            "sha256": "c4e20bbd5b21f9ceaf04ddc5010f568c52d4544dd298497a1c1ef380a51125bc",
+            "total": 75
+        },
+        {
+            "date": "2020-03-15 12:31:54",
+            "positives": 61,
+            "sha256": "fc2376c5d7f762cb73a544fcd3f1a1d16e82264b684336c4a2d431d403eaa265",
+            "total": 75
+        },
+        {
+            "date": "2020-03-14 15:00:49",
+            "positives": 61,
+            "sha256": "249d7c5566153ba8a6655c676b81b8948ab981449e46a82320d99db9c7459b11",
+            "total": 75
+        },
+        {
+            "date": "2020-03-08 11:30:44",
+            "positives": 67,
+            "sha256": "02c9accd3d1ef488172d52d29aa6d62ac28052712cb688dbbeb2f71566d51700",
+            "total": 75
+        },
+        {
+            "date": "2020-03-07 17:31:50",
+            "positives": 61,
+            "sha256": "f8f26de55ddbf8d441d9e167eded09c9514b0e818e80bd7c96794252745663bc",
+            "total": 75
+        },
+        {
+            "date": "2020-03-06 14:01:28",
+            "positives": 65,
+            "sha256": "01e4026c97c49cad66be15f13131d4443a490d9b23e02f13aeb3b4287aafc384",
+            "total": 74
+        },
+        {
+            "date": "2020-03-04 08:31:39",
+            "positives": 60,
+            "sha256": "11617fa5021391cfd7712ec4e91368d8aec613a773d19209075b62d4b1e18bcd",
+            "total": 73
+        },
+        {
+            "date": "2020-03-03 09:01:25",
+            "positives": 56,
+            "sha256": "21508d134ef8771ab533f3e393f7dd83dcb67371eeef91487c0693b793fcf4a6",
+            "total": 72
+        },
+        {
+            "date": "2020-03-02 23:30:44",
+            "positives": 67,
+            "sha256": "45a5180bd89317a8ab8348dd696b11e9a4e23f50166c2cf099f31a4229a56a10",
+            "total": 75
+        },
+        {
+            "date": "2020-03-01 02:30:40",
+            "positives": 1,
+            "sha256": "69fcb80d7052e4e79649fe0dd71d2b7b95b577403010c522c1e3e2d69471e3de",
+            "total": 75
+        },
+        {
+            "date": "2020-02-29 14:31:56",
+            "positives": 60,
+            "sha256": "f6e6c0d9ef371b07159cd9d64b6a9f5248f261a24c5a1ed84c1e38f26ffd98b9",
+            "total": 74
+        },
+        {
+            "date": "2020-02-27 02:01:45",
+            "positives": 59,
+            "sha256": "fe5a838c280fb9ff5d454e33785ddc2c2a9b99f7fc2c5c57477fa6b912acaa26",
+            "total": 75
+        },
+        {
+            "date": "2020-02-25 15:01:45",
+            "positives": 59,
+            "sha256": "0f5e2185cdeef55b86ff5ebdc73111d5fb96c167c9673928d42953c4950eb1d2",
+            "total": 75
+        },
+        {
+            "date": "2019-11-15 12:37:37",
+            "positives": 57,
+            "sha256": "b535ccd8d54819b2d3fb1d98d30ce81aaf010bf0bf4a18230916f397325dffb5",
+            "total": 72
+        },
+        {
+            "date": "2020-02-06 13:30:19",
+            "positives": 58,
+            "sha256": "3b84df99ab9980cfb87380d48f8819bd217eea2553e3e3d2a2942ab35a1688e0",
+            "total": 74
+        },
+        {
+            "date": "2020-02-15 07:32:00",
+            "positives": 60,
+            "sha256": "e05e8f89460881fb08c640d238a5df0a10a72433830bcbfecbc2ec94301adcd3",
+            "total": 75
+        },
+        {
+            "date": "2020-02-13 21:01:47",
+            "positives": 60,
+            "sha256": "907c8fc605656a57460ad5cfe64415280f5402b3526aacb9df456a2047820740",
+            "total": 75
+        },
+        {
+            "date": "2020-02-11 10:01:52",
+            "positives": 57,
+            "sha256": "6340781527f813b973bbb88c768555b5c961869e08061ff181e945c1985f90ad",
+            "total": 74
+        }
+    ],
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [
+        {
+            "date": "2019-05-03 01:03:17",
+            "positives": 16,
+            "sha256": "94b9d212b5c1170e8d53023daf2d1e09f667747db871cf3068a697d2ea8eb787",
+            "total": 72
+        },
+        {
+            "date": "2019-05-02 12:08:58",
+            "positives": 11,
+            "sha256": "7e753227ec85ef21a7ff373bd66297309a9518fb1d63713e4cc5b9224471e9b0",
+            "total": 72
+        },
+        {
+            "date": "2019-04-27 03:16:02",
+            "positives": 10,
+            "sha256": "94db68ea8d20afc2a15940a0c6449d04d99483d9668eb53f80101cd17b1cfdb2",
+            "total": 73
+        },
+        {
+            "date": "2019-04-12 17:21:00",
+            "positives": 33,
+            "sha256": "11ef8d1e61bc72e1b83e05cba0cf3d5242bf4c4e6c7923f46b0f06f9ae3b00c6",
+            "total": 67
+        },
+        {
+            "date": "2018-11-19 09:47:41",
+            "positives": 24,
+            "sha256": "7a03b31ba58d7a663386e02cd7fdb3fda70615a780169322de9f989cc3beb0ab",
+            "total": 70
+        }
+    ],
+    "detected_urls": [],
+    "domain_siblings": [
+        "alphafibernet.actcorp.in",
+        "hyd.actcorp.in",
+        "roi.actcorp.in",
+        "www.actcorp.in",
+        "soa.actcorp.in",
+        "incredible.actcorp.in",
+        "speedtestchn.actcorp.in",
+        "selfcare.actcorp.in",
+        "elink.actcorp.in",
+        "ns11.actcorp.in",
+        "portal.actcorp.in",
+        "tiny.actcorp.in",
+        "cmstestapi.actcorp.in",
+        "cmstestimageserver.actcorp.in",
+        "vpnhyd.actcorp.in",
+        "speedtestjpr.actcorp.in",
+        "nmsblr-2.actcorp.in",
+        "broadbanduser1000.actcorp.in",
+        "aatuat.actcorp.in",
+        "aatahm.actcorp.in",
+        "myfibernet.actcorp.in",
+        "digitalselfcare.actcorp.in",
+        "betafibernet.actcorp.in",
+        "acsanalyzer.actcorp.in",
+        "mynet.actcorp.in",
+        "apps.actcorp.in",
+        "actversity.actcorp.in",
+        "cmsapi.actcorp.in",
+        "gisweb.actcorp.in",
+        "digital.actcorp.in",
+        "preprod.actcorp.in",
+        "new.actcorp.in",
+        "pwad.actcorp.in",
+        "wifi-zone.actcorp.in",
+        "speedtestviz.actcorp.in",
+        "img.actcorp.in",
+        "redirect.actcorp.in",
+        "selfcare-blr.actcorp.in",
+        "sdwan-hub.actcorp.in",
+        "prtgblr.actcorp.in",
+        "hydmail.actcorp.in",
+        "aat.actcorp.in",
+        "internalapps.actcorp.in",
+        "hyddns.actcorp.in",
+        "exact.actcorp.in",
+        "elite.actcorp.in",
+        "speedtestdelhi.actcorp.in",
+        "speedtestblr.actcorp.in",
+        "speedtest-delhi.actcorp.in",
+        "speedtestnlr.actcorp.in",
+        "sview-hyd.actcorp.in",
+        "debunk-blr.actcorp.in",
+        "sview.actcorp.in",
+        "addon-blr.actcorp.in",
+        "hydtest.actcorp.in",
+        "devselfcare.actcorp.in",
+        "app.actcorp.in",
+        "blr-kiwi-db.actcorp.in",
+        "sightline.actcorp.in",
+        "erp1.actcorp.in",
+        "vpnblr.actcorp.in",
+        "retailer.actcorp.in",
+        "cmsapi-blr.actcorp.in",
+        "intfileshare.actcorp.in",
+        "fileshare.actcorp.in",
+        "dossier-blr.actcorp.in",
+        "digital-blr.actcorp.in",
+        "dossier.actcorp.in",
+        "tiny-hyd.actcorp.in",
+        "lpm.actcorp.in",
+        "ebexactapp.actcorp.in",
+        "harborrepo-hyd.actcorp.in",
+        "iapps.actcorp.in",
+        "roimail.actcorp.in",
+        "debunk.actcorp.in",
+        "earf.actcorp.in",
+        "speedtest.actcorp.in",
+        "aathyd.actcorp.in",
+        "static.actcorp.in",
+        "afp.actcorp.in",
+        "partnerportal.actcorp.in",
+        "bots.actcorp.in",
+        "mail.actcorp.in",
+        "acs.actcorp.in",
+        "mydigital.actcorp.in",
+        "sip2.actcorp.in",
+        "actwidevinedrm.actcorp.in",
+        "speedtesthyd.actcorp.in",
+        "prtg.actcorp.in",
+        "ldappri.actcorp.in",
+        "aatjpr.actcorp.in",
+        "aat-hyd.actcorp.in",
+        "digital-hyd.actcorp.in",
+        "cmspublisher2.actcorp.in",
+        "hyfi.actcorp.in",
+        "mynet-hyd.actcorp.in",
+        "speedtestahmd.actcorp.in",
+        "alerts.actcorp.in",
+        "selfcare-hyd.actcorp.in"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "183.82.34.238",
+            "last_resolved": "2020-06-12 01:24:23"
+        },
+        {
+            "ip_address": "202.83.16.167",
+            "last_resolved": "2020-04-05 04:26:01"
+        },
+        {
+            "ip_address": "208.91.197.205",
+            "last_resolved": "2016-08-01 00:00:00"
+        },
+        {
+            "ip_address": "49.207.3.164",
+            "last_resolved": "2021-03-20 12:42:50"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "act1.broadband.actcorp.in"
+    ],
+    "undetected_communicating_samples": [
+        {
+            "date": "2021-03-20 12:41:30",
+            "positives": 0,
+            "sha256": "b7e04f287d8e341928c3ce70c852c6cceddf3144db1d676d20e2e77c7ce183f1",
+            "total": 0
+        }
+    ],
+    "undetected_downloaded_samples": [],
+    "undetected_referrer_samples": [
+        {
+            "date": "2019-04-16 02:28:44",
+            "positives": 0,
+            "sha256": "1170f4596c07bd073314aaa846cea0863630ddf3a1047e4f3f63d62a3adaab11",
+            "total": 66
+        },
+        {
+            "date": "2019-04-12 02:28:20",
+            "positives": 0,
+            "sha256": "8e48b35570a5c425d4ba4e262e2979e9036a41b947f09ac23103053ed2e82b6d",
+            "total": 70
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://broadband.actcorp.in/",
+            "5c4e5184f58938a0125b3a0aa847c84b4816f48a6098c452b23a7790c4d2cc7b",
+            0,
+            96,
+            "2024-11-23 08:15:21"
+        ],
+        [
+            "http://broadband.actcorp.in:61448/",
+            "0f7d5987f2a8a4904ec5c06211648c168c5c3bc03552771f8eb7a017b7e773a9",
+            0,
+            90,
+            "2023-12-05 06:23:31"
+        ],
+        [
+            "http://broadband.actcorp.in/",
+            "8cf5fdf29acc92d8505180c5d0f0578c6fef00b01e2fe303c743447cc1c1a4af",
+            0,
+            90,
+            "2023-06-15 12:45:01"
+        ],
+        [
+            "http://broadband.actcorp.in:33135/",
+            "cdbe6a6f6416f5900e27228f04b34cf843d6a839ee8e17d4ad0c74b44d582a02",
+            0,
+            70,
+            "2018-12-23 17:27:58"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nCreation Date: 2014-06-03T11:55:18Z\nDNSSEC: unsigned\nDomain Name: actcorp.in\nDomain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited\nName Server: ns-1363.awsdns-42.org\nName Server: ns-1575.awsdns-04.co.uk\nName Server: ns-203.awsdns-25.com\nName Server: ns-564.awsdns-06.net\nName Server: ns1.actcorp.co.in\nName Server: ns2.actcorp.co.in\nRegistrant City: 1f8f4166599d23ee\nRegistrant Country: IN\nRegistrant Email: b1f2772c6dea32e5s@\nRegistrant Fax Ext: 1f8f4166599d23ee\nRegistrant Fax: 1f8f4166599d23ee\nRegistrant Name: 1f8f4166599d23ee\nRegistrant Organization: e5ad919616af5f60\nRegistrant Phone Ext: 1f8f4166599d23ee\nRegistrant Phone: 1f8f4166599d23ee\nRegistrant Postal Code: 1f8f4166599d23ee\nRegistrant State/Province: 10d328988b125e53\nRegistrant Street: 1f8f4166599d23ee\nRegistrar Abuse Contact Email: abuse@publicdomainregistry.com\nRegistrar Abuse Contact Phone: +1.2013775952\nRegistrar IANA ID: 801217\nRegistrar URL: https://publicdomainregistry.com/\nRegistrar: Endurance Digital Domain Technology Private Limited\nRegistry Admin ID: REDACTED FOR PRIVACY\nRegistry Domain ID: D8459934-IN\nRegistry Expiry Date: 2029-06-03T11:55:18Z\nRegistry Registrant ID: REDACTED FOR PRIVACY\nRegistry Tech ID: REDACTED FOR PRIVACY\nTech City: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nUpdated Date: 2024-05-31T21:09:13Z"
+}

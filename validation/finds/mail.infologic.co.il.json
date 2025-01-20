@@ -1,0 +1,24 @@
+{
+    "detected_communicating_samples": [
+        {
+            "date": "2021-10-11 06:25:46",
+            "positives": 44,
+            "sha256": "6cb11df1fb97794c7f24d1065aa13cc7111080d3f097165c735c2a072c6f7749",
+            "total": 74
+        }
+    ],
+    "detected_urls": [],
+    "domain_siblings": [
+        "remote.infologic.co.il"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "62.219.145.230",
+            "last_resolved": "2017-07-03 00:00:00"
+        }
+    ],
+    "response_code": 1,
+    "undetected_communicating_samples": [],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "DNSSEC: unsigned\nchanged: domain-registrar AT isoc.org.il 20020102\nchanged: domain-registrar AT isoc.org.il 20020325\nchanged: domain-registrar AT isoc.org.il 20020416\nchanged: domain-registrar AT isoc.org.il 20020624\nchanged: domain-registrar AT isoc.org.il 20020924\nchanged: domain-registrar AT isoc.org.il 20021202\nchanged: domain-registrar AT isoc.org.il 20021202 (Changed)\nchanged: domain-registrar AT isoc.org.il 20021225\nchanged: domain-registrar AT isoc.org.il 20030323\nchanged: domain-registrar AT isoc.org.il 20030618\nchanged: domain-registrar AT isoc.org.il 20031222\nchanged: domain-registrar AT isoc.org.il 20040210\nchanged: domain-registrar AT isoc.org.il 20040603\nchanged: domain-registrar AT isoc.org.il 20040726\nchanged: domain-registrar AT isoc.org.il 20040804\nchanged: domain-registrar AT isoc.org.il 20041102\nchanged: domain-registrar AT isoc.org.il 20041104\nchanged: domain-registrar AT isoc.org.il 20060131\nchanged: domain-registrar AT isoc.org.il 20060209\nchanged: domain-registrar AT isoc.org.il 20060216\nchanged: domain-registrar AT isoc.org.il 20060417\nchanged: domain-registrar AT isoc.org.il 20060517\nchanged: domain-registrar AT isoc.org.il 20060606\nchanged: domain-registrar AT isoc.org.il 20060618\nchanged: domain-registrar AT isoc.org.il 20060831\nchanged: domain-registrar AT isoc.org.il 20060914\nchanged: domain-registrar AT isoc.org.il 20060926\nchanged: domain-registrar AT isoc.org.il 20061210\nchanged: domain-registrar AT isoc.org.il 20070215\nchanged: domain-registrar AT isoc.org.il 20070514\nchanged: domain-registrar AT isoc.org.il 20070813\nchanged: domain-registrar AT isoc.org.il 20070815\nchanged: domain-registrar AT isoc.org.il 20071015\nchanged: domain-registrar AT isoc.org.il 20080217\nchanged: domain-registrar AT isoc.org.il 20080428\nchanged: domain-registrar AT isoc.org.il 20080810\nchanged: domain-registrar AT isoc.org.il 20080810 (Changed)\nchanged: domain-registrar AT isoc.org.il 20080826 (Changed)\nchanged: domain-registrar AT isoc.org.il 20080922\nchanged: domain-registrar AT isoc.org.il 20081202\nchanged: domain-registrar AT isoc.org.il 20090406\nchanged: domain-registrar AT isoc.org.il 20090419\nchanged: domain-registrar AT isoc.org.il 20090907\nchanged: domain-registrar AT isoc.org.il 20091104\nchanged: domain-registrar AT isoc.org.il 20091209\nchanged: domain-registrar AT isoc.org.il 20110523\nchanged: domain-registrar AT isoc.org.il 20120514\nchanged: domain-registrar AT isoc.org.il 20150420 (Changed)\nchanged: domain-registrar AT isoc.org.il 20150602\nchanged: domain-registrar AT isoc.org.il 20150831 (Changed)\nchanged: domain-registrar AT isoc.org.il 20160922\nchanged: hostmaster AT bezeqint.net 20000207\nchanged: registrar AT ns.il 19980504 (Assigned)\nchanged: registrar AT ns.il 19981004 (Changed)\nchanged: registrar AT ns.il 20000629 (Changed)\ndomain: infologic.co.il\nnic-hdl: II-GK5578-IL\nnic-hdl: II-IB1023-IL\nnic-hdl: II-SB10942-IL\nnserver: ns1.bezeqint.net\nnserver: ns2.bezeqint.net\nnserver: ns3.bezeqint.net\nregistrar info: www.isoc.org.il\nregistrar name: Israel Internet Association ISOC-IL\nstatus: Transfer Locked"
+}

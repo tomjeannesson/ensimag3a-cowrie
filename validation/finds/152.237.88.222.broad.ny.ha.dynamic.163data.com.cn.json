@@ -1,0 +1,25 @@
+{
+    "Forcepoint ThreatSeeker category": "information technology",
+    "Xcitium Verdict Cloud category": "computing & technology",
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns2.163data.com.cn",
+        "ns1.163data.com.cn",
+        "static.163data.com.cn"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "http://152.237.88.222.broad.ny.ha.dynamic.163data.com.cn/",
+            "d43d2007b0560c7b093e655d7b3978d26cd9e564c2488a8168bda7295e3673a4",
+            0,
+            91,
+            "2024-01-27 03:23:29"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "DNSSEC: unsigned\nDomain Name: 163data.com.cn\nDomain Status: ok\nExpiration Time: 2026-10-22 04:04:52\nName Server: ns1.myhostadmin.net\nName Server: ns2.myhostadmin.net\nName Server: ns3.myhostadmin.net\nName Server: ns4.myhostadmin.net\nName Server: ns5.myhostadmin.net\nName Server: ns6.myhostadmin.net\nRegistrant Contact Email: f6167b32ce64fddbs@email.cn\nRegistrant: 5e6caa8930a411d8\nRegistration Time: 2024-10-22 04:04:52\nSponsoring Registrar: \u963f\u91cc\u4e91\u8ba1\u7b97\u6709\u9650\u516c\u53f8\uff08\u4e07\u7f51\uff09"
+}

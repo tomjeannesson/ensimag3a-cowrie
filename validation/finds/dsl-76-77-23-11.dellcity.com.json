@@ -1,0 +1,19 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.dellcity.com",
+        "mail.dellcity.com",
+        "outbound.dellcity.com",
+        "ns3.dellcity.com",
+        "monitor.dellcity.com",
+        "ispadmin.dellcity.com",
+        "smtp.dellcity.com",
+        "webmail.dellcity.com",
+        "ns1.dellcity.com",
+        "filter1.dellcity.com"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: Dell City,\nAdmin Country: US\nAdmin Email: ca6caba791cf34c3s@DELLCITY.COM\nAdmin Organization: Delcom Inc.\nAdmin Postal Code: 79837\nAdmin State/Province: TX\nCreation Date: 1996-12-04T05:00:00Z\nDNSSEC: unsigned\nDomain Name: DELLCITY.COM\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nName Server: NS1.DELLTELEPHONE.COM\nName Server: NS2.DELLTELEPHONE.COM\nRegistrant City: 38007b9a7e0423a7\nRegistrant Country: US\nRegistrant Email: 8fc43209f2524f1fs@ncom.com\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: b6fb7849277b4319\nRegistrant Name: 9472a818b7bc20b8\nRegistrant Organization: 9472a818b7bc20b8\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: b2daea55bc3d6601\nRegistrant Postal Code: bd13a3f48c431036\nRegistrant State/Province: 84d65baeffe9b182\nRegistrant Street: b1e08b51273ec59d\nRegistrar Abuse Contact Email: domain.operations@web.com\nRegistrar Abuse Contact Phone: +1.8777228662\nRegistrar IANA ID: 2\nRegistrar Registration Expiration Date: 2027-12-03T05:00:00Z\nRegistrar URL: http://networksolutions.com\nRegistrar WHOIS Server: whois.networksolutions.com\nRegistrar: Network Solutions, LLC\nRegistry Domain ID: 978422_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2027-12-03T05:00:00Z\nTech City: Dell City,\nTech Country: US\nTech Email: ca6caba791cf34c3s@DELLCITY.COM\nTech Organization: Delcom Inc.\nTech Postal Code: 79837\nTech State/Province: TX\nUpdated Date: 2022-10-06T06:32:28Z\nUpdated Date: 2022-10-06T06:32:54Z"
+}

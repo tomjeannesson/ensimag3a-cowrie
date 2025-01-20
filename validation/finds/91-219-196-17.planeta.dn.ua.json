@@ -1,0 +1,15 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "iptv.planeta.dn.ua",
+        "billing.planeta.dn.ua",
+        "ns.planeta.dn.ua",
+        "mail.planeta.dn.ua",
+        "www.planeta.dn.ua",
+        "ns1.planeta.dn.ua"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% Query time: 8 msec\nchanged: COO-UANIC 20170703163708\nchanged: HOST-UANIC 20170717145120\nchanged: IM1-UANIC 20081113164723\ncreated: 0-UANIC 19970216000000\ndomain: dn.ua\ne-mail: 1093611daa38a4bd@kh.ua\ne-mail: 1093611daa38a4bd@kharkov.ua\nnic-handle: COO-UANIC\nnic-handle: IM1-UANIC\nnserver: ho1.eunic.net.ua\nnserver: ns.dn.ua\nnserver: ns.kh.ua\nnserver: ns.sm.ua\nnserver: ns.zp.ua\norg-id: 39521734\norg-id: N/A\norganization: Coordinator, PV\norganization: Igor Mikhailenko\norganization: \u0418\u0433\u043e\u0440\u044c \u0412\u043b\u0430\u0434\u0438\u0441\u043b\u0430\u0432\u043e\u0432\u0438\u0447 \u041c\u0438\u0445\u0430\u0439\u043b\u0435\u043d\u043a\u043e\norganization: \u041e\u041e\u041e \"\u0427\u041f \u041a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442\u043e\u0440\"\norganization: \u0422\u041e\u0412 \u0427\u041f \u041a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442\u043e\u0440\nsource: UANIC"
+}

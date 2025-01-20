@@ -1,0 +1,25 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "28.uralcom.com",
+        "5.uralcom.com",
+        "0.uralcom.com",
+        "21.uralcom.com",
+        "54.uralcom.com",
+        "106.uralcom.com",
+        "235.uralcom.com",
+        "2.uralcom.com",
+        "search.uralcom.com",
+        "sesm.uralcom.com",
+        "report.uralcom.com",
+        "stat.uralcom.com",
+        "p-perm-8-bras-6.uralcom.com",
+        "mail.uralcom.com",
+        "ns2.uralcom.com",
+        "www.uralcom.com"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Create date: 2024-03-15 00:00:00\nDomain name: uralcom.com\nDomain registrar id: 3806\nDomain registrar url: http://beget.com\nExpiry date: 2025-03-15 00:00:00\nName server 1: ns1.beget.com\nName server 2: ns1.beget.pro\nName server 3: ns2.beget.com\nName server 4: ns2.beget.pro\nQuery time: 2024-03-16 09:29:32\nUpdate date: 2024-03-15 00:00:00"
+}

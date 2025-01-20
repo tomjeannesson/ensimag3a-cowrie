@@ -1,0 +1,16 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.toptronicsinc.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "218.4.156.254",
+            "last_resolved": "2019-09-30 10:13:33"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: REDACTED FOR PRIVACY\nAdmin Country: TW\nAdmin Email: b1c6aa58c06dd5bes@ms43.hinet.net\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin State/Province: Kaohsiung\nCreation Date: 2007-10-15T06:42:39Z\nCreation Date: 2007-10-15T14:42:39Z\nDNSSEC: Unsigned\nDNSSEC: unsigned\nDomain Name: TOPTRONICSINC.COM\nDomain Name: toptronicsinc.com\nDomain Status: ok https://icann.org/epp#ok\nName Server: VDNS1.DIGITALUNITED.COM\nName Server: VDNS2.DIGITALUNITED.COM\nRegistrant City: 1f8f4166599d23ee\nRegistrant Country: TW\nRegistrant Email: b1c6aa58c06dd5bes@ms43.hinet.net\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: 1f8f4166599d23ee\nRegistrant Name: 1f8f4166599d23ee\nRegistrant Organization: 1f8f4166599d23ee\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: 1f8f4166599d23ee\nRegistrant Postal Code: 1f8f4166599d23ee\nRegistrant State/Province: 3f10b803dc84afb5\nRegistrant Street: 1f8f4166599d23ee\nRegistrar Abuse Contact Email: foreign@net-chinese.com.tw\nRegistrar Abuse Contact Phone: +886 225319196\nRegistrar Abuse Contact Phone: +886.225319696\nRegistrar IANA ID: 1336\nRegistrar Registration Expiration Date: 2030-10-15T14:42:39Z\nRegistrar URL: http://www.net-chinese.com.tw\nRegistrar WHOIS Server: whois.net-chinese.com.tw\nRegistrar: Net-Chinese Co., Ltd.\nRegistry Domain ID: 1276794276_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2030-10-15T06:42:39Z\nTech City: REDACTED FOR PRIVACY\nTech Country: TW\nTech Email: b1c6aa58c06dd5bes@ms43.hinet.net\nTech Organization: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech State/Province: Kaohsiung\nUpdated Date: 2021-12-30T03:12:29Z\nUpdated Date: 2021-12-30T11:12:29Z",
+    "whois_timestamp": 1532763325
+}

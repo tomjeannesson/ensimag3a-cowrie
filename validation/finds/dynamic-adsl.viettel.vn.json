@@ -1,0 +1,396 @@
+{
+    "detected_communicating_samples": [
+        {
+            "date": "2025-01-09 03:35:20",
+            "positives": 61,
+            "sha256": "e5216ebfce302c9acfa7ec7e4f22da659e28a4b20eee20a3a23811ff5b1f87af",
+            "total": 76
+        },
+        {
+            "date": "2023-05-08 18:22:43",
+            "positives": 19,
+            "sha256": "6ec2fe8d529f625f1d7eca5e083338afa6b9e172c286b4ee426b74563ba79930",
+            "total": 74
+        },
+        {
+            "date": "2021-02-06 14:11:58",
+            "positives": 57,
+            "sha256": "bce931f86eded70b170c7e92ff7d2bf422500b63f602e524974bc374dee2e648",
+            "total": 76
+        },
+        {
+            "date": "2021-02-05 13:51:57",
+            "positives": 55,
+            "sha256": "b206c6a27525940924fa0af8a6159c5d89c58dff8c20cd7680fd73dc139cef2d",
+            "total": 76
+        },
+        {
+            "date": "2021-01-25 05:47:02",
+            "positives": 55,
+            "sha256": "a047be4cf4bb79a5a2b7c951f16717d5ac6c63ee44ab0925a7e1c5c87b9aaa3a",
+            "total": 75
+        },
+        {
+            "date": "2020-12-01 13:51:55",
+            "positives": 59,
+            "sha256": "da5e30837865dc08676344e6fa4fd93e3f599a9366c309da7665de9982f2a708",
+            "total": 76
+        },
+        {
+            "date": "2020-11-06 20:11:50",
+            "positives": 54,
+            "sha256": "8566bcea641685767a9d2ffca5850047d17ae880f2003611e37a4a9276baaf2f",
+            "total": 76
+        },
+        {
+            "date": "2020-10-11 02:14:00",
+            "positives": 56,
+            "sha256": "5d9fe2735d4399d98e6e6a792b1feb26d6f2d9a5d77944ecacb4b4837e5e5fca",
+            "total": 74
+        },
+        {
+            "date": "2020-07-14 21:31:01",
+            "positives": 66,
+            "sha256": "732a043463b1a5f736f0acc0154c4a1a955c995fcd8378fb6c3e1465a9850a5e",
+            "total": 76
+        },
+        {
+            "date": "2020-06-12 08:20:54",
+            "positives": 18,
+            "sha256": "87df03cd6bf04a8c22db74d0d26b97003c2edd5605f4ec2ec0d3328d337fd7b7",
+            "total": 76
+        },
+        {
+            "date": "2020-06-09 09:35:44",
+            "positives": 55,
+            "sha256": "fd269dde14145a1990aa0fa945a6630f0689ac6372ac3d7927084c4b05a4a7e5",
+            "total": 74
+        },
+        {
+            "date": "2020-06-04 22:19:39",
+            "positives": 65,
+            "sha256": "0e930442c35f4ae991e562397457426a913a5fd1728bda45c85a40d39d205046",
+            "total": 75
+        },
+        {
+            "date": "2020-04-05 04:31:46",
+            "positives": 67,
+            "sha256": "73978aade73f53b908795a51a54e048b88286527089b8667ec8869a1e411d829",
+            "total": 75
+        },
+        {
+            "date": "2020-04-03 19:01:49",
+            "positives": 61,
+            "sha256": "8616476412a70288e4f769ce8b58bbaf1b14347b8ae59106320cf638601d65ec",
+            "total": 75
+        },
+        {
+            "date": "2020-03-23 10:31:20",
+            "positives": 66,
+            "sha256": "014374d6969ae11f9dad4507a932d63cfe0a51c6d2bc79820a07a0597bbd8b0b",
+            "total": 75
+        },
+        {
+            "date": "2020-03-19 03:01:49",
+            "positives": 59,
+            "sha256": "327a676f12d818b024cc4d351372928395c20e60375cc90996b9a903656cbe14",
+            "total": 75
+        },
+        {
+            "date": "2020-03-18 12:01:43",
+            "positives": 62,
+            "sha256": "626fe245b73825b0ffbd08cafffb3c3f6dbccbf2f78aea01938584d2c0951c2d",
+            "total": 75
+        },
+        {
+            "date": "2020-03-16 01:31:01",
+            "positives": 67,
+            "sha256": "0e5a2f6da981266b5cb1a23d64a6d79c0a9543c6c8f7bda57be7796dedb362c5",
+            "total": 75
+        },
+        {
+            "date": "2020-03-14 02:01:43",
+            "positives": 66,
+            "sha256": "a017a3e262b3c6764913db242ba7c105a2ad0085299c5cc06c5ebc03dd24f329",
+            "total": 74
+        },
+        {
+            "date": "2020-03-11 03:31:36",
+            "positives": 65,
+            "sha256": "e7341beafac21999dadedb936f60632f93a805f178119cba3699b4d0d09c10d1",
+            "total": 74
+        },
+        {
+            "date": "2020-03-09 11:30:41",
+            "positives": 29,
+            "sha256": "c8758fb954a689e61e56e1de89d1f631a601ce8d05d1ef94270f44ce55a76215",
+            "total": 75
+        },
+        {
+            "date": "2020-03-09 11:30:37",
+            "positives": 29,
+            "sha256": "475f73bc711e94afd7bd810fc519e3c9b5532709bd839bea11c96ad921f67e01",
+            "total": 75
+        },
+        {
+            "date": "2020-03-08 06:31:11",
+            "positives": 65,
+            "sha256": "4ebfb4c0b2ff07d6bfaf79a778cd1fde1ab321f2fa964f522e9f0ae9f08549b8",
+            "total": 74
+        },
+        {
+            "date": "2020-03-03 21:01:52",
+            "positives": 65,
+            "sha256": "32d46777d07c1aea7763d110e1cc77243740150a6fc371d0e5cf045db7ab4ec4",
+            "total": 74
+        },
+        {
+            "date": "2020-03-03 06:01:27",
+            "positives": 66,
+            "sha256": "d21776b16d6240f269d0056168fce9cbcf77556ec830f2ef8e16aac6fee81afa",
+            "total": 75
+        },
+        {
+            "date": "2020-03-01 22:32:01",
+            "positives": 59,
+            "sha256": "da5884a7863c8fad4cd717fa5fea32fa23c7690ee0d66a136eceed3b3d2e346b",
+            "total": 73
+        },
+        {
+            "date": "2020-03-01 02:30:40",
+            "positives": 1,
+            "sha256": "69fcb80d7052e4e79649fe0dd71d2b7b95b577403010c522c1e3e2d69471e3de",
+            "total": 75
+        },
+        {
+            "date": "2020-02-28 11:01:34",
+            "positives": 65,
+            "sha256": "f0c7c4b213596a3e0534d4ac86d0dbb2a0d184715c2cb3bc0357bf3dfa15ac9c",
+            "total": 75
+        },
+        {
+            "date": "2020-02-28 03:01:57",
+            "positives": 61,
+            "sha256": "8574ea6dffef0ccc21489bd0cc6e10735e113c4feadd635d9814ca5955dc1f32",
+            "total": 75
+        },
+        {
+            "date": "2020-02-24 23:14:00",
+            "positives": 55,
+            "sha256": "e17746721dc1d611064d265b420efaa2790be03d8380c16e9519cab6cb6fa609",
+            "total": 75
+        },
+        {
+            "date": "2020-02-23 03:31:22",
+            "positives": 64,
+            "sha256": "c61dff3b257b03a14c8aa3e105271799889f2aac4ba8bb114fbbc614f776f14a",
+            "total": 75
+        },
+        {
+            "date": "2020-02-22 00:31:42",
+            "positives": 59,
+            "sha256": "cc169480fa6aa99d420ae2d7810559d925bb517ecdaf55026a595af2276b0593",
+            "total": 75
+        },
+        {
+            "date": "2020-02-16 13:31:52",
+            "positives": 64,
+            "sha256": "1f8c0182a83a1b122cf039bbb89c47f51bc629e1c36730c15435713d7018b460",
+            "total": 75
+        },
+        {
+            "date": "2020-02-14 17:31:53",
+            "positives": 59,
+            "sha256": "28395f9afd3fd00071f1c723274cfadf6ce0b827c127bf2119e2ee8bf846cf59",
+            "total": 74
+        },
+        {
+            "date": "2020-02-13 21:01:42",
+            "positives": 60,
+            "sha256": "1e95b89392f5158028733ccf7b5c533d9a86b7da372300a3b856ae44d2513116",
+            "total": 74
+        },
+        {
+            "date": "2020-02-12 15:01:53",
+            "positives": 63,
+            "sha256": "f11b45e0e6135b6b8d1d2686c4888d1f393ed53aa92c3cf98a8ddb81b809a45c",
+            "total": 72
+        }
+    ],
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "sbc0mycc.viettel.vn",
+        "remotesigning.viettel.vn",
+        "viettelpaycms.viettel.vn",
+        "vinvoice.viettel.vn",
+        "vtpgw.viettel.vn",
+        "s.viettel.vn",
+        "shop.viettel.vn",
+        "gamegw.viettel.vn",
+        "vtpay9.viettel.vn",
+        "speedtestkv1a.viettel.vn",
+        "affapi.viettel.vn",
+        "api-vinvoice.viettel.vn",
+        "files-maps.viettel.vn",
+        "mydata.viettel.vn",
+        "maps.viettel.vn",
+        "pay.viettel.vn",
+        "chplay.viettel.vn",
+        "mx0.viettel.vn",
+        "mail3.viettel.vn",
+        "pay3.viettel.vn",
+        "mail1.viettel.vn",
+        "www.viettel.vn",
+        "edu.viettel.vn",
+        "hoadondientu.viettel.vn",
+        "apigami.viettel.vn",
+        "elearning-api.viettel.vn",
+        "ads.viettel.vn",
+        "cong.viettel.vn",
+        "sinvoice.viettel.vn",
+        "speedtestkv2a.viettel.vn",
+        "email.viettel.vn",
+        "es.viettel.vn",
+        "solutions.viettel.vn",
+        "api-maps.viettel.vn",
+        "vtracking.viettel.vn",
+        "mbooking.viettel.vn",
+        "sandbox.viettel.vn",
+        "sbc2mycc.viettel.vn",
+        "demo-sinvoice.viettel.vn",
+        "sso-public.viettel.vn",
+        "partnerapi.viettel.vn",
+        "qr.viettel.vn",
+        "admin-vinvoice.viettel.vn",
+        "elearning.viettel.vn",
+        "congtacdang-congtacchinhtri.viettel.vn",
+        "vbhxh-2.viettel.vn",
+        "360vds.viettel.vn",
+        "yourway.viettel.vn",
+        "tourist.viettel.vn",
+        "hotrobanhang.viettel.vn",
+        "esign.viettel.vn",
+        "business-sinvoice.viettel.vn",
+        "giamsatxemay.viettel.vn",
+        "quanlyxe.viettel.vn",
+        "esim.viettel.vn",
+        "adsl.viettel.vn",
+        "vtracking2.viettel.vn",
+        "mark.viettel.vn",
+        "loyal.viettel.vn",
+        "erp.viettel.vn",
+        "vsds.viettel.vn",
+        "tuyendung.viettel.vn",
+        "sbc1mycc.viettel.vn",
+        "mve.viettel.vn",
+        "098.viettel.vn",
+        "mms.viettel.vn",
+        "truyxuat.viettel.vn",
+        "ccstatic.viettel.vn",
+        "ns2.viettel.vn",
+        "opennetwork.viettel.vn",
+        "vhttekway.viettel.vn",
+        "solution.viettel.vn",
+        "jobs.viettel.vn",
+        "hcc.viettel.vn",
+        "homewifi3.viettel.vn",
+        "magazine.viettel.vn",
+        "businesss-sinvoice.viettel.vn",
+        "vmark.viettel.vn",
+        "ketnoi.viettel.vn",
+        "vmail.viettel.vn",
+        "naptien.viettel.vn",
+        "wap.viettel.vn",
+        "mykid.viettel.vn",
+        "vcam.viettel.vn",
+        "data.viettel.vn",
+        "api-sinvoice.viettel.vn",
+        "my.viettel.vn",
+        "analysis.viettel.vn",
+        "tadsl.viettel.vn",
+        "nguoidonghanh.viettel.vn",
+        "vbhxh.viettel.vn",
+        "speedtestkv2dp1.viettel.vn",
+        "smartmotor.viettel.vn",
+        "digital.viettel.vn",
+        "iot.viettel.vn",
+        "sso2.viettel.vn",
+        "quanlyxemay.viettel.vn",
+        "sme.viettel.vn",
+        "vtmall.viettel.vn"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "116.104.189.37",
+            "last_resolved": "2020-06-09 18:25:57"
+        },
+        {
+            "ip_address": "125.235.4.59",
+            "last_resolved": "2019-10-16 18:04:41"
+        },
+        {
+            "ip_address": "171.233.186.227",
+            "last_resolved": "2021-01-25 13:41:08"
+        },
+        {
+            "ip_address": "171.237.86.104",
+            "last_resolved": "2020-06-12 08:40:44"
+        },
+        {
+            "ip_address": "171.239.196.18",
+            "last_resolved": "2023-05-08 18:25:01"
+        },
+        {
+            "ip_address": "171.241.157.218",
+            "last_resolved": "2020-06-05 19:49:17"
+        },
+        {
+            "ip_address": "171.249.112.111",
+            "last_resolved": "2025-01-09 03:39:57"
+        }
+    ],
+    "response_code": 1,
+    "undetected_communicating_samples": [],
+    "undetected_downloaded_samples": [],
+    "undetected_referrer_samples": [
+        {
+            "date": "2022-02-07 15:25:35",
+            "positives": 0,
+            "sha256": "7caafd4fd15702affa6b5f3882f06fed4839f5945563e1c48545bf91381351d6",
+            "total": 73
+        },
+        {
+            "date": "2022-02-07 15:35:43",
+            "positives": 0,
+            "sha256": "27c1f0be1c5158fc56a5406ac8108e5f2298ddb87796d749389f40b9f3564527",
+            "total": 73
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://dynamic-adsl.viettel.vn/",
+            "792e95b35862a8a223d71eeb15d467afa2fda67729091695e3412d149a6f28ac",
+            0,
+            92,
+            "2024-04-08 05:05:00"
+        ],
+        [
+            "http://dynamic-adsl.viettel.vn/",
+            "4054c7246c50bb4b1f6f401fb104a2cbb2ee366383ebb52d46df801c96c0391f",
+            0,
+            90,
+            "2023-06-15 12:45:11"
+        ],
+        [
+            "http://dynamic-adsl.viettel.vn:8000/",
+            "ced8505a26d9fe72eca59ca7b2d3647f911f7bb97d518071443c044b1f7318c7",
+            0,
+            89,
+            "2021-08-15 00:45:05"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": null
+}

@@ -1,0 +1,42 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns1.dtssi.net",
+        "tie.dtssi.net",
+        "ns.dtssi.net",
+        "ns2.dtssi.net",
+        "dts-gw2-98.dtssi.net",
+        "mon.dtssi.net",
+        "avr.dtssi.net",
+        "sra.dtssi.net",
+        "ant.dtssi.net",
+        "dns1.dtssi.net",
+        "mpu.dtssi.net",
+        "184-240-static.87-185.dtssi.net",
+        "host189-140-static.13.31.dtssi.net",
+        "200-240-static.87-185.dtssi.net",
+        "3-240-static.87-185.dtssi.net",
+        "1-240-static.87-185.dtssi.net",
+        "146-240-static.87-185.dtssi.net",
+        "pppoe40-109-static.112-217.dtssi.net",
+        "pppoe246-106-static.112-217.dtssi.net",
+        "host73-140-static.13.31.dtssi.net",
+        "host71-99-static.112-217.dtssi.net",
+        "155-240-static.87-185.dtssi.net",
+        "5-240-static.87-185.dtssi.net",
+        "pppoe97-111-static.112-217.dtssi.net",
+        "pppoe177-111-static.112-217.dtssi.net",
+        "pppoe5-110-static.112-217.dtssi.net",
+        "136-240-static.87-185.dtssi.net",
+        "sie1.dtssi.net"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "185.87.240.168",
+            "last_resolved": "2024-10-19 00:37:39"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2009-09-13T16:41:03Z\nDNSSEC: signedDelegation\nDomain Name: DTSSI.NET\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: NS.DTSSI.NET\nName Server: NS1.DTSSI.NET\nName Server: NS2.DTSSI.NET\nRegistrar Abuse Contact Email: abuse@godaddy.com\nRegistrar Abuse Contact Phone: 480-624-2505\nRegistrar IANA ID: 146\nRegistrar URL: http://www.godaddy.com\nRegistrar WHOIS Server: whois.godaddy.com\nRegistrar: GoDaddy.com, LLC\nRegistry Domain ID: 1568908431_DOMAIN_NET-VRSN\nRegistry Expiry Date: 2025-09-13T16:41:03Z\nUpdated Date: 2024-09-14T11:09:12Z"
+}

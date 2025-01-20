@@ -1,0 +1,336 @@
+{
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "Webutation domain info": {
+        "Adult content": "no",
+        "Safety score": 70,
+        "Verdict": "unsure"
+    },
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "dsc.itmorelia.edu.mx",
+        "sistemas.itmorelia.edu.mx",
+        "delfin.itmorelia.edu.mx",
+        "clima.itmorelia.edu.mx",
+        "sii.itmorelia.edu.mx",
+        "cle.itmorelia.edu.mx",
+        "edudistancia.itmorelia.edu.mx",
+        "www.itmorelia.edu.mx",
+        "antares.itmorelia.edu.mx",
+        "sappp.itmorelia.edu.mx",
+        "pruebacle.itmorelia.edu.mx",
+        "elec.itmorelia.edu.mx",
+        "pppv1.itmorelia.edu.mx",
+        "requis.itmorelia.edu.mx",
+        "edistancia.itmorelia.edu.mx",
+        "hypothalamus.itmorelia.edu.mx",
+        "ppp.itmorelia.edu.mx",
+        "libra.itmorelia.edu.mx",
+        "cursos.itmorelia.edu.mx",
+        "abasicas.itmorelia.edu.mx",
+        "mail.itmorelia.edu.mx",
+        "aldebaran.itmorelia.edu.mx",
+        "medidor.itmorelia.edu.mx",
+        "denebvirtual.itmorelia.edu.mx",
+        "ccomputo.itmorelia.edu.mx",
+        "delfin2.itmorelia.edu.mx",
+        "vega.itmorelia.edu.mx",
+        "vinculacion.itmorelia.edu.mx",
+        "tlahuac.itmorelia.edu.mx",
+        "revista.itmorelia.edu.mx",
+        "nynt.itmorelia.edu.mx",
+        "avob.itmorelia.edu.mx",
+        "nube.itmorelia.edu.mx",
+        "git.itmorelia.edu.mx",
+        "deneb.itmorelia.edu.mx",
+        "biblioteca.itmorelia.edu.mx",
+        "sirio.itmorelia.edu.mx"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "200.33.171.65",
+            "last_resolved": "2018-07-09 20:50:23"
+        }
+    ],
+    "response_code": 1,
+    "undetected_downloaded_samples": [
+        {
+            "date": "2022-11-08 10:20:37",
+            "positives": 0,
+            "sha256": "7f82b33dcc50f78eddab4b5eac2a72b51903ee732aba0d1ca96ef54ab6d24458",
+            "total": 77
+        },
+        {
+            "date": "2022-03-15 09:23:08",
+            "positives": 0,
+            "sha256": "267187ae74fc3c03fbd0b3c7e91034a10780296739d55a71db5a206a9087c6cf",
+            "total": 71
+        },
+        {
+            "date": "2023-10-09 15:35:43",
+            "positives": 0,
+            "sha256": "8e1f262af722ad8600d37c5eaa837de0e28f9b7af3ed834f63bfdf0146e302e8",
+            "total": 76
+        },
+        {
+            "date": "2023-09-11 09:08:55",
+            "positives": 0,
+            "sha256": "e875b99af8d050a3288b15591a26c29601eb20eaa4352fee3831b62791fcb658",
+            "total": 75
+        },
+        {
+            "date": "2022-03-16 11:19:31",
+            "positives": 0,
+            "sha256": "272f422052f2da5aebcff93e36f5b0335460968e1f5d53412d26dc4ece975d76",
+            "total": 72
+        },
+        {
+            "date": "2021-09-08 22:46:21",
+            "positives": 0,
+            "sha256": "18826dd60dda48fce5da272c5735f18861a74fbf094136613645dab65e4a2753",
+            "total": 73
+        },
+        {
+            "date": "2021-04-27 15:40:44",
+            "positives": 0,
+            "sha256": "6b7a3e9814383cf0ea46f2b79b8108a5f92a36cfc6613dbbb80da6050c923d44",
+            "total": 74
+        },
+        {
+            "date": "2021-04-17 12:24:51",
+            "positives": 0,
+            "sha256": "7cd38b1ddc9b99ab48bac31e2913ea57496bb1fdcef01c1b51ee3c425bd63570",
+            "total": 72
+        },
+        {
+            "date": "2021-04-08 12:22:47",
+            "positives": 0,
+            "sha256": "7b487eb8959abe67e5a7de81d74efc754e9c4d65e297ff29d4ce948ac832eacf",
+            "total": 74
+        },
+        {
+            "date": "2021-03-02 10:37:28",
+            "positives": 0,
+            "sha256": "60caf1a88b39108f892f985c595766443e3a19f5b0036d97f4fef94eb780bac1",
+            "total": 75
+        },
+        {
+            "date": "2020-09-02 10:18:56",
+            "positives": 0,
+            "sha256": "1b0e5625582544d61aced61914840335603edbd8a961b788476ac31bfd7f4acb",
+            "total": 73
+        },
+        {
+            "date": "2018-07-09 20:54:08",
+            "positives": 0,
+            "sha256": "02a59e81093d67b6f5c2da31d186b1594c0d8e0e979ae537c5b60ca702f8ff1d",
+            "total": 61
+        },
+        {
+            "date": "2018-02-11 19:15:36",
+            "positives": 0,
+            "sha256": "ae4f4b2105252473c4758976480324216804be5d162c86cb1489d63df92fe46c",
+            "total": 61
+        },
+        {
+            "date": "2018-01-29 09:46:45",
+            "positives": 0,
+            "sha256": "108e5af6f49f06f131374d1253f639a5b3848bb040fdafe241f6bbaee5e3c879",
+            "total": 59
+        },
+        {
+            "date": "2017-12-24 14:46:32",
+            "positives": 0,
+            "sha256": "9f2418c20af70899fcadc9850eeb6b7ecf2e0ecd2ff529d97ec945c0a667adba",
+            "total": 61
+        },
+        {
+            "date": "2017-10-17 11:32:01",
+            "positives": 0,
+            "sha256": "00efb4cfb77a25e5f2c113ebc837b7351373a852a54079bd482e9572a52a907b",
+            "total": 57
+        },
+        {
+            "date": "2017-09-21 12:20:24",
+            "positives": 0,
+            "sha256": "dfc94f2a1dddb5378677018b5a470b7507a44334b709e0325879e0c67a355c61",
+            "total": 60
+        },
+        {
+            "date": "2017-05-07 19:58:05",
+            "positives": 0,
+            "sha256": "68e4328e25524ed0ebffbf0e94a755be948773a06a07a1dcb9e53d486b1fc2a4",
+            "total": 56
+        },
+        {
+            "date": "2017-03-15 04:54:59",
+            "positives": 0,
+            "sha256": "29172144f4bd90db9824facae518009e0edb45a00e991c60fd1982de689c7361",
+            "total": 56
+        },
+        {
+            "date": "2016-12-17 13:35:44",
+            "positives": 0,
+            "sha256": "8f0f22801bd0e74bdcd52558f7ef41b1ef355bf2ea772ef87afa3777f289e674",
+            "total": 55
+        }
+    ],
+    "undetected_referrer_samples": [
+        {
+            "date": "2024-10-09 11:49:11",
+            "positives": 0,
+            "sha256": "c028e47810e4017a56bc75b149cd540edc0930c6b6e5cdefdeff4ffa7f6525a5",
+            "total": 77
+        },
+        {
+            "positives": 0,
+            "sha256": "dfc94f2a1dddb5378677018b5a470b7507a44334b709e0325879e0c67a355c61",
+            "total": 60
+        }
+    ],
+    "undetected_urls": [
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/sistemas_distribuidos_fundamentos.pdf",
+            "12ff299cd7ae059d26f8c53238ef93a887af8a31a96f03b7ed822b5272ef5bba",
+            0,
+            96,
+            "2024-10-25 05:44:38"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/libro_de_texto_de_graficacion.pdf",
+            "0afbdf6946197fe781085895daac40a32e2ce0574275b066fa86003bc7761063",
+            0,
+            96,
+            "2024-10-22 11:31:08"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/python_programacion_introduccion.pdf",
+            "a0702c057d2c58d83307e53e7146a51d49cd8f71ebe67c1eb028d4660a8b9da9",
+            0,
+            94,
+            "2024-07-19 23:05:14"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/dci/",
+            "382484f3d01b1886140df31a980213ddf63405069a39d7c06c4fe2407a79c8dd",
+            0,
+            95,
+            "2024-06-11 20:53:37"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/ldp_02_analisis_y_descripcion.pdf",
+            "f6bd3389a04abc924593e39a0e939795c961be9f61794afa5785392d0f025027",
+            0,
+            93,
+            "2024-03-18 10:42:38"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/libro_01.htm",
+            "d36e93a2b4e1c91b96315fefaf44709ae85e5bd70231d3f89a8853403842f502",
+            0,
+            93,
+            "2024-03-13 18:16:44"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/libro_01_ciencia_de_datos_teoria_y_aplicaciones.pdf",
+            "a6062a6d387b4578f4478a0ded1ccbce6aa666154ac73f72bba605475adfe54a",
+            0,
+            93,
+            "2024-03-13 12:22:47"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/mul_02_interfaces_hombre_maquina.pdf",
+            "954597002adf580372e686eae8baf9d3e5fc06273790d6156ceef58cc40759f4",
+            0,
+            90,
+            "2023-11-29 11:45:44"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/python_nlp_segmentacion_de_textos.ppt",
+            "d2bf135289905f10fc623444300316c2465ecfa21f6426e553e074a1f2bb76c0",
+            0,
+            90,
+            "2023-10-09 15:35:28"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/python_programacion_concurrente.pdf",
+            "192215b2f9cd3d25f766f971e1b38879e4a80c1e81d2e517f91952811cddd1b7",
+            0,
+            89,
+            "2023-09-11 09:08:34"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/mfraga/",
+            "dbb6cc5688fc796c55d805251df4fa869b863a473e3959fee24cced30a4eaf51",
+            0,
+            90,
+            "2023-02-13 00:57:43"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/ihm_01_interface_hombre_maquina.pdf",
+            "3a61a2d28847ac15caff5360c5a329245f633f39880e74f98bc2e5a64f3fd80e",
+            0,
+            93,
+            "2022-03-16 11:19:20"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/mfraga/materias/circuitos/Transformada%20de%20Laplace.pdf",
+            "d0fcb674701f2f11ff0a4bfd2630010bcd9a599adfd77226628eb0be006b15c7",
+            0,
+            89,
+            "2021-09-08 22:46:06"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/~rogelio/tel_1_2_modos_y_medios_de_transmision.pdf",
+            "757a35bc1628f558c655706adcb3c08ce829d9ee8fccb2dbe1c51716199514ec",
+            0,
+            87,
+            "2021-05-02 12:10:49"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/mfraga/materias/micros/convertidores.pdf",
+            "f6efb80a70cb0b1e14428a400fe1237e44c3bda4918576c7156a32be2d2f27d2",
+            0,
+            87,
+            "2021-04-27 15:40:29"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/mfraga/materias/li/unidad1.pdf",
+            "b1f84b5eb77d409e57dd5301406314c05bbdcda84d937d3205919a4218a1036e",
+            0,
+            87,
+            "2021-04-17 12:24:40"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/mfraga/materias/micros/Unidad2.pdf",
+            "9f47909df520be6ed2e0885e31e5cd22681c99139e535f2b20e72f714352c26f",
+            0,
+            85,
+            "2021-04-08 12:22:35"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/mfraga/materias/micros/Unidad1b.pdf",
+            "ffe7048ab89e50d73ff57943e033a96d6a851101662886f1efb3c311e6abdbde",
+            0,
+            84,
+            "2021-03-02 10:36:12"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/difusion/Art_prev.php?id_art=1036",
+            "0b7a499b2ed2bf922ea13b1e37d2ab3cc1b06d42cb5ad4236084b496ed9577ec",
+            0,
+            84,
+            "2021-02-25 11:24:37"
+        ],
+        [
+            "http://sagitario.itmorelia.edu.mx/mfraga/materias/soemb/RTOS.pdf",
+            "766bb73897aae24c477ed7e8db14545c4254a30b35b1ef7708637b969a020f55",
+            0,
+            79,
+            "2020-09-02 10:14:28"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "City: Morelia\nCountry: Mexico\nDomain Name: itmorelia.edu.mx\nExpiration Date: 2025-01-08\nLast Updated On: 2024-01-09\nRegistrant: 3432650ec337c945\nRegistrar: AKKY ONLINE SOLUTIONS, S.A. DE C.V.\nState: Michoacan\nWhois Web URL: http://www.akky.mx/herramientas/whois.jsf"
+}

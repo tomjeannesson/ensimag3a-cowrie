@@ -1,0 +1,38 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ixc.netflexisp.com.br",
+        "mk.netflexisp.com.br",
+        "static-mastarbandalarga.netflexisp.com.br",
+        "static-thiago.netflexisp.com.br",
+        "static-core-ccr.netflexisp.com.br",
+        "static-virutal.netflexisp.com.br",
+        "ns2.netflexisp.com.br",
+        "ns1.netflexisp.com.br",
+        "static-core.netflexisp.com.br",
+        "17.172.200.177.netflexisp.com.br",
+        "26.161.200.177.netflexisp.com.br",
+        "static-res-conc.netflexisp.com.br",
+        "static-line.netflexisp.com.br",
+        "189.172.200.177.netflexisp.com.br",
+        "14.163.200.177.netflexisp.com.br",
+        "134.163.200.177.netflexisp.com.br",
+        "35.183.205.168.netflexisp.com.br",
+        "12.160.200.177.netflexisp.com.br",
+        "62.162.200.177.netflexisp.com.br",
+        "13.160.200.177.netflexisp.com.br",
+        "1.183.205.168.netflexisp.com.br",
+        "1.182.205.168.netflexisp.com.br",
+        "static.conc.netflexisp.com.br",
+        "static-40638488.netflexisp.com.br"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "177.200.160.158",
+            "last_resolved": "2024-11-11 01:52:00"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20220826\nchanged: 20230620\nchanged: 20240515\ncountry: BR\ncreated: 20110724\ncreated: 20120910 #10444479\ncreated: 20220418\ndomain: netflexisp.com.br\ne-mail: 04e749cc03e158f2s@gmail.com\ne-mail: 3c3d334158ebfea1s@internetflex.com\nexpires: 20320910\nnic-hdl-br: LUPRE19\nnic-hdl-br: NONET7\nnserver: ns1.netflexisp.com.br 177.200.160.12\nnserver: ns2.netflexisp.com.br 177.200.160.13\nstatus: published"
+}

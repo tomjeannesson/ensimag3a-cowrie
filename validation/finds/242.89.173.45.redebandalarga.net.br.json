@@ -1,0 +1,25 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ookla.redebandalarga.net.br",
+        "ns2.redebandalarga.net.br",
+        "ns1.redebandalarga.net.br",
+        "opa-suite.redebandalarga.net.br",
+        "speedtest.redebandalarga.net.br",
+        "7.173.186.138.redebandalarga.net.br",
+        "7.174.186.138.redebandalarga.net.br",
+        "254.175.186.138.redebandalarga.net.br",
+        "104.174.186.138.redebandalarga.net.br",
+        "135.173.186.138.redebandalarga.net.br",
+        "35.172.186.138.redebandalarga.net.br",
+        "182.172.186.138.redebandalarga.net.br",
+        "78.174.186.138.redebandalarga.net.br",
+        "94.175.186.138.redebandalarga.net.br",
+        "236.172.186.138.redebandalarga.net.br",
+        "55.175.186.138.redebandalarga.net.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http://www.cert.br/ , respectivelly to d71cae989d10c5d2@cert.br"
+}

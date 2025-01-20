@@ -1,0 +1,22 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "hosting.pol.net.in",
+        "hosting3.pol.net.in",
+        "hosting2.pol.net.in",
+        "mail10.pol.net.in",
+        "hosting4.pol.net.in",
+        "hosting5.pol.net.in",
+        "ftp.pol.net.in",
+        "webmail.pol.net.in",
+        "ns.pol.net.in",
+        "proxy.pol.net.in",
+        "mail.pol.net.in",
+        "hosting1.pol.net.in",
+        "www.pol.net.in"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2004-12-31T18:20:21Z\nDNSSEC: signedDelegation\nDomain Name: net.in\nDomain Status: serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited\nDomain Status: serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited\nDomain Status: serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited\nName Server: ns1.neustar.in\nName Server: ns2.neustar.in\nName Server: ns3.neustar.in\nName Server: ns4.neustar.in\nName Server: ns5.neustar.in\nName Server: ns6.neustar.in\nRegistrant City: 3432650ec337c945\nRegistrant Country: IN\nRegistrant Fax Ext: 3432650ec337c945\nRegistrant Fax: 3432650ec337c945\nRegistrant Name: 3432650ec337c945\nRegistrant Organization: 3432650ec337c945\nRegistrant Phone Ext: 3432650ec337c945\nRegistrant Phone: 3432650ec337c945\nRegistrant Postal Code: 3432650ec337c945\nRegistrant State/Province: 693482d3384ace39\nRegistrant Street: 3432650ec337c945\nRegistrar IANA ID: 800111\nRegistrar URL: http://registry.gov.in\nRegistrar: National Informatics Centre\nRegistry Domain ID: D15329-IN\nRegistry Expiry Date: 2019-12-31T18:20:21Z\nUpdated Date: 2019-02-24T14:27:52Z"
+}

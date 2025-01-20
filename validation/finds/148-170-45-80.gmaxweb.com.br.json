@@ -1,0 +1,21 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "play.gmaxweb.com.br",
+        "m.gmaxweb.com.br",
+        "ftp.gmaxweb.com.br",
+        "www.gmaxweb.com.br",
+        "editor.gmaxweb.com.br",
+        "autodiscover.gmaxweb.com.br",
+        "mail.gmaxweb.com.br",
+        "webmail.gmaxweb.com.br",
+        "cpanel.gmaxweb.com.br",
+        "ns1.gmaxweb.com.br",
+        "webdisk.gmaxweb.com.br",
+        "ns2.gmaxweb.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20240314\nchanged: 20240918\ncountry: BR\ncreated: 20181207\ncreated: 20240917 #28479618\ndomain: gmaxweb.com.br\ne-mail: 44fa6c8c8e5fe2f3s@gmail.com\nexpires: 20260917\nnic-hdl-br: WYTEL\nnserver: dns1.gmaxweb.com.br 45.170.148.230\nnserver: dns2.gmaxweb.com.br 45.170.148.210\nstatus: published"
+}

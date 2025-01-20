@@ -1,0 +1,22 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns01.godnet.com.br",
+        "www.godnet.com.br",
+        "cpanel.godnet.com.br",
+        "central.godnet.com.br",
+        "ns02.godnet.com.br",
+        "webmail.godnet.com.br",
+        "speedtest.godnet.com.br",
+        "mail.godnet.com.br",
+        "ixc.godnet.com.br",
+        "alerta.godnet.com.br",
+        "monitor.godnet.com.br",
+        "ns2.godnet.com.br",
+        "ns1.godnet.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20230920\nchanged: 20240117\nchanged: 20240606\ncountry: BR\ncreated: 20091217\ncreated: 20140813\ncreated: 20160228 #15210866\ndomain: godnet.com.br\ne-mail: 3046ddb17c727d48s@gmail.com\ne-mail: 74121bd33f7b5120s@gmail.com\nexpires: 20250228\nnic-hdl-br: AGSSO23\nnic-hdl-br: GUHVI5\nnserver: ns1.cloudhostpro.com.br\nnserver: ns2.cloudhostpro.com.br\nnserver: ns3.cloudhostpro.com.br\nnserver: ns4.cloudhostpro.com.br\nstatus: published"
+}

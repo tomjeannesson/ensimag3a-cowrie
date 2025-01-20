@@ -1,0 +1,16 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "6tdm96s991.linodeusercontent.com",
+        "6vt8zav2dq.linodeusercontent.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "66.228.40.236",
+            "last_resolved": "2024-07-22 04:40:29"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Administrative city: Galloway\nAdministrative country: United States\nAdministrative email: d6e15cbf71915787s@linode.com\nAdministrative state: NJ\nCreate date: 2019-12-18\nDomain name: linodeusercontent.com\nDomain registrar id: 625\nDomain registrar url: http://www.name.com\nExpiry date: 2024-12-18\nName server 1: ns1.linode.com\nName server 2: ns2.linode.com\nName server 3: ns3.linode.com\nName server 4: ns4.linode.com\nQuery time: 2019-12-20 18:53:56\nRegistrant address: 57ad433730f9ccd6\nRegistrant city: a0434f316126d574\nRegistrant company: 55fd83ff975c8279\nRegistrant country: United States\nRegistrant email: d6e15cbf71915787s@linode.com\nRegistrant fax: d6bb3ec9d161d51c\nRegistrant name: 32805b002b089791\nRegistrant phone: 4cdfb130789a0344\nRegistrant state: 46dbc1bfd6bcdafe\nRegistrant zip: ef66c917515cacd7\nTechnical city: Galloway\nTechnical country: United States\nTechnical email: d6e15cbf71915787s@linode.com\nTechnical state: NJ\nUpdate date: 2019-12-18"
+}

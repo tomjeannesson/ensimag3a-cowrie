@@ -1,0 +1,38 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "phpipam.pacecloud.com",
+        "api.pacecloud.com",
+        "netgw-dc02.pacecloud.com",
+        "www.pacecloud.com",
+        "bbb.pacecloud.com",
+        "netgw-dc01.pacecloud.com",
+        "dcvmconsole.pacecloud.com",
+        "eve.pacecloud.com",
+        "vpn.pacecloud.com",
+        "dc03vmconsole.pacecloud.com",
+        "mail2.pacecloud.com",
+        "dc-01-f5.pacecloud.com",
+        "vpn2.pacecloud.com",
+        "zoneminder-dr-01.pacecloud.com",
+        "zoneminder-dr-03.pacecloud.com",
+        "vpn3.pacecloud.com",
+        "ntp1.pacecloud.com",
+        "help.pacecloud.com",
+        "dc-02-f5.pacecloud.com",
+        "mail.pacecloud.com",
+        "ns1.pacecloud.com",
+        "ns2.pacecloud.com",
+        "vpn1.pacecloud.com",
+        "racks.pacecloud.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "103.123.8.45",
+            "last_resolved": "2021-11-10 22:06:42"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2012-03-22T19:02:14Z\nDNSSEC: unsigned\nDomain Name: PACECLOUD.COM\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: NS1.PACECLOUD.COM\nName Server: NS2.PACECLOUD.COM\nRegistrar Abuse Contact Email: abuse@godaddy.com\nRegistrar Abuse Contact Phone: 480-624-2505\nRegistrar IANA ID: 146\nRegistrar URL: http://www.godaddy.com\nRegistrar WHOIS Server: whois.godaddy.com\nRegistrar: GoDaddy.com, LLC\nRegistry Domain ID: 1708439662_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2027-03-22T19:02:14Z\nUpdated Date: 2024-03-28T05:54:12Z"
+}

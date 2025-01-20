@@ -1,0 +1,8 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "DOMAIN NAME: net.pl\ncreated: 2003.03.25 12:00:00\nlast modified: 2004.02.09 12:24:14\nrenewal date: not defined\ndnssec: Signed"
+}

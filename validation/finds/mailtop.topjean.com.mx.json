@@ -1,0 +1,17 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "outmail.topjean.com.mx",
+        "srv.topjean.com.mx",
+        "www.topjean.com.mx"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "187.157.91.186",
+            "last_resolved": "2020-10-19 15:43:14"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "City: Tehuacan\nCountry: Mexico\nDomain Name: topjean.com.mx\nExpiration Date: 2026-11-30\nLast Updated On: 2024-11-27\nRegistrant: 3432650ec337c945\nRegistrar: AKKY ONLINE SOLUTIONS, S.A. DE C.V.\nState: Puebla\nWhois Web URL: http://www.akky.mx/herramientas/whois.jsf"
+}

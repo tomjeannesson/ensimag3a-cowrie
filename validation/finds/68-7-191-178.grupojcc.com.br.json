@@ -1,0 +1,22 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "acs.grupojcc.com.br",
+        "ns1.grupojcc.com.br",
+        "speedtest.grupojcc.com.br",
+        "jcl.grupojcc.com.br",
+        "sfx.grupojcc.com.br",
+        "ns2.grupojcc.com.br",
+        "monitoramento.grupojcc.com.br",
+        "riomaria.grupojcc.com.br",
+        "redencao.grupojcc.com.br",
+        "ookla.grupojcc.com.br",
+        "xinguara.grupojcc.com.br",
+        "conceicao.grupojcc.com.br",
+        "www.grupojcc.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20140120\nchanged: 20181116\nchanged: 20210306\ncountry: BR\ncreated: 20040305 #1559969\ncreated: 20130116\ncreated: 20180829\ndomain: grupojcc.com.br\ne-mail: 016b2408bf3fa1bfs@jc.net.br\ne-mail: 911303b7f69eea81s@jc.net.br\nexpires: 20310305\nnic-hdl-br: JTSTE2\nnic-hdl-br: LVSTE4\nnserver: ns1.grupojcc.com.br 177.36.241.34 2804:3e4::1e\nnserver: ns2.grupojcc.com.br 177.36.241.38 2804:3e4::22\nstatus: published"
+}

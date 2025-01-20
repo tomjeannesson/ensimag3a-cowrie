@@ -1,0 +1,17 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.altoya.cl",
+        "cpcontacts.altoya.cl",
+        "cpanel.altoya.cl",
+        "webmail.altoya.cl",
+        "cpcalendars.altoya.cl",
+        "webdisk.altoya.cl",
+        "mail.altoya.cl",
+        "ftp.altoya.cl"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation date: 2003-01-08 13:36:31 CLST\nDomain name: altoya.cl\nExpiration date: 2025-02-02 10:36:31 CLST\nName server: dns1.hosting.cl\nName server: dns2.hosting.cl\nName server: dns3.hosting.cl\nName server: dns4.hosting.cl\nRegistrant name: ab75f96b908dc943\nRegistrant organisation: 3432650ec337c945\nRegistrar URL: https://www.nic.cl\nRegistrar name: NIC Chile"
+}

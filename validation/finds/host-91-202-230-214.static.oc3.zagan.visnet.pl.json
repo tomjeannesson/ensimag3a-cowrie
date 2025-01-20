@@ -1,0 +1,53 @@
+{
+    "Forcepoint ThreatSeeker category": "information technology",
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.visnet.pl",
+        "vpn.visnet.pl",
+        "dragon.visnet.pl",
+        "jpk.visnet.pl",
+        "baltazar.visnet.pl",
+        "bok.visnet.pl",
+        "tiger.visnet.pl",
+        "uriel.visnet.pl",
+        "host-195-136-32-147.static.ge.zagan.visnet.pl",
+        "host-91-202-231-248.static.oc3.zagan.visnet.pl",
+        "host-91-202-231-17.static.oc3.zagan.visnet.pl",
+        "www.test.visnet.pl",
+        "host-91-202-231-33.static.oc3.zagan.visnet.pl",
+        "host-91-202-230-221.static.oc3.zagan.visnet.pl",
+        "host-91-202-231-27.static.oc3.zagan.visnet.pl",
+        "host-91-202-230-216.static.oc3.zagan.visnet.pl",
+        "host-91-202-230-220.static.oc3.zagan.visnet.pl",
+        "host-91-202-230-18.static.oc3.zagan.visnet.pl",
+        "www.zagan.visnet.pl",
+        "dragon.zagan.visnet.pl"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "91.202.230.214",
+            "last_resolved": "2020-12-12 12:56:37"
+        }
+    ],
+    "response_code": 1,
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "http://host-91-202-230-214.static.oc3.zagan.visnet.pl/",
+            "3124f2e2d06dd64420d7a48525ff1a3b07ba16de7b1bb01637a0459a6d3e92c8",
+            0,
+            95,
+            "2024-06-23 21:41:47"
+        ],
+        [
+            "https://host-91-202-230-214.static.oc3.zagan.visnet.pl/",
+            "a0c00ddb3cdb3b98c41bc8e49d0616c7e10b5bf9f04835003323747010d99208",
+            0,
+            93,
+            "2024-03-26 09:47:48"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "DOMAIN NAME: visnet.pl\ncreated: 2001.05.15 13:00:00\ndnssec: Unsigned\nlast modified: 2024.04.28 14:14:50\nns1.api.net.pl. [2001:41d0:601:1100::45f0][146.59.19.61]\nregistrant type: b7ee89ee02f3f621\nrenewal date: 2025.05.14 14:00:00"
+}

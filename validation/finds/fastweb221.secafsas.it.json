@@ -1,0 +1,17 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "fastweb220.secafsas.it",
+        "www.secafsas.it",
+        "fastweb218.secafsas.it"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "93.45.19.221",
+            "last_resolved": "2024-11-05 21:24:35"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Created: 2023-11-28 15:10:24\nCreated: 2023-11-28 15:10:25\nDNSSEC: no\nDomain: secafsas.it\nExpire Date: 2024-11-28\nLast Update: 2023-11-28 15:10:24\nLast Update: 2023-11-28 15:10:25\nOrganization: Aruba Business s.r.l.\nOrganization: Aruba Business srl\nOrganization: Secaf Sas di Donolato Ivo\nStatus: ok\nns.abdns.biz\nns.abdns.eu"
+}

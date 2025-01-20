@@ -1,0 +1,25 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "ns2.exonline.com.br",
+        "ftp.exonline.com.br",
+        "ns1.exonline.com.br",
+        "central.exonline.com.br",
+        "opa-suite.exonline.com.br",
+        "velocimetro.exonline.com.br",
+        "ookla.exonline.com.br",
+        "cpcontacts.exonline.com.br",
+        "cpcalendars.exonline.com.br",
+        "cpanel.exonline.com.br",
+        "whm.exonline.com.br",
+        "autodiscover.exonline.com.br",
+        "webmail.exonline.com.br",
+        "www.exonline.com.br",
+        "mail.exonline.com.br",
+        "webdisk.exonline.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20200725\nchanged: 20220812\nchanged: 20240710\ncountry: BR\ncreated: 20030107\ncreated: 20031029 #1414438\ncreated: 20170904\ndomain: exonline.com.br\ne-mail: 58cc21ad68a37646s@exonline.com.br\ne-mail: 7295dfb0802a051bs@gmail.com\nexpires: 20291029\nnic-hdl-br: ATS126\nnic-hdl-br: EDFAL134\nnserver: ns1012.hostgator.com.br\nnserver: ns1013.hostgator.com.br\nstatus: published"
+}

@@ -1,0 +1,43 @@
+{
+    "BitDefender category": "blogs",
+    "Forcepoint ThreatSeeker category": "information technology",
+    "detected_urls": [],
+    "domain_siblings": [
+        "insights.cybcube.com",
+        "admin.cybcube.com",
+        "login.cybcube.com",
+        "www.cybcube.com",
+        "gtm.cybcube.com",
+        "signal.cybcube.com",
+        "platform.cybcube.com",
+        "security.cybcube.com",
+        "api.cybcube.com",
+        "academy.cybcube.com",
+        "pm.cybcube.com",
+        "endofyear.cybcube.com",
+        "docs.cybcube.com",
+        "help.cybcube.com",
+        "gslink.cybcube.com",
+        "vpphx6s55kn2.cybcube.com",
+        "whm.cybcube.com",
+        "mail.cybcube.com",
+        "atlas.cybcube.com",
+        "booking.cybcube.com",
+        "atlas2.cybcube.com",
+        "pm1.cybcube.com",
+        "atlas1.cybcube.com",
+        "stage3.cybcube.com",
+        "pm3.cybcube.com",
+        "pm2.cybcube.com",
+        "new.cybcube.com"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "66.240.236.116",
+            "last_resolved": "2024-10-16 03:10:39"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2017-12-10T05:31:09Z\nDNSSEC: unsigned\nDomain Name: CYBCUBE.COM\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: NS-1419.AWSDNS-49.ORG\nName Server: NS-1901.AWSDNS-45.CO.UK\nName Server: NS-521.AWSDNS-01.NET\nName Server: NS-6.AWSDNS-00.COM\nRegistrar Abuse Contact Email: abuse@godaddy.com\nRegistrar Abuse Contact Phone: 480-624-2505\nRegistrar IANA ID: 146\nRegistrar URL: http://www.godaddy.com\nRegistrar WHOIS Server: whois.godaddy.com\nRegistrar: GoDaddy.com, LLC\nRegistry Domain ID: 2198193308_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2025-12-10T05:31:09Z\nUpdated Date: 2023-12-05T18:57:17Z"
+}

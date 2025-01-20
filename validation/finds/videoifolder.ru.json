@@ -1,0 +1,164 @@
+{
+    "alphaMountain.ai category": "Media Sharing (alphaMountain.ai)",
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [
+        {
+            "date": "2023-10-21 22:43:58",
+            "positives": 5,
+            "sha256": "e7e546d9ddaec5ed095b58d72c6107589716ebf2328cf9f412f4a03adfe08ff0",
+            "total": 76
+        },
+        {
+            "date": "2013-05-21 14:01:41",
+            "positives": 1,
+            "sha256": "0c4abd5000fd176e4a2594c9a9c730fd8b87ef30e410c1292b10083acc608ab5",
+            "total": 47
+        },
+        {
+            "date": "2019-01-10 23:50:26",
+            "positives": 2,
+            "sha256": "e6fb6f836f8f66ee1cc300df54c3b6f901a0e509b79c4cbc12777751094105e7",
+            "total": 69
+        }
+    ],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "108.174.61.166",
+            "last_resolved": "2023-09-15 22:46:45"
+        },
+        {
+            "ip_address": "136.243.109.238",
+            "last_resolved": "2019-01-10 23:58:17"
+        },
+        {
+            "ip_address": "176.9.127.78",
+            "last_resolved": "2017-10-18 00:00:00"
+        },
+        {
+            "ip_address": "78.108.186.10",
+            "last_resolved": "2014-11-21 00:00:00"
+        },
+        {
+            "ip_address": "78.108.186.9",
+            "last_resolved": "2014-11-21 00:00:00"
+        },
+        {
+            "ip_address": "85.10.246.226",
+            "last_resolved": "2018-08-15 04:14:32"
+        },
+        {
+            "ip_address": "95.217.207.8",
+            "last_resolved": "2021-05-29 08:14:38"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "www.videoifolder.ru",
+        "mx7.videoifolder.ru",
+        "outmail.videoifolder.ru",
+        "mailin.videoifolder.ru",
+        "server.videoifolder.ru",
+        "ftp.videoifolder.ru",
+        "smtp.videoifolder.ru",
+        "tiger.videoifolder.ru",
+        "tw.videoifolder.ru",
+        "smtp1.videoifolder.ru",
+        "ipe.videoifolder.ru",
+        "mail11.videoifolder.ru",
+        "relay2.videoifolder.ru",
+        "host.videoifolder.ru",
+        "gate.videoifolder.ru",
+        "mailserver.videoifolder.ru",
+        "dns.videoifolder.ru",
+        "mx5.videoifolder.ru",
+        "owa.videoifolder.ru",
+        "mx0.videoifolder.ru",
+        "smtp2.videoifolder.ru",
+        "mailapp.videoifolder.ru",
+        "vps.videoifolder.ru",
+        "postmaster.videoifolder.ru",
+        "mail7.videoifolder.ru",
+        "ns.videoifolder.ru",
+        "mail2.videoifolder.ru",
+        "send.videoifolder.ru",
+        "newmail.videoifolder.ru",
+        "mx2.videoifolder.ru",
+        "mails.videoifolder.ru",
+        "mail02.videoifolder.ru",
+        "sniper.videoifolder.ru",
+        "ms1.videoifolder.ru",
+        "remote.videoifolder.ru",
+        "authsmtp.videoifolder.ru",
+        "mail8.videoifolder.ru",
+        "thor.videoifolder.ru",
+        "smtpseguro.videoifolder.ru",
+        "vip.videoifolder.ru",
+        "pbrand.videoifolder.ru",
+        "mail3.videoifolder.ru",
+        "cs.videoifolder.ru",
+        "smtps.videoifolder.ru",
+        "mailhost.videoifolder.ru",
+        "mxs.videoifolder.ru",
+        "mx.videoifolder.ru",
+        "out.videoifolder.ru",
+        "smtpauth.videoifolder.ru",
+        "mx1.videoifolder.ru",
+        "ssl.videoifolder.ru",
+        "mail6.videoifolder.ru",
+        "barracuda.videoifolder.ru",
+        "mx4.videoifolder.ru",
+        "mail5.videoifolder.ru",
+        "server2.videoifolder.ru",
+        "mx01.videoifolder.ru",
+        "vmail.videoifolder.ru",
+        "antispam.videoifolder.ru",
+        "mx10.videoifolder.ru",
+        "email.videoifolder.ru",
+        "comune.videoifolder.ru",
+        "home.videoifolder.ru",
+        "poczta.videoifolder.ru",
+        "root.videoifolder.ru",
+        "mail.videoifolder.ru"
+    ],
+    "undetected_downloaded_samples": [],
+    "undetected_referrer_samples": [
+        {
+            "date": "2024-08-20 07:07:07",
+            "positives": 0,
+            "sha256": "62bd57e4e302128684248c5eb85a7e4df9bcb59e411bbf7f3415926284c74b7c",
+            "total": 79
+        },
+        {
+            "date": "2022-11-28 03:16:30",
+            "positives": 0,
+            "sha256": "bdc61a0e1befaa50ac43c13b29880bbe2842b893e89f908def000bf332d39498",
+            "total": 75
+        },
+        {
+            "positives": 0,
+            "sha256": "0be1304cadf0f7216845d2fc64dd0a1afe3ea02625d0278c7aecd9cf2418587d",
+            "total": 54
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://videoifolder.ru/",
+            "a83c30fae4bea84576eec38d88b27172509f4ff1ec11a07b9fc34b115b7d70c4",
+            0,
+            96,
+            "2024-10-29 19:49:19"
+        ],
+        [
+            "http://videoifolder.ru/",
+            "09c6543b91657a5c705dd0aad358def45e237afd6fea9a5a3646fa736cb14ec9",
+            0,
+            96,
+            "2024-10-29 00:00:31"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Last updated on 2024-09-09T14:21:30Z\ncreated: 2009-07-28T20:00:00Z\ndomain: VIDEOIFOLDER.RU\nnserver: dns.fastdns24.com.\nnserver: dns2.fastdns24.org.\nnserver: dns3.fastdns24.eu.\nnserver: dns4.fastdns24.link.\npaid-till: 2025-07-28T21:00:00Z\nregistrar: SALENAMES-RU\nsource: TCI\nstate: REGISTERED, DELEGATED, VERIFIED",
+    "whois_timestamp": 1725891902
+}

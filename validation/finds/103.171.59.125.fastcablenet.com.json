@@ -1,0 +1,27 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.fastcablenet.com",
+        "reseller.fastcablenet.com",
+        "adminbanglore.fastcablenet.com",
+        "cdn.fastcablenet.com",
+        "admin.fastcablenet.com",
+        "myaccount.fastcablenet.com",
+        "customer.fastcablenet.com",
+        "lco.fastcablenet.com",
+        "live.fastcablenet.com",
+        "partner.fastcablenet.com",
+        "ns2.fastcablenet.com",
+        "cacti.fastcablenet.com",
+        "mrtg.fastcablenet.com",
+        "speedtest2.fastcablenet.com",
+        "tacacs.fastcablenet.com",
+        "ns1.fastcablenet.com",
+        "speedtest1.fastcablenet.com",
+        "speedtest.fastcablenet.com"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2019-06-12T06:53:53Z\nDNSSEC: unsigned\nDomain Name: FASTCABLENET.COM\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: NS63.DOMAINCONTROL.COM\nName Server: NS64.DOMAINCONTROL.COM\nRegistrar Abuse Contact Email: abuse@godaddy.com\nRegistrar Abuse Contact Phone: 480-624-2505\nRegistrar IANA ID: 146\nRegistrar URL: http://www.godaddy.com\nRegistrar WHOIS Server: whois.godaddy.com\nRegistrar: GoDaddy.com, LLC\nRegistry Domain ID: 2401306190_DOMAIN_COM-VRSN\nRegistry Expiry Date: 2025-06-12T06:53:53Z\nUpdated Date: 2023-06-17T11:21:48Z"
+}

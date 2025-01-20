@@ -1,0 +1,71 @@
+{
+    "alphaMountain.ai category": "Unrated (alphaMountain.ai)",
+    "detected_downloaded_samples": [],
+    "detected_referrer_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "69.49.115.40",
+            "last_resolved": "2022-05-01 12:26:34"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "pop.cajasolidariaguachinango.com.mx",
+        "www.cajasolidariaguachinango.com.mx"
+    ],
+    "undetected_downloaded_samples": [
+        {
+            "date": "2022-04-12 17:08:39",
+            "positives": 0,
+            "sha256": "f3fb7001dfbe5e086b07fe38541e402aa9c4a1b02c9aa1e0a23e70405b012fa4",
+            "total": 73
+        }
+    ],
+    "undetected_referrer_samples": [
+        {
+            "date": "2023-03-17 19:25:15",
+            "positives": 0,
+            "sha256": "7959b7f9720be4614c1a7b455a62c819be19b9368d2ecbbf547c19c3ddbb5009",
+            "total": 73
+        },
+        {
+            "date": "2023-03-17 19:18:07",
+            "positives": 0,
+            "sha256": "f165b9bc500380b108646617f1435018c918041c54df0ca9be1d0c58cb670f50",
+            "total": 73
+        },
+        {
+            "date": "2022-11-08 05:13:17",
+            "positives": 0,
+            "sha256": "1d2c3de34f106def94aa70f6e807cd61a6f585b3186c772f3ad37f4161607282",
+            "total": 76
+        },
+        {
+            "date": "2018-09-16 07:57:37",
+            "positives": 0,
+            "sha256": "cf0414d40f8e82583e097d6b9f31cd5a3baca9a134021ae04f9682ff4e272d12",
+            "total": 71
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://cajasolidariaguachinango.com.mx/",
+            "2fc58f80051f0edecb5e6a3734d164d13e669ddeb17954bb18fa728dbf25ea63",
+            0,
+            96,
+            "2024-11-25 23:38:38"
+        ],
+        [
+            "http://cajasolidariaguachinango.com.mx/",
+            "43c4502d4ce99628d41ad69510879351054d4fce0f1ae83321d1d047e6e4dddb",
+            0,
+            90,
+            "2023-06-15 13:27:50"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "City: Mexico\nCountry: Mexico\nDomain Name: cajasolidariaguachinango.com.mx\nExpiration Date: 2025-12-06\nLast Updated On: 2024-11-07\nRegistrant: 3432650ec337c945\nRegistrar: Telmex\nState: Distrito Federal",
+    "whois_timestamp": 1732579912
+}

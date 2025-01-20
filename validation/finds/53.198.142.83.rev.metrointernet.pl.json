@@ -1,0 +1,25 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "speedtest.metrointernet.pl",
+        "biznes.metrointernet.pl",
+        "spamgw.metrointernet.pl",
+        "www.metrointernet.pl",
+        "poczta.metrointernet.pl",
+        "ebok.metrointernet.pl",
+        "admin.metrointernet.pl",
+        "mail.metrointernet.pl",
+        "angel.metrointernet.pl",
+        "new-spamgw.metrointernet.pl",
+        "dol.metrointernet.pl",
+        "dns.metrointernet.pl",
+        "dns2.metrointernet.pl",
+        "dns1.metrointernet.pl",
+        "flux.metrointernet.pl",
+        "pandora.metrointernet.pl"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "DOMAIN NAME: metrointernet.pl\ncreated: 2006.09.26 15:56:33\ndnssec: Unsigned\nlast modified: 2023.09.16 11:36:04\nnameservers: dns19.ovh.net.\nns19.ovh.net.\nregistrant type: b7ee89ee02f3f621\nrenewal date: 2024.09.26 15:56:33"
+}

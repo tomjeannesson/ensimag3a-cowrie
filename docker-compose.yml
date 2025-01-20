@@ -1,0 +1,48 @@
+version: "3"
+services:
+  cowrie:
+    image: cowrie/cowrie
+    ports:
+      - "22:22"
+      - "23:23"
+      - "2222:2222"
+      - "2323:2323"
+    volumes:
+      - ./cowrie/config/cowrie.cfg:/cowrie/cowrie-git/etc/cowrie.cfg
+      - ./cowrie/config/userdb.txt:/cowrie/cowrie-git/etc/userdb.txt
+
+  db:
+    image: mysql:latest # type and version of database
+    restart: always # if something brokes, it will automatically restart
+    volumes:
+      - cowrie-db:/var/lib/mysql:z
+      - "./db-init.sql:/docker-entrypoint-initdb.d/1.sql"
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_PASSWORD=root
+      - MYSQL_DATABASE=cowrie
+      - MYSQL_USER=cowrie
+
+  grafana:
+    image: grafana/grafana:latest
+    restart: always
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana:/var/lib/grafana:z
+    environment:
+      # - GF_SERVER_DOMAIN=${SERVICE}
+      # - GF_SERVER_ROOT_URL=https://${SERVICE}/
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_ANALYTICS_CHECK_FOR_UPDATES=false
+      - GF_ANALYTICS_REPORTING_ENABLED=false
+
+volumes:
+  cowrie-etc:
+  cowrie-var:
+  cowrie-db:
+  grafana:
+
+

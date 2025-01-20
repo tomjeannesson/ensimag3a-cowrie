@@ -1,0 +1,18 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "hyperglass.84grams.net",
+        "reverse1.84grams.net",
+        "reverse2.84grams.net",
+        "speedtest-sth.84grams.net",
+        "speedtest.84grams.net",
+        "speedtest-ume.84grams.net",
+        "gokvm.84grams.net",
+        "autodiscover.84grams.net",
+        "autoconfig.84grams.net"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: V\u00e4stra Fr\u00f6lunda\nAdmin Country: SE\nAdmin Email: 66e0dc327817ff13s@shieldwhois.com\nAdmin Organization: Shield Whois\nAdmin Postal Code: 42147\nCreation Date: 2018-10-03T09:43:28.00Z\nCreation Date: 2018-10-03T09:43:28Z\nDNSSEC: signedDelegation\nDomain Name: 84GRAMS.NET\nDomain Name: 84grams.net\nDomain Status: ok https://icann.org/epp#ok\nName Server: NS1.BROADVIEW.SE\nName Server: NS2.BROADVIEW.SE\nName Server: NS3.BROADVIEW.SE\nName Server: NS4.BROADVIEW.SE\nRegistrant City: 19b9f8e3de1357bf\nRegistrant Country: SE\nRegistrant Email: 66e0dc327817ff13s@shieldwhois.com\nRegistrant Fax: 3432650ec337c945\nRegistrant Name: 40e54cc393dbae80\nRegistrant Organization: 469fdc2213f9e7ca\nRegistrant Phone: 618472ab788fcf4f\nRegistrant Postal Code: 85a6627f4e14d5f7\nRegistrant State: 3432650ec337c945\nRegistrant Street: d924bea0354ad41c\nRegistrar Abuse Contact Email: abuse@namesrs.com\nRegistrar Abuse Contact Phone: +46.313011220\nRegistrar IANA ID: 638\nRegistrar Registration Expiration Date: 2025-10-03T09:43:28.00Z\nRegistrar URL: http://www.namesrs.com\nRegistrar URL: https://www.namesrs.com\nRegistrar WHOIS Server: whois.namesrs.com\nRegistrar: Name SRS AB\nRegistry Admin ID: Protected\nRegistry Domain ID: 2317140989_DOMAIN_NET-VRSN\nRegistry Expiry Date: 2025-10-03T09:43:28Z\nRegistry Registrant ID: Protected\nRegistry Tech ID: Protected\nTech City: V\u00e4stra Fr\u00f6lunda\nTech Country: SE\nTech Email: 66e0dc327817ff13s@shieldwhois.com\nTech Organization: Shield Whois\nTech Postal Code: 42147\nUpdated Date: 2024-08-19T22:03:06Z"
+}

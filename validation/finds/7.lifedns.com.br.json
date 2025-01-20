@@ -1,0 +1,35 @@
+{
+    "alphaMountain.ai category": "Business/Economy (alphaMountain.ai)",
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "velocimetro.lifedns.com.br",
+        "velocimetrobage2.lifedns.com.br",
+        "velocimetrosg.lifedns.com.br",
+        "velocimetrobage.lifedns.com.br",
+        "ns1.lifedns.com.br",
+        "ns2.lifedns.com.br",
+        "velocimetrobage3.lifedns.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "https://7.lifedns.com.br/",
+            "7cad920452fe405c61a271716b59f45d78f8b9429c6c3bf688a19b0c69cfc4c2",
+            0,
+            96,
+            "2024-12-04 14:30:49"
+        ],
+        [
+            "http://7.lifedns.com.br/",
+            "4d7a4990d420ef57b670fec39dc9e098852ef976c972ba2a70b1dc8b1bc99e29",
+            0,
+            96,
+            "2024-09-11 09:17:48"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20230816\nchanged: 20240731\ncountry: BR\ncreated: 20050219\ncreated: 20180825 #18733594\ndomain: lifedns.com.br\ne-mail: c10ed3086a797e9bs@newlifefibra.com.br\nexpires: 20270825\nnic-hdl-br: RFM317\nnserver: ns1.lifedns.com.br 177.72.87.203\nnserver: ns2.lifedns.com.br 177.72.87.204\nstatus: published"
+}

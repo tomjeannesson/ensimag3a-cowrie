@@ -1,0 +1,30 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.evo.uz",
+        "speedtest.evo.uz",
+        "mail.evo.uz",
+        "eface.evo.uz",
+        "tface.evo.uz",
+        "mface.evo.uz",
+        "adminmarket.evo.uz",
+        "eclub.evo.uz",
+        "wtex.evo.uz",
+        "vpn.evo.uz",
+        "cs-scan.evo.uz",
+        "old.evo.uz",
+        "ns2.evo.uz",
+        "ns1.evo.uz",
+        "p1.evo.uz",
+        "speedtest2.evo.uz",
+        "smtp.evo.uz",
+        "pop.evo.uz",
+        "cabinet.evo.uz",
+        "bill.evo.uz",
+        "promo.evo.uz"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 21-Apr-2008\nDomain Name: EVO.UZ\nExpiration Date: 21-May-2027\nName Server: not.defined. <no value>\nName Server: ns1.evo.uz. 94.141.64.1\nName Server: ns2.evo.uz. 94.141.64.2\nReferral URL: http://www.cctld.uz/\nRegistrant: 3432650ec337c945\nRegistrar: Arsenal-D\nStatus: ACTIVE\nUpdated Date: 10-Jan-2025\nWhois Server: www.whois.uz\nns1.evo.uz.\nns2.evo.uz."
+}

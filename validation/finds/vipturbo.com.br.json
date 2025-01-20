@@ -1,0 +1,140 @@
+{
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "alphaMountain.ai category": "Information Technology (alphaMountain.ai)",
+    "detected_communicating_samples": [
+        {
+            "date": "2021-10-10 07:23:11",
+            "positives": 30,
+            "sha256": "295a8418d504dd81e1066eab3e78924fb107e3f74301f56be89544e942c19b9b",
+            "total": 73
+        },
+        {
+            "date": "2021-10-06 09:51:29",
+            "positives": 28,
+            "sha256": "6b5e36ec4ea2340e436834152936879db405fecf701801d88cbb6ca200fc5f19",
+            "total": 74
+        },
+        {
+            "date": "2021-10-05 07:12:17",
+            "positives": 9,
+            "sha256": "78467352d7034224d72a7846e1ce2102d2b7e31aa85d72383694c8bc51937f20",
+            "total": 73
+        },
+        {
+            "date": "2021-10-01 12:44:15",
+            "positives": 22,
+            "sha256": "c9a17531e2ae6361f893390f51295609f4a2fde60927a9afeac9a9e0c4fc2660",
+            "total": 74
+        },
+        {
+            "date": "2021-09-29 15:33:56",
+            "positives": 31,
+            "sha256": "7905c507eb3eec76cae44b13de78a70dc045eda20f2bbfb2f83f9ce50b0a9ab0",
+            "total": 74
+        }
+    ],
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [
+        {
+            "ip_address": "186.215.195.93",
+            "last_resolved": "2015-09-09 00:00:00"
+        },
+        {
+            "ip_address": "191.36.150.104",
+            "last_resolved": "2019-11-29 00:45:48"
+        }
+    ],
+    "response_code": 1,
+    "subdomains": [
+        "www.vipturbo.com.br",
+        "pop3.vipturbo.com.br",
+        "442a4a00-727e-11eb-8000-3cecef2d4a38.vipturbo.com.br",
+        "speedtest1.vipturbo.com.br",
+        "speedtest.vipturbo.com.br",
+        "authsmtp.vipturbo.com.br",
+        "outmail.vipturbo.com.br",
+        "mx3.vipturbo.com.br",
+        "spam.vipturbo.com.br",
+        "mx20.vipturbo.com.br",
+        "mx01.vipturbo.com.br",
+        "posta.vipturbo.com.br",
+        "host.vipturbo.com.br",
+        "mailer.vipturbo.com.br",
+        "antispam.vipturbo.com.br",
+        "mx10.vipturbo.com.br",
+        "mail9.vipturbo.com.br",
+        "smtp2.vipturbo.com.br",
+        "mails.vipturbo.com.br",
+        "mta.vipturbo.com.br",
+        "smtpauth.vipturbo.com.br",
+        "ns.vipturbo.com.br",
+        "imapmail.vipturbo.com.br",
+        "server.vipturbo.com.br",
+        "mx7.vipturbo.com.br",
+        "post.vipturbo.com.br",
+        "hermes.vipturbo.com.br",
+        "mail2.vipturbo.com.br",
+        "smtpseguro.vipturbo.com.br",
+        "mail02.vipturbo.com.br",
+        "mbox.vipturbo.com.br",
+        "box.vipturbo.com.br",
+        "mail1.vipturbo.com.br",
+        "smtp3.vipturbo.com.br",
+        "mailin.vipturbo.com.br",
+        "m.vipturbo.com.br",
+        "vmail.vipturbo.com.br",
+        "smtp01.vipturbo.com.br",
+        "mail4.vipturbo.com.br",
+        "mail.vipturbo.com.br",
+        "mxs.vipturbo.com.br",
+        "barracuda.vipturbo.com.br",
+        "mailx.vipturbo.com.br",
+        "mailserver.vipturbo.com.br",
+        "webmail.vipturbo.com.br",
+        "mail11.vipturbo.com.br",
+        "remote.vipturbo.com.br",
+        "ms.vipturbo.com.br",
+        "smtp.vipturbo.com.br",
+        "mailhost.vipturbo.com.br",
+        "zimbra.vipturbo.com.br",
+        "smtps.vipturbo.com.br",
+        "relay.vipturbo.com.br",
+        "out.vipturbo.com.br",
+        "comune.vipturbo.com.br",
+        "ms1.vipturbo.com.br",
+        "imap.vipturbo.com.br",
+        "0.150.36.191.vipturbo.com.br",
+        "ns2.vipturbo.com.br",
+        "ns1.vipturbo.com.br"
+    ],
+    "undetected_communicating_samples": [],
+    "undetected_downloaded_samples": [
+        {
+            "date": "2020-07-03 05:26:03",
+            "positives": 0,
+            "sha256": "af859df960f89889d23f723c7851d627488513036afbf8ca26493c1ee148a785",
+            "total": 76
+        }
+    ],
+    "undetected_urls": [
+        [
+            "https://vipturbo.com.br/",
+            "310bda000144850e3a161190c65b51304daf2af73ba488e643d8f80390637060",
+            0,
+            96,
+            "2024-12-18 14:29:44"
+        ],
+        [
+            "http://vipturbo.com.br/",
+            "65e72bff813c3dfe4ee69c6257f41525c5fe6d8233dfc83e72035aa3f44c7cc2",
+            0,
+            96,
+            "2024-09-11 06:39:11"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20160106\nchanged: 20200212\nchanged: 20240129\ncountry: BR\ncreated: 20050903\ncreated: 20070228\ncreated: 20070606 #3642807\ndomain: vipturbo.com.br\ndsstatus: 20240916 DSOK\ne-mail: 8577cd6e4f58daf9s@renpac.com.br\ne-mail: db0266f70068b920s@vipturbo.com.br\nexpires: 20270606\nnic-hdl-br: ININF6\nnic-hdl-br: LCJ318\nnserver: ns1.rr64.com.br\nnserver: ns2.rr64.com.br\nstatus: published",
+    "whois_timestamp": 1726477698
+}

@@ -1,0 +1,23 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "lg.tascom.com.br",
+        "phpipam.tascom.com.br",
+        "www.tascom.com.br",
+        "ns2.tascom.com.br",
+        "ns3.tascom.com.br",
+        "ns1.tascom.com.br",
+        "acesso.tascom.com.br",
+        "rt.tascom.com.br",
+        "ns4.tascom.com.br",
+        "bitwarden.tascom.com.br",
+        "test-ipv6.tascom.com.br",
+        "ipv6.tascom.com.br",
+        "status.tascom.com.br",
+        "cloud.tascom.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20200302\nchanged: 20230826\nchanged: 20240222\ncountry: BR\ncreated: 20091104\ncreated: 20110909 #8812418\ncreated: 20150622\ndomain: tascom.com.br\ne-mail: 3c3d334158ebfea1s@tascom.com.br\ne-mail: 662336b0fbfb1acds@me.com\nexpires: 20250909\nnic-hdl-br: AJLDC\nnic-hdl-br: TEMEM\nnserver: austin.ns.cloudflare.com\nnserver: dahlia.ns.cloudflare.com\nstatus: published"
+}

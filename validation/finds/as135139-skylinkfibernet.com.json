@@ -1,0 +1,20 @@
+{
+    "Comodo Valkyrie Verdict category": "media sharing",
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [],
+    "resolutions": [],
+    "response_code": 1,
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "http://as135139-skylinkfibernet.com/",
+            "65f010eb0864527adf0125700b614df57ac67fe5145d60420c80f8c9c74ef2bb",
+            0,
+            79,
+            "2020-09-09 23:06:53"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": null
+}

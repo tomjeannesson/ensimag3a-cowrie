@@ -1,0 +1,33 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.k2network.com.br",
+        "acs.k2network.com.br",
+        "opasuite.k2network.com.br",
+        "api.k2network.com.br",
+        "ns1.k2network.com.br",
+        "stape.k2network.com.br",
+        "speedtest.k2network.com.br",
+        "flow.k2network.com.br",
+        "empresas.k2network.com.br",
+        "oferta.k2network.com.br",
+        "clube.k2network.com.br",
+        "fatura.k2network.com.br",
+        "atendimento.k2network.com.br",
+        "pabxk2.k2network.com.br",
+        "blog.k2network.com.br",
+        "ns2.k2network.com.br",
+        "ftp.k2network.com.br",
+        "mail.k2network.com.br",
+        "pop.k2network.com.br",
+        "servertv.k2network.com.br",
+        "monitoramento.k2network.com.br",
+        "server.k2network.com.br",
+        "sp.k2network.com.br",
+        "pbx.k2network.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20230624\nchanged: 20230804\nchanged: 20231005\ncountry: BR\ncreated: 20020731\ncreated: 20150617\ncreated: 20160624 #15777568\ndomain: k2network.com.br\ne-mail: bee5e3777a310433s@k2network.com.br\ne-mail: e88f743231793c68s@msn.com\nexpires: 20280624\nnic-hdl-br: DFS90\nnic-hdl-br: LDSPE42\nnserver: ns1.locaweb.com.br\nnserver: ns2.locaweb.com.br\nnserver: ns3.locaweb.com.br\nstatus: published"
+}

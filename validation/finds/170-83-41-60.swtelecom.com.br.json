@@ -1,0 +1,21 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "assinante.swtelecom.com.br",
+        "www.swtelecom.com.br",
+        "testador.swtelecom.com.br",
+        "pop.swtelecom.com.br",
+        "autodiscover.swtelecom.com.br",
+        "cpanel.swtelecom.com.br",
+        "webmail.swtelecom.com.br",
+        "webdisk.swtelecom.com.br",
+        "mail.swtelecom.com.br",
+        "conteudo.swtelecom.com.br",
+        "as2.swtelecom.com.br",
+        "as1.swtelecom.com.br"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20191016\nchanged: 20231108\nchanged: 20240302\ncountry: BR\ncreated: 20030522\ncreated: 20090121\ncreated: 20090301 #5290976\ndomain: swtelecom.com.br\ne-mail: 5060eff69b09b35as@swtelecom.com.br\ne-mail: a942fd16b0dfe1b0s@orago.com.br\nexpires: 20270301\nnic-hdl-br: ACSIL4\nnic-hdl-br: RAD152\nnserver: ns1.cloudez.io\nnserver: ns2.cloudez.io\nnserver: ns3.cloudez.io\nnserver: ns4.cloudez.io\nnserver: ns5.cloudez.io\nstatus: published"
+}

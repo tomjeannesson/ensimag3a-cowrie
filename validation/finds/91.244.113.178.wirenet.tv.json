@@ -1,0 +1,16 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.wirenet.tv",
+        "lk.wirenet.tv",
+        "mail.wirenet.tv",
+        "ns2.wirenet.tv",
+        "ns.wirenet.tv",
+        "billing.wirenet.tv",
+        "ns1.wirenet.tv"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Admin City: REDACTED FOR PRIVACY\nAdmin Country: REDACTED FOR PRIVACY\nAdmin Organization: REDACTED FOR PRIVACY\nAdmin Postal Code: REDACTED FOR PRIVACY\nAdmin State/Province: REDACTED FOR PRIVACY\nCreation Date: 2010-08-20T04:09:54Z\nDNSSEC: unsigned\nDomain Name: wirenet.tv\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nName Server: dns1.yandex.ru\nName Server: dns2.yandex.ru\nRegistrant City: 1f8f4166599d23ee\nRegistrant Country: RU\nRegistrant Email: f651612a2f356ad3s@\nRegistrant Fax Ext: 1f8f4166599d23ee\nRegistrant Fax: 1f8f4166599d23ee\nRegistrant Name: 1f8f4166599d23ee\nRegistrant Organization: e383ccdb57abbe95\nRegistrant Phone Ext: 1f8f4166599d23ee\nRegistrant Phone: 1f8f4166599d23ee\nRegistrant Postal Code: 1f8f4166599d23ee\nRegistrant State/Province: 04154ce0aa2604d4\nRegistrant Street: 1f8f4166599d23ee\nRegistrar Abuse Contact Email: Tld-abuse@nic.ru\nRegistrar Abuse Contact Phone: +7.4959944601\nRegistrar IANA ID: 463\nRegistrar URL: www.nic.ru\nRegistrar: Regional Network Information Center, JSC dba RU-CENTER\nRegistry Admin ID: REDACTED FOR PRIVACY\nRegistry Domain ID: REDACTED FOR PRIVACY\nRegistry Expiry Date: 2025-08-20T04:09:54Z\nRegistry Registrant ID: REDACTED FOR PRIVACY\nRegistry Tech ID: REDACTED FOR PRIVACY\nTech City: REDACTED FOR PRIVACY\nTech Country: REDACTED FOR PRIVACY\nTech Organization: REDACTED FOR PRIVACY\nTech Postal Code: REDACTED FOR PRIVACY\nTech State/Province: REDACTED FOR PRIVACY\nUpdated Date: 2024-06-30T07:31:13Z"
+}

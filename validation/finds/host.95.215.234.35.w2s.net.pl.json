@@ -1,0 +1,28 @@
+{
+    "Forcepoint ThreatSeeker category": "information technology",
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.w2s.net.pl",
+        "ebok.w2s.net.pl",
+        "e-bok.w2s.net.pl",
+        "monitoring.w2s.net.pl",
+        "sokolniki.w2s.net.pl",
+        "host-194.150.196.204.w2s.net.pl",
+        "host-194.150.196.131.w2s.net.pl"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "http://host.95.215.234.35.w2s.net.pl/",
+            "666bc525559f12fbc027cb1d5111121d8a9d3de9a08a3649e90a836ea560ac0d",
+            0,
+            82,
+            "2020-12-02 03:51:10"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": "DOMAIN NAME: net.pl\ncreated: 2003.03.25 12:00:00\nlast modified: 2004.02.09 12:24:14\nrenewal date: not defined\ndnssec: Signed"
+}

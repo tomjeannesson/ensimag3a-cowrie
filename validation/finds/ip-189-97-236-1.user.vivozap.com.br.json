@@ -1,0 +1,15 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "dns2.vivozap.com.br"
+    ],
+    "resolutions": [
+        {
+            "ip_address": "15.235.117.122",
+            "last_resolved": "2024-10-16 12:16:20"
+        }
+    ],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "% cert.br, http: c9cebf270ce558d1s@cert.br\nchanged: 20240625\nchanged: 20241127\ncountry: BR\ncreated: 20150214\ncreated: 20230615 #26326960\ndomain: vivozap.com.br\ne-mail: a03b8cf7d6657f26s@obtersoft.com.br\nexpires: 20250615\nnic-hdl-br: OBSOF\nnserver: cartman.ns.cloudflare.com\nnserver: indie.ns.cloudflare.com\nstatus: published"
+}

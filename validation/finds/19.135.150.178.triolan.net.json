@@ -1,0 +1,14 @@
+{
+    "detected_urls": [],
+    "domain_siblings": [
+        "torrents.triolan.net",
+        "forum.triolan.net",
+        "www.triolan.net",
+        ".triolan.net",
+        "ns1.triolan.net"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "verbose_msg": "Domain found in dataset",
+    "whois": "Creation Date: 2007-06-11T10:33:27Z\nDNSSEC: unsigned\nDomain Name: TRIOLAN.NET\nDomain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited\nDomain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited\nDomain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited\nDomain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited\nName Server: NS0.SLOBODA.NET\nName Server: NS1.SLOBODA.NET\nRegistrar Abuse Contact Email: abuse@godaddy.com\nRegistrar Abuse Contact Phone: 480-624-2505\nRegistrar IANA ID: 146\nRegistrar URL: http://www.godaddy.com\nRegistrar WHOIS Server: whois.godaddy.com\nRegistrar: GoDaddy.com, LLC\nRegistry Domain ID: 1022037786_DOMAIN_NET-VRSN\nRegistry Expiry Date: 2025-06-11T10:33:27Z\nUpdated Date: 2024-06-12T11:29:52Z"
+}

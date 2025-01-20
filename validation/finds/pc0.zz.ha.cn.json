@@ -1,0 +1,55 @@
+{
+    "BitDefender domain info": "This URL domain/host was seen to host badware at some point in time",
+    "Forcepoint ThreatSeeker category": "search engines and portals",
+    "Webutation domain info": {
+        "Adult content": "no",
+        "Safety score": 70,
+        "Verdict": "unsure"
+    },
+    "detected_communicating_samples": [
+        {
+            "date": "2020-03-22 01:31:20",
+            "positives": 60,
+            "sha256": "294041abd1fcc3a4fdee1248bafe30239b947ba30549adb2d0450acb6b8dbe83",
+            "total": 75
+        },
+        {
+            "date": "2020-03-09 11:30:37",
+            "positives": 29,
+            "sha256": "475f73bc711e94afd7bd810fc519e3c9b5532709bd839bea11c96ad921f67e01",
+            "total": 75
+        }
+    ],
+    "detected_downloaded_samples": [],
+    "detected_urls": [],
+    "domain_siblings": [
+        "www.zz.ha.cn",
+        "v1-wo.zz.ha.cn",
+        "speed.zz.ha.cn"
+    ],
+    "pcaps": [
+        "d0e091605a81cba210769ca8c8acd3a04996d223351da9f043c502b8a40a8496"
+    ],
+    "resolutions": [],
+    "response_code": 1,
+    "undetected_communicating_samples": [],
+    "undetected_downloaded_samples": [],
+    "undetected_urls": [
+        [
+            "https://pc0.zz.ha.cn/",
+            "1008c7f2db86e5dce710dd4e6be500d2428f56cf583297103ea124de5025e902",
+            0,
+            92,
+            "2024-05-07 16:31:55"
+        ],
+        [
+            "http://pc0.zz.ha.cn/",
+            "c9410ef97012b8b87477727b164964dbb5bd1b9f722a8f2ee046c6a7cb773f86",
+            0,
+            91,
+            "2024-01-23 14:40:14"
+        ]
+    ],
+    "verbose_msg": "Domain found in dataset",
+    "whois": ""
+}
